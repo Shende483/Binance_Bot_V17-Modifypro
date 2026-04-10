@@ -1,0 +1,5091 @@
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +23ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTradingBotModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mDiscoveryModule dependencies initialized[39m[38;5;3m +1ms[39m
+✅ Successfully connected to MongoDB Atlas
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mJwtModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mJwtModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mScheduleModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mWebsocketModule dependencies initialized[39m[38;5;3m +12ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseCoreModule dependencies initialized[39m[38;5;3m +167ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAuthModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "refresh-data" message[39m[38;5;3m +14ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "order-preflight" message[39m[38;5;3m +1ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "place-full-order" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "close-position" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "set-block-status" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "add-margin" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "activate-burst" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "deactivate-burst" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "get-symbols" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "modify-order" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAuthController {/auth}:[39m[38;5;3m +2ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/signup, POST} route[39m[38;5;3m +2ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/login, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/verify-token, GET} route[39m[38;5;3m +0ms[39m
+[68d3f007099f9de77119b413] Subscribed 1m klines for 480 symbols
+[32m[Nest] 77032  - [39m03/16/2026, 4:58:44 PM [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +386ms[39m
+✅ Server running on 3012 
+[
+  'Websocket connected',
+  {
+    category: 'binance-ws',
+    wsKey: 'usdm_userData__ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI_usdm'
+  }
+]
+[68d3f007099f9de77119b413] WS opened
+[ 'Websocket connected', { category: 'binance-ws', wsKey: 'usdm' } ]
+[68d3f007099f9de77119b413] WS opened
+[
+  `High topic count warning: subscribing to 480 topics for wsKey "usdm". You may encounter exchange rate limits and performance degradation. Consider reducing the number of subscriptions as Binance has "max topics per connection" limits. If you're repeatedly disconnected by Binance, split your topics per connection by making multiple WebsocketClient instances.`,
+  { category: 'binance-ws', wsKey: 'usdm', topicCount: 480 }
+]
+[68d3f007099f9de77119b413] TRAILING RESTORED → AXSUSDT SHORT | Mode: SWING (2%→0.4%)
+[68d3f007099f9de77119b413] TRAILING RESTORED → BNBUSDT SHORT | Mode: SWING (2%→0.4%)
+[68d3f007099f9de77119b413] TRAILING RESTORED → BNBUSDT SHORT | Mode: SWING (2%→0.4%)
+[68d3f007099f9de77119b413] TRAILING RESTORED → BNBUSDT SHORT | Mode: SWING (2%→0.4%)
+[68d3f007099f9de77119b413] Bot state fully restored — trailing active on all positions
+[68d3f007099f9de77119b413] AXSUSDT SHORT | Position: -81 | Valid Bot PAIR Qty: 81
+[68d3f007099f9de77119b413] No excess qty on AXSUSDT SHORT, only cleaned ghost orders
+[68d3f007099f9de77119b413] BNBUSDT SHORT | Position: -0.55 | Valid Bot PAIR Qty: 0.55
+[68d3f007099f9de77119b413] No excess qty on BNBUSDT SHORT, only cleaned ghost orders
+udfh {
+  _id: new ObjectId('68d3f007099f9de77119b413'),
+  email: 'rahulshende483@gmail.com',
+  mobile: '9881037846',
+  password: '12312',
+  firstName: 'rahul',
+  lastName: 'shende',
+  createdAt: 2025-09-24T13:20:07.506Z,
+  updatedAt: 2025-09-24T13:20:07.506Z,
+  __v: 0
+}
+fjjfjjf 9881037846 12312
+Client connecting: 7I-5eIMQwcgChb7CAAAB with accountId: default
+[32m[Nest] 77032  - [39m03/16/2026, 4:59:48 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MzY4MDM4NywiZXhwIjoxNzc3MTM2Mzg3fQ.jHaCBWYXjkTDL0WlX2v6og7ddZv7jFbvXmcfCavTA48[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 77032  - [39m03/16/2026, 4:59:48 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 7I-5eIMQwcgChb7CAAAB[39m
+Client connecting: 1ZZAK5ncypLydzi0AAAD with accountId: default
+[32m[Nest] 77032  - [39m03/16/2026, 4:59:48 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MzY4MDM4NywiZXhwIjoxNzc3MTM2Mzg3fQ.jHaCBWYXjkTDL0WlX2v6og7ddZv7jFbvXmcfCavTA48[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[68d3f007099f9de77119b413] UNWANTED ENTRY → AXSUSDT undefined x-15PC4ZJy_Xcdr_sl-f9d5a6b01f354b → KILLING
+bearish engulfing top on ROBOUSDT
+bearish engulfing top on STEEMUSDT
+bullish harami top on STEEMUSDT
+bullish inside bar on STEEMUSDT
+bullish inside bar on MEWUSDT
+bullish inside bar on CVCUSDT
+bullish inside bar on AKTUSDT
+bullish inside bar on NEIROUSDT
+bullish inside bar on ARUSDT
+bullish engulfinfg top on KERNELUSDT
+bullish inside bar on LISTAUSDT
+bullish inside bar on BEAMXUSDT
+bullish inside bar on ROSEUSDT
+[32m[Nest] 77032  - [39m03/16/2026, 5:02:52 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 1ZZAK5ncypLydzi0AAAD[39m
+bullish engulfinfg top on ENSOUSDT
+bullish inside bar on TRUSTUSDT
+bullish inside bar on MAVIAUSDT
+bullish engulfinfg top on COAIUSDT
+bullish engulfinfg top on TONUSDT
+bullish inside bar on TRUSTUSDT
+bearish inside bar on MONUSDT
+bullish inside bar on GRTUSDT
+bullish inside bar on SANDUSDT
+bullish inside bar on ELSAUSDT
+bullish inside bar on RDNTUSDT
+bullish inside bar on EULUSDT
+Client connecting: mSyODbXhT2QvVUIMAAAF with accountId: default
+[32m[Nest] 77032  - [39m03/16/2026, 5:04:33 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MjgwNTMyNywiZXhwIjoxNzc2MjYxMzI3fQ.KtOLGxWQLpHN_vtIeZXvNfBQvPkr0XNqoRlvTHD8oGo[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 77032  - [39m03/16/2026, 5:04:34 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: mSyODbXhT2QvVUIMAAAF[39m
+Client connecting: BoliUTjPV-hJChEJAAAH with accountId: default
+[32m[Nest] 77032  - [39m03/16/2026, 5:04:34 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MjgwNTMyNywiZXhwIjoxNzc2MjYxMzI3fQ.KtOLGxWQLpHN_vtIeZXvNfBQvPkr0XNqoRlvTHD8oGo[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 77032  - [39m03/16/2026, 5:04:59 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: BoliUTjPV-hJChEJAAAH[39m
+bearish inside bar on LDOUSDT
+bearish inside bar on BTCUSDT
+bearish inside bar on ADAUSDT
+bearish inside bar on LINKUSDT
+bearish inside bar on BCHUSDT
+bearish inside bar on DOGEUSDT
+bearish inside bar on HYPEUSDT
+bearish inside bar on SUIUSDT
+bearish inside bar on AVAXUSDT
+bearish inside bar on PENGUUSDT
+bearish inside bar on BNBUSDT
+bearish inside bar on LTCUSDT
+bearish inside bar on RAYSOLUSDT
+bearish inside bar on CHZUSDT
+bearish inside bar on BERAUSDT
+bearish inside bar on LRCUSDT
+bearish inside bar on ARCUSDT
+checking higher tf 1h for LDOUSDT bullish=false
+bearish inside bar on SPACEUSDT
+bearish inside bar on LINKUSDT
+bearish inside bar on LTCUSDT
+checking higher tf 1h for BTCUSDT bullish=false
+checking higher tf 1h for BCHUSDT bullish=false
+checking higher tf 1h for DOGEUSDT bullish=false
+bearish inside bar on LRCUSDT
+bearish inside bar on BTCUSDT
+bearish inside bar on SLPUSDT
+bearish inside bar on MITOUSDT
+checking higher tf 1h for BNBUSDT bullish=false
+bearish inside bar on BCHUSDT
+bearish inside bar on DOGEUSDT
+bearish inside bar on BNBUSDT
+bearish inside bar on JSTUSDT
+bearish inside bar on 1000RATSUSDT
+checking higher tf 1h for MITOUSDT bullish=false
+bearish inside bar on MITOUSDT
+bearish inside bar on TAKEUSDT
+bullish inside bar on BREVUSDT
+bullish inside bar on BREVUSDT
+bearish inside bar on MAGMAUSDT
+bearish inside bar on CLOUSDT
+bullish inside bar on ATUSDT
+bullish engulfinfg top on HIPPOUSDT
+bullish inside bar on ETHFIUSDT
+bullish engulfinfg top on PENDLEUSDT
+bearish engulfing top on DRIFTUSDT
+bullish engulfinfg top on DOTUSDT
+bullish inside bar on AIXBTUSDT
+bullish inside bar on AIXBTUSDT
+bullish inside bar on ETCUSDT
+bullish inside bar on POLUSDT
+bullish inside bar on KSMUSDT
+bullish engulfinfg top on RENDERUSDT
+bullish inside bar on KSMUSDT
+bullish inside bar on MOVEUSDT
+bullish inside bar on QNTUSDT
+bullish inside bar on MOVEUSDT
+bullish engulfinfg top on AAVEUSDT
+bullish inside bar on MOVEUSDT
+bullish inside bar on FFUSDT
+bullish inside bar on RECALLUSDT
+bullish inside bar on LQTYUSDT
+bullish inside bar on ICNTUSDT
+bearish engulfing top on NOMUSDT
+bullish harami top on NOMUSDT
+bullish inside bar on NOMUSDT
+bearish inside bar on GWEIUSDT
+bearish engulfing top on ACXUSDT
+bullish inside bar on CCUSDT
+bearish inside bar on GWEIUSDT
+bullish harami top on ACXUSDT
+bullish inside bar on ACXUSDT
+bearish inside bar on FLOWUSDT
+bearish inside bar on A2ZUSDT
+bearish inside bar on HUSDT
+checking higher tf 1h for A2ZUSDT bullish=false
+bearish inside bar on CATIUSDT
+bearish engulfing top on GPSUSDT
+bullish harami top on GPSUSDT
+bullish inside bar on GPSUSDT
+bearish spinning top on 1000PEPEUSDT
+Inverse Hammer detected on HUMAUSDT
+Hammer detected on AZTECUSDT
+bullish spinning top on KERNELUSDT
+bullish spinning top on TRUMPUSDT
+bullish spinning top on DOODUSDT
+bullish inside bar on EPICUSDT
+bearish inside bar on ETHFIUSDT
+bullish inside bar on QUSDT
+checking higher tf 1h for ETHFIUSDT bullish=false
+bullish spinning top on NEIROUSDT
+bearish harami top on 1000CHEEMSUSDT
+bearish inside bar on 1000CHEEMSUSDT
+bearish inside bar on CHZUSDT
+bullish inside bar on BIOUSDT
+bullish inside bar on ICPUSDT
+bullish engulfinfg top on IOUSDT
+bearish inside bar on B2USDT
+bullish inside bar on ENSOUSDT
+bullish inside bar on ENSOUSDT
+bullish inside bar on SUNUSDT
+bullish inside bar on SOPHUSDT
+bullish inside bar on SUNUSDT
+bullish inside bar on CYBERUSDT
+bearish inside bar on TAOUSDT
+bearish engulfing top on STGUSDT
+bullish inside bar on AAVEUSDT
+bearish inside bar on SENTUSDT
+checking higher tf 1h for SENTUSDT bullish=false
+bullish inside bar on ALTUSDT
+bullish inside bar on FRAXUSDT
+bullish inside bar on MANTAUSDT
+bearish engulfing top on POLUSDT
+bearish inside bar on GUAUSDT
+bullish inside bar on ATOMUSDT
+bearish inside bar on EIGENUSDT
+bullish inside bar on NILUSDT
+bullish inside bar on RENDERUSDT
+bullish engulfinfg top on ONUSDT
+bullish inside bar on EPICUSDT
+bearish inside bar on EIGENUSDT
+bullish inside bar on 0GUSDT
+bullish inside bar on LTCUSDT
+bullish inside bar on ALCHUSDT
+bullish inside bar on TONUSDT
+bearish inside bar on KITEUSDT
+bullish inside bar on PENGUUSDT
+bullish inside bar on SANDUSDT
+bullish inside bar on APTUSDT
+bullish inside bar on BRETTUSDT
+bullish inside bar on AUCTIONUSDT
+bullish inside bar on AUCTIONUSDT
+bullish inside bar on MMTUSDT
+bullish inside bar on KSMUSDT
+bullish inside bar on PAXGUSDT
+bullish inside bar on MASKUSDT
+bullish inside bar on FORMUSDT
+bullish inside bar on FORMUSDT
+bullish engulfinfg top on ICNTUSDT
+bullish inside bar on JELLYJELLYUSDT
+bearish engulfing top on CFXUSDT
+bullish inside bar on JELLYJELLYUSDT
+bullish inside bar on ENSOUSDT
+bullish harami top on CFXUSDT
+bullish inside bar on JELLYJELLYUSDT
+bullish engulfinfg top on BROCCOLIF3BUSDT
+bearish inside bar on BLUAIUSDT
+bullish engulfinfg top on MANTAUSDT
+bullish inside bar on CFXUSDT
+bullish inside bar on API3USDT
+bullish inside bar on NIGHTUSDT
+bearish inside bar on FLUIDUSDT
+bullish inside bar on CFXUSDT
+bullish inside bar on CFXUSDT
+bearish inside bar on DEGENUSDT
+bearish inside bar on CYSUSDT
+bearish inside bar on B2USDT
+bearish inside bar on DEGENUSDT
+bearish inside bar on RAVEUSDT
+bullish inside bar on TRUTHUSDT
+bearish inside bar on SCRUSDT
+bearish inside bar on FOGOUSDT
+checking higher tf 1h for FOGOUSDT bullish=false
+bearish inside bar on FOGOUSDT
+bearish inside bar on 1000000MOGUSDT
+bearish inside bar on CAKEUSDT
+bearish inside bar on GUAUSDT
+bullish inside bar on SPACEUSDT
+bullish inside bar on HYPEUSDT
+bearish inside bar on CHZUSDT
+bullish engulfinfg top on ALCHUSDT
+bearish inside bar on STBLUSDT
+bullish inside bar on BREVUSDT
+bearish inside bar on BOBUSDT
+checking higher tf 1h for BOBUSDT bullish=false
+bearish inside bar on BOBUSDT
+bearish inside bar on TAOUSDT
+bearish inside bar on BARDUSDT
+bearish inside bar on OPNUSDT
+bearish inside bar on PHBUSDT
+bearish inside bar on BERAUSDT
+checking higher tf 1h for BERAUSDT bullish=false
+bearish inside bar on HOMEUSDT
+bearish inside bar on MEGAUSDT
+bearish inside bar on FHEUSDT
+bearish inside bar on OLUSDT
+bearish inside bar on AUCTIONUSDT
+bearish inside bar on BICOUSDT
+bearish inside bar on FHEUSDT
+bullish inside bar on THEUSDT
+bullish inside bar on THEUSDT
+bearish inside bar on LITUSDT
+bearish inside bar on STEEMUSDT
+bearish inside bar on SUSDT
+bearish inside bar on ARUSDT
+bullish inside bar on ROBOUSDT
+bullish inside bar on ROBOUSDT
+bullish inside bar on RLCUSDT
+bullish inside bar on SOLUSDT
+bullish inside bar on MEMEUSDT
+bullish inside bar on FIGHTUSDT
+bearish inside bar on ALLOUSDT
+bullish inside bar on TRUTHUSDT
+bullish inside bar on TRUTHUSDT
+bullish inside bar on AIOUSDT
+bearish inside bar on KMNOUSDT
+bearish inside bar on RECALLUSDT
+bullish inside bar on AAVEUSDT
+bullish engulfinfg top on 1000PEPEUSDT
+bullish inside bar on HYPEUSDT
+bearish engulfing top on SANDUSDT
+bullish inside bar on FHEUSDT
+bullish inside bar on INITUSDT
+bullish inside bar on INJUSDT
+bullish inside bar on BANUSDT
+bearish inside bar on STABLEUSDT
+bullish inside bar on CUSDT
+bearish inside bar on STABLEUSDT
+bearish inside bar on DEXEUSDT
+bullish inside bar on ICNTUSDT
+bearish inside bar on BTCDOMUSDT
+bullish inside bar on AIAUSDT
+bullish inside bar on BNTUSDT
+bullish inside bar on 1000BONKUSDT
+bullish inside bar on ENAUSDT
+bullish inside bar on QUSDT
+bearish inside bar on KATUSDT
+bullish inside bar on GRASSUSDT
+bearish inside bar on AZTECUSDT
+bearish inside bar on SKYAIUSDT
+bearish inside bar on DUSDT
+bearish inside bar on DRIFTUSDT
+bullish inside bar on DASHUSDT
+bullish inside bar on BERAUSDT
+bearish inside bar on JASMYUSDT
+bullish inside bar on TRUMPUSDT
+bullish inside bar on THEUSDT
+bullish inside bar on THEUSDT
+bullish inside bar on RLCUSDT
+bullish inside bar on RLCUSDT
+bearish inside bar on DEGENUSDT
+bullish inside bar on HYPEUSDT
+bullish inside bar on INXUSDT
+bearish inside bar on APTUSDT
+bullish inside bar on MUSDT
+bullish engulfinfg top on PLAYUSDT
+bullish inside bar on LAYERUSDT
+bullish inside bar on MEGAUSDT
+bullish inside bar on MITOUSDT
+bullish inside bar on SCRUSDT
+bearish inside bar on JCTUSDT
+bullish inside bar on AERGOUSDT
+bullish inside bar on SCRUSDT
+checking higher tf 1h for JCTUSDT bullish=false
+bullish inside bar on STABLEUSDT
+bullish inside bar on SAGAUSDT
+bearish engulfing top on AUCTIONUSDT
+bullish inside bar on KGENUSDT
+bullish inside bar on KGENUSDT
+bullish inside bar on KOMAUSDT
+bearish inside bar on BANKUSDT
+bullish inside bar on BCHUSDT
+bullish inside bar on PENDLEUSDT
+bullish inside bar on BCHUSDT
+bullish inside bar on BNBUSDT
+bullish inside bar on GRASSUSDT
+bullish inside bar on GMXUSDT
+bearish inside bar on DOGEUSDT
+bullish inside bar on MANTRAUSDT
+bearish inside bar on ADAUSDT
+bearish inside bar on GOATUSDT
+bearish inside bar on JSTUSDT
+bearish inside bar on GRTUSDT
+bearish inside bar on GRTUSDT
+bearish inside bar on MERLUSDT
+bearish harami top on MANTAUSDT
+Hammer detected on AZTECUSDT
+bearish inside bar on BNBUSDT
+bearish inside bar on MANTAUSDT
+bearish inside bar on TRXUSDT
+bearish harami top on STABLEUSDT
+bearish inside bar on TRXUSDT
+bearish inside bar on STABLEUSDT
+checking higher tf 1h for MANTAUSDT bullish=false
+bearish inside bar on TRXUSDT
+bullish inside bar on BRETTUSDT
+bullish spinning top on TRUMPUSDT
+bullish engulfinfg top on BIRBUSDT
+bearish inside bar on LTCUSDT
+bearish inside bar on LTCUSDT
+bullish inside bar on AXLUSDT
+Inverse Hammer detected on HUMAUSDT
+bullish inside bar on MEGAUSDT
+bullish inside bar on MITOUSDT
+bearish engulfing top on RAVEUSDT
+bearish inside bar on HEMIUSDT
+bearish inside bar on AKTUSDT
+bullish inside bar on INXUSDT
+bullish inside bar on INXUSDT
+bullish engulfinfg top on PIXELUSDT
+bullish engulfinfg top on LISTAUSDT
+bearish inside bar on CCUSDT
+bearish inside bar on FIGHTUSDT
+Client connecting: ZtjLl9yy8i5Bbs09AAAJ with accountId: default
+[32m[Nest] 77032  - [39m03/16/2026, 5:31:28 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MjgwNTMyNywiZXhwIjoxNzc2MjYxMzI3fQ.KtOLGxWQLpHN_vtIeZXvNfBQvPkr0XNqoRlvTHD8oGo[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 77032  - [39m03/16/2026, 5:31:28 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: ZtjLl9yy8i5Bbs09AAAJ[39m
+Client connecting: ecEtWyWPQ8xAyf7IAAAL with accountId: default
+[32m[Nest] 77032  - [39m03/16/2026, 5:31:28 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MjgwNTMyNywiZXhwIjoxNzc2MjYxMzI3fQ.KtOLGxWQLpHN_vtIeZXvNfBQvPkr0XNqoRlvTHD8oGo[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 77032  - [39m03/16/2026, 5:31:35 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: ecEtWyWPQ8xAyf7IAAAL[39m
+[68d3f007099f9de77119b413] UNWANTED ENTRY → BNBUSDT undefined x-15PC4ZJy_Xcdr_sl-6ed12cb74ef741 → KILLING
+[68d3f007099f9de77119b413] UNWANTED ENTRY → BNBUSDT undefined x-15PC4ZJy_Xcdr_sl-2c7cab20adc042 → KILLING
+AUTO MARGIN ADDED → BNBUSDT SHORT | +0.63)
+[68d3f007099f9de77119b413] BNBUSDT SHORT | Position: -0.17 | Valid Bot PAIR Qty: 0.17
+[68d3f007099f9de77119b413] CANCEL USER GHOST SL/TP → x-15PC4ZJy_Xcdr_tp-6ed12cb74ef741 (TAKE_PROFIT_MARKET) Qty:0.21
+[68d3f007099f9de77119b413] CANCEL USER GHOST SL/TP → x-15PC4ZJy_Xcdr_tp-2c7cab20adc042 (TAKE_PROFIT_MARKET) Qty:0.17
+[68d3f007099f9de77119b413] No excess qty on BNBUSDT SHORT, only cleaned ghost orders
+AUTO MARGIN ADDED → BNBUSDT SHORT | +0.50)
+[68d3f007099f9de77119b413] BNBUSDT SHORT | Position: -0.17 | Valid Bot PAIR Qty: 0.17
+[68d3f007099f9de77119b413] No excess qty on BNBUSDT SHORT, only cleaned ghost orders
+bullish inside bar on ETHUSDT
+bullish inside bar on KMNOUSDT
+bullish inside bar on FLOCKUSDT
+bullish inside bar on DEGENUSDT
+checking higher tf 1h for DEGENUSDT bullish=true
+bullish inside bar on ETHFIUSDT
+bullish inside bar on DEEPUSDT
+bullish inside bar on MINAUSDT
+bearish inside bar on POWERUSDT
+bearish inside bar on FARTCOINUSDT
+bearish inside bar on FHEUSDT
+bearish inside bar on FARTCOINUSDT
+bullish inside bar on INJUSDT
+bullish inside bar on ATOMUSDT
+bullish inside bar on SIGNUSDT
+checking higher tf 1h for SIGNUSDT bullish=true
+bearish inside bar on ESPUSDT
+bearish inside bar on MONUSDT
+bearish inside bar on CCUSDT
+bearish inside bar on BNTUSDT
+bearish inside bar on GWEIUSDT
+bearish inside bar on PAXGUSDT
+bullish inside bar on BDXNUSDT
+bearish inside bar on FUNUSDT
+bearish inside bar on RLCUSDT
+checking higher tf 1h for BNTUSDT bullish=false
+bullish inside bar on BDXNUSDT
+checking higher tf 1h for PAXGUSDT bullish=false
+bullish inside bar on AGLDUSDT
+bullish inside bar on ROSEUSDT
+bearish harami top on ALTUSDT
+bearish inside bar on ALTUSDT
+bearish harami top on TRUTHUSDT
+bearish inside bar on TRUTHUSDT
+bearish inside bar on SEIUSDT
+bearish harami top on TRUUSDT
+bullish inside bar on SPORTFUNUSDT
+bearish inside bar on RLSUSDT
+bullish inside bar on PUNDIXUSDT
+bullish inside bar on SOLVUSDT
+bearish inside bar on TRUUSDT
+checking higher tf 1h for TRUTHUSDT bullish=false
+checking higher tf 1h for SEIUSDT bullish=false
+bearish inside bar on DEXEUSDT
+bearish inside bar on DEXEUSDT
+bullish inside bar on SAPIENUSDT
+bullish inside bar on HFTUSDT
+bullish inside bar on NIGHTUSDT
+bullish inside bar on MASKUSDT
+bullish inside bar on MASKUSDT
+bullish inside bar on SPORTFUNUSDT
+bullish inside bar on TAKEUSDT
+bearish engulfing top on PENGUUSDT
+bearish engulfing top on INJUSDT
+bearish engulfing top on LUNA2USDT
+bearish engulfing top on NEIROUSDT
+bullish harami top on PENGUUSDT
+bullish harami top on NEIROUSDT
+bearish engulfing top on TRBUSDT
+bearish engulfing top on ADAUSDT
+bullish inside bar on APRUSDT
+bearish engulfing top on DOGEUSDT
+bullish inside bar on PENGUUSDT
+bullish inside bar on NEIROUSDT
+bullish inside bar on LDOUSDT
+bullish inside bar on KAIAUSDT
+bearish engulfing top on ASTERUSDT
+bearish engulfing top on 1000BONKUSDT
+bullish harami top on TRBUSDT
+bullish inside bar on CAKEUSDT
+bullish inside bar on TRBUSDT
+bullish harami top on 1000BONKUSDT
+bearish engulfing top on DUSKUSDT
+bullish inside bar on 1000BONKUSDT
+bullish harami top on DUSKUSDT
+bullish inside bar on DUSKUSDT
+bullish engulfinfg top on 1000CHEEMSUSDT
+bearish engulfing top on PNUTUSDT
+bearish engulfing top on DEEPUSDT
+bullish inside bar on AVNTUSDT
+bullish inside bar on DIAUSDT
+bullish inside bar on BASUSDT
+bullish inside bar on CVXUSDT
+bullish inside bar on BTCUSDT
+bullish inside bar on SAGAUSDT
+bearish inside bar on POWERUSDT
+bearish inside bar on KATUSDT
+bullish inside bar on APTUSDT
+bullish inside bar on CVXUSDT
+bullish inside bar on DOTUSDT
+bullish inside bar on SOMIUSDT
+bullish inside bar on TRUUSDT
+bearish engulfing top on INITUSDT
+bullish inside bar on ACHUSDT
+bullish inside bar on GMXUSDT
+bullish engulfinfg top on TAOUSDT
+bullish inside bar on SKYAIUSDT
+bullish inside bar on SOLUSDT
+bullish inside bar on ATOMUSDT
+bearish inside bar on BUSDT
+bearish inside bar on BABYUSDT
+bullish inside bar on DEGENUSDT
+bearish inside bar on STBLUSDT
+bullish inside bar on ATUSDT
+bearish engulfing top on TIAUSDT
+bullish inside bar on JSTUSDT
+bullish harami top on TIAUSDT
+bullish inside bar on TIAUSDT
+bullish inside bar on SHELLUSDT
+bullish inside bar on RAREUSDT
+bullish inside bar on RAREUSDT
+bullish inside bar on GMXUSDT
+bullish inside bar on FIDAUSDT
+bullish inside bar on BICOUSDT
+bullish inside bar on FLUIDUSDT
+bearish inside bar on AIOUSDT
+bearish engulfing top on NEWTUSDT
+bullish inside bar on BOBUSDT
+bearish inside bar on BLESSUSDT
+[68d3f007099f9de77119b413] UNWANTED ENTRY → BNBUSDT undefined x-15PC4ZJy_Xcdr_sl-76cb3c4dc20d4e → KILLING
+bullish inside bar on EULUSDT
+bearish inside bar on RAVEUSDT
+bullish inside bar on INITUSDT
+checking higher tf 1h for RAVEUSDT bullish=false
+bullish inside bar on GLMUSDT
+bullish inside bar on 1000RATSUSDT
+bullish inside bar on SAHARAUSDT
+bullish inside bar on NILUSDT
+bullish inside bar on SFPUSDT
+bullish inside bar on KASUSDT
+bearish engulfing top on PIXELUSDT
+bullish inside bar on REZUSDT
+bullish harami top on PIXELUSDT
+bullish inside bar on PIXELUSDT
+bullish inside bar on GRIFFAINUSDT
+bullish inside bar on FHEUSDT
+bullish inside bar on CCUSDT
+bullish inside bar on FHEUSDT
+bullish inside bar on FHEUSDT
+bullish inside bar on FHEUSDT
+bearish inside bar on KITEUSDT
+bearish inside bar on BANUSDT
+bullish inside bar on NEOUSDT
+bullish engulfinfg top on ICNTUSDT
+bullish inside bar on POPCATUSDT
+bullish inside bar on POPCATUSDT
+bearish inside bar on JASMYUSDT
+bullish inside bar on HOMEUSDT
+bullish engulfinfg top on SLPUSDT
+bullish inside bar on HFTUSDT
+bullish inside bar on POLYXUSDT
+bullish engulfinfg top on PUFFERUSDT
+bullish inside bar on AVAAIUSDT
+bullish inside bar on AVAAIUSDT
+bullish inside bar on POLYXUSDT
+bullish inside bar on AVAAIUSDT
+bearish inside bar on FLOWUSDT
+bearish inside bar on SPACEUSDT
+bearish inside bar on PLUMEUSDT
+bullish inside bar on JCTUSDT
+bullish inside bar on JCTUSDT
+bullish inside bar on JCTUSDT
+bearish inside bar on SAPIENUSDT
+bearish inside bar on TRUSTUSDT
+bearish inside bar on MORPHOUSDT
+bearish inside bar on MORPHOUSDT
+bearish inside bar on CAKEUSDT
+bullish inside bar on LTCUSDT
+bearish inside bar on DODOXUSDT
+bullish inside bar on NXPCUSDT
+bearish inside bar on 1000LUNCUSDT
+bearish inside bar on TRUUSDT
+bearish inside bar on 1000LUNCUSDT
+bearish inside bar on MEGAUSDT
+bearish engulfing top on AWEUSDT
+bearish inside bar on MIRAUSDT
+bearish inside bar on MEGAUSDT
+checking higher tf 1h for MIRAUSDT bullish=false
+bearish inside bar on MIRAUSDT
+bearish inside bar on MIRAUSDT
+bearish inside bar on MIRAUSDT
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+bullish inside bar on A2ZUSDT
+bullish inside bar on GRASSUSDT
+bullish inside bar on BLUAIUSDT
+bullish inside bar on A2ZUSDT
+bullish inside bar on ENJUSDT
+bullish inside bar on TOSHIUSDT
+bullish inside bar on EULUSDT
+bullish inside bar on B2USDT
+bullish inside bar on 1000RATSUSDT
+bullish inside bar on BROCCOLIF3BUSDT
+bullish inside bar on SAHARAUSDT
+bearish inside bar on KERNELUSDT
+bullish inside bar on SAHARAUSDT
+bearish inside bar on SKYUSDT
+bearish harami top on AVAXUSDT
+bearish inside bar on AVAXUSDT
+bearish inside bar on SXTUSDT
+bearish harami top on SUIUSDT
+checking higher tf 1h for SKYUSDT bullish=false
+bearish inside bar on SXTUSDT
+bearish inside bar on SUIUSDT
+checking higher tf 1h for AVAXUSDT bullish=false
+bearish harami top on HYPEUSDT
+bearish inside bar on HYPEUSDT
+bearish inside bar on BICOUSDT
+bearish inside bar on BICOUSDT
+bearish inside bar on CYSUSDT
+bearish inside bar on MAGICUSDT
+bearish inside bar on SKRUSDT
+bearish inside bar on BTRUSDT
+bearish inside bar on MAGICUSDT
+bearish inside bar on COAIUSDT
+bearish inside bar on ENJUSDT
+checking higher tf 1h for ENJUSDT bullish=false
+bearish inside bar on ENJUSDT
+bearish inside bar on PTBUSDT
+bullish inside bar on ALPINEUSDT
+bearish inside bar on PTBUSDT
+bearish engulfing top on FORMUSDT
+bullish harami top on FORMUSDT
+bullish inside bar on FORMUSDT
+bullish engulfinfg top on ARIAUSDT
+bearish engulfing top on PLAYUSDT
+bearish inside bar on DUSKUSDT
+bullish inside bar on COSUSDT
+bullish inside bar on COSUSDT
+bullish inside bar on MANTRAUSDT
+bearish inside bar on TAGUSDT
+bearish engulfing top on SLPUSDT
+bearish inside bar on BARDUSDT
+bullish inside bar on BTCUSDT
+bearish inside bar on ACEUSDT
+bearish inside bar on RAVEUSDT
+bearish inside bar on ACEUSDT
+bullish inside bar on ALPINEUSDT
+bearish harami top on DOODUSDT
+bullish inside bar on PIXELUSDT
+bullish inside bar on ICNTUSDT
+bullish inside bar on AKTUSDT
+bearish inside bar on DOODUSDT
+bearish harami top on FARTCOINUSDT
+bearish inside bar on LINEAUSDT
+bullish inside bar on GLMUSDT
+bullish inside bar on AKTUSDT
+bullish inside bar on CFXUSDT
+bearish inside bar on FARTCOINUSDT
+checking higher tf 1h for LINEAUSDT bullish=false
+bearish inside bar on COOKIEUSDT
+bearish inside bar on KAITOUSDT
+bearish harami top on BRETTUSDT
+bullish inside bar on MERLUSDT
+bearish inside bar on ENAUSDT
+bearish inside bar on BRETTUSDT
+bearish inside bar on SPACEUSDT
+checking higher tf 1h for ENAUSDT bullish=false
+bearish inside bar on SPACEUSDT
+bearish inside bar on STEEMUSDT
+bearish inside bar on B2USDT
+bullish inside bar on BARDUSDT
+bullish inside bar on RSRUSDT
+checking higher tf 1h for BARDUSDT bullish=true
+checking higher tf 1h for RSRUSDT bullish=true
+bullish inside bar on RSRUSDT
+bullish inside bar on NIGHTUSDT
+bearish inside bar on MAGMAUSDT
+bullish inside bar on SFPUSDT
+bullish inside bar on SFPUSDT
+bullish inside bar on 4USDT
+checking higher tf 1h for 4USDT bullish=true
+bullish inside bar on 4USDT
+bearish inside bar on AINUSDT
+bullish inside bar on RUNEUSDT
+bullish inside bar on PENGUUSDT
+bullish inside bar on BOMEUSDT
+bearish inside bar on POWERUSDT
+bullish inside bar on PENDLEUSDT
+bullish inside bar on TNSRUSDT
+bearish inside bar on DASHUSDT
+bullish inside bar on TNSRUSDT
+bullish inside bar on BNBUSDT
+bullish inside bar on BUSDT
+bullish inside bar on BNBUSDT
+bullish inside bar on 1000SHIBUSDT
+bullish inside bar on STEEMUSDT
+bullish inside bar on MOODENGUSDT
+bullish inside bar on CAKEUSDT
+bullish inside bar on BANKUSDT
+bearish harami top on BTCDOMUSDT
+bearish inside bar on BTCDOMUSDT
+bullish engulfinfg top on TAOUSDT
+bearish inside bar on ARCUSDT
+bearish inside bar on ASTERUSDT
+bearish inside bar on ARCUSDT
+bearish inside bar on MERLUSDT
+bearish inside bar on MERLUSDT
+bearish inside bar on CETUSUSDT
+bullish inside bar on AVAXUSDT
+bullish inside bar on ETHUSDT
+bullish inside bar on ADAUSDT
+bullish inside bar on KMNOUSDT
+bearish harami top on PAXGUSDT
+bearish inside bar on STBLUSDT
+bullish inside bar on SAFEUSDT
+bullish inside bar on ADAUSDT
+bearish harami top on SYRUPUSDT
+bullish inside bar on POLYXUSDT
+bearish inside bar on SIGNUSDT
+bearish inside bar on PAXGUSDT
+bearish inside bar on STBLUSDT
+bearish inside bar on SYRUPUSDT
+bullish inside bar on OPUSDT
+bullish inside bar on DOTUSDT
+bullish inside bar on BICOUSDT
+bullish engulfinfg top on 1000RATSUSDT
+bullish inside bar on TOSHIUSDT
+bearish inside bar on DUSKUSDT
+bullish inside bar on SSVUSDT
+bullish inside bar on SSVUSDT
+bullish inside bar on PUMPUSDT
+checking higher tf 1h for SIGNUSDT bullish=false
+bearish inside bar on LISTAUSDT
+bullish inside bar on BATUSDT
+bullish inside bar on POPCATUSDT
+bullish inside bar on RAREUSDT
+bullish inside bar on ONGUSDT
+bullish inside bar on LAUSDT
+bullish inside bar on LAUSDT
+bearish inside bar on PHAUSDT
+bullish inside bar on NAORISUSDT
+bearish inside bar on PHAUSDT
+bearish harami top on EGLDUSDT
+bearish inside bar on CETUSUSDT
+checking higher tf 1h for PAXGUSDT bullish=false
+bullish inside bar on METISUSDT
+bullish inside bar on COAIUSDT
+bullish inside bar on MTLUSDT
+bearish inside bar on AIAUSDT
+bullish inside bar on COWUSDT
+bullish inside bar on BRUSDT
+bullish inside bar on JSTUSDT
+bullish inside bar on EDENUSDT
+bearish inside bar on SUNUSDT
+bullish inside bar on IOTXUSDT
+bearish harami top on MAGMAUSDT
+bearish inside bar on MAGMAUSDT
+bearish inside bar on RLSUSDT
+bearish inside bar on SONICUSDT
+bearish inside bar on EGLDUSDT
+bearish inside bar on MAGMAUSDT
+bearish inside bar on MAGMAUSDT
+checking higher tf 1h for SONICUSDT bullish=false
+checking higher tf 1h for EGLDUSDT bullish=false
+bearish inside bar on MAGMAUSDT
+checking higher tf 1h for BRUSDT bullish=true
+checking higher tf 1h for SYRUPUSDT bullish=false
+checking higher tf 1h for SUNUSDT bullish=false
+bearish inside bar on BANANAUSDT
+bullish inside bar on KMNOUSDT
+bearish inside bar on KOMAUSDT
+bearish inside bar on CYBERUSDT
+bullish inside bar on BBUSDT
+bullish inside bar on PIEVERSEUSDT
+bearish inside bar on 1000PEPEUSDT
+bearish inside bar on PHAUSDT
+bullish inside bar on 1000000MOGUSDT
+bearish inside bar on BCHUSDT
+bullish inside bar on SKYUSDT
+bullish inside bar on ETCUSDT
+bullish inside bar on ICPUSDT
+bearish inside bar on BOBUSDT
+bullish inside bar on BIRBUSDT
+bearish inside bar on NOMUSDT
+bearish inside bar on SLPUSDT
+checking higher tf 1h for SLPUSDT bullish=false
+bearish inside bar on AVAXUSDT
+bearish inside bar on BOMEUSDT
+bearish inside bar on RLSUSDT
+bearish inside bar on HMSTRUSDT
+bearish inside bar on MOODENGUSDT
+bearish inside bar on BUSDT
+bearish inside bar on GLMUSDT
+bearish inside bar on HMSTRUSDT
+bearish inside bar on PHBUSDT
+bearish inside bar on ENSOUSDT
+bullish inside bar on PUMPUSDT
+checking higher tf 1h for ENSOUSDT bullish=false
+bearish inside bar on ARKMUSDT
+bearish engulfing top on FRAXUSDT
+bullish inside bar on JELLYJELLYUSDT
+bearish inside bar on STOUSDT
+bearish inside bar on EIGENUSDT
+bullish harami top on FRAXUSDT
+bearish inside bar on CFXUSDT
+bullish inside bar on FRAXUSDT
+bullish inside bar on AEROUSDT
+checking higher tf 1h for CFXUSDT bullish=false
+bearish inside bar on 1000RATSUSDT
+bearish inside bar on RAVEUSDT
+bearish inside bar on 1000CATUSDT
+checking higher tf 1h for 1000RATSUSDT bullish=false
+checking higher tf 1h for 1000CATUSDT bullish=false
+bearish inside bar on BOBUSDT
+bearish inside bar on 1000CATUSDT
+checking higher tf 1h for BOBUSDT bullish=false
+bearish inside bar on BOBUSDT
+bearish inside bar on COTIUSDT
+bullish inside bar on COTIUSDT
+bullish inside bar on MEGAUSDT
+bearish inside bar on AIAUSDT
+bullish inside bar on MEGAUSDT
+checking higher tf 1h for COTIUSDT bullish=false
+bullish inside bar on PIXELUSDT
+bullish inside bar on ADAUSDT
+bullish inside bar on ATHUSDT
+bullish inside bar on COAIUSDT
+bullish inside bar on STEEMUSDT
+bearish inside bar on TAKEUSDT
+checking higher tf 1h for TAKEUSDT bullish=false
+Pattern  detected on TAKEUSDT at 2026-03-16T06:00:00.000Z in 1h
+bearish inside bar on TAKEUSDT
+bullish inside bar on NFPUSDT
+bearish inside bar on FLOCKUSDT
+bullish inside bar on TAOUSDT
+bullish inside bar on BIOUSDT
+bearish inside bar on DUSKUSDT
+bearish inside bar on B2USDT
+bullish inside bar on METISUSDT
+bullish inside bar on AGLDUSDT
+bullish inside bar on BTCUSDT
+bullish inside bar on HBARUSDT
+bullish inside bar on LTCUSDT
+bullish inside bar on NIGHTUSDT
+bullish inside bar on AVAXUSDT
+bearish engulfing top on RAVEUSDT
+bullish inside bar on DASHUSDT
+bullish inside bar on BANANAS31USDT
+bullish inside bar on ASTERUSDT
+bullish inside bar on MORPHOUSDT
+bullish inside bar on JUPUSDT
+bullish inside bar on NMRUSDT
+bullish engulfinfg top on SUIUSDT
+bullish inside bar on BCHUSDT
+bullish engulfinfg top on ETCUSDT
+bullish inside bar on STBLUSDT
+bullish inside bar on LRCUSDT
+bullish inside bar on STBLUSDT
+bullish inside bar on RSRUSDT
+bearish engulfing top on SOLUSDT
+bearish engulfing top on ETHUSDT
+bullish inside bar on MUSDT
+bullish inside bar on PYTHUSDT
+bullish inside bar on 1000PEPEUSDT
+bullish inside bar on MEWUSDT
+bullish inside bar on NEIROUSDT
+bullish inside bar on 1000LUNCUSDT
+bullish inside bar on 0GUSDT
+bullish inside bar on GLMUSDT
+bullish harami top on SOLUSDT
+bullish harami top on ETHUSDT
+bullish inside bar on MAGICUSDT
+bullish inside bar on TRUMPUSDT
+bearish engulfing top on STEEMUSDT
+bullish inside bar on SOLUSDT
+bullish inside bar on BRETTUSDT
+bullish inside bar on ETHUSDT
+bullish inside bar on PNUTUSDT
+bullish inside bar on SYRUPUSDT
+bullish inside bar on BOMEUSDT
+bullish inside bar on DOTUSDT
+bullish inside bar on 1000BONKUSDT
+bullish inside bar on GRTUSDT
+bullish inside bar on 2ZUSDT
+bullish inside bar on SENTUSDT
+checking higher tf 1h for PYTHUSDT bullish=true
+bullish inside bar on BBUSDT
+bullish inside bar on EULUSDT
+bullish inside bar on RAYSOLUSDT
+bullish inside bar on SAGAUSDT
+bearish engulfing top on FLOWUSDT
+bullish harami top on STEEMUSDT
+bullish engulfinfg top on HYPEUSDT
+bullish inside bar on MOODENGUSDT
+bullish inside bar on ORDIUSDT
+bullish inside bar on GRTUSDT
+bullish inside bar on PYTHUSDT
+bullish inside bar on AEROUSDT
+bullish inside bar on 1000FLOKIUSDT
+bullish inside bar on ESPUSDT
+bullish inside bar on ALTUSDT
+bullish inside bar on ALTUSDT
+bullish inside bar on ROBOUSDT
+bullish inside bar on KNCUSDT
+bullish inside bar on SKYUSDT
+bullish inside bar on ETHFIUSDT
+bullish inside bar on STEEMUSDT
+bullish inside bar on PIEVERSEUSDT
+bullish inside bar on AVAAIUSDT
+bullish inside bar on SEIUSDT
+bullish inside bar on RLCUSDT
+bullish inside bar on SAGAUSDT
+bullish harami top on FLOWUSDT
+bullish inside bar on POLUSDT
+bearish engulfing top on POLUSDT
+bullish inside bar on HYPEUSDT
+bullish inside bar on AVNTUSDT
+bullish inside bar on THETAUSDT
+bullish inside bar on INJUSDT
+bullish inside bar on ETHFIUSDT
+bullish inside bar on IOTAUSDT
+bullish inside bar on THEUSDT
+bullish inside bar on FLOWUSDT
+bullish harami top on POLUSDT
+bullish inside bar on IMXUSDT
+bullish inside bar on MTLUSDT
+bullish inside bar on SANDUSDT
+bullish inside bar on RPLUSDT
+bullish inside bar on MINAUSDT
+bullish inside bar on BNTUSDT
+bullish inside bar on CHZUSDT
+bullish engulfinfg top on OPNUSDT
+bullish inside bar on RDNTUSDT
+bullish inside bar on LPTUSDT
+bullish inside bar on JTOUSDT
+bullish inside bar on STXUSDT
+bullish inside bar on POLYXUSDT
+bullish inside bar on ICPUSDT
+bullish inside bar on PARTIUSDT
+bullish inside bar on MIRAUSDT
+bullish inside bar on MLNUSDT
+bullish inside bar on SANDUSDT
+bullish inside bar on MTLUSDT
+bullish inside bar on GASUSDT
+bullish inside bar on FUSDT
+checking higher tf 1h for FLOWUSDT bullish=true
+bullish inside bar on MLNUSDT
+bullish inside bar on JTOUSDT
+bullish inside bar on GASUSDT
+checking higher tf 1h for STEEMUSDT bullish=true
+bullish inside bar on TNSRUSDT
+checking higher tf 1h for CHZUSDT bullish=true
+bullish inside bar on TNSRUSDT
+bullish inside bar on APEUSDT
+bullish inside bar on APEUSDT
+bullish inside bar on CCUSDT
+bullish inside bar on NOMUSDT
+bullish inside bar on NOMUSDT
+bullish inside bar on BMTUSDT
+bullish inside bar on IOTAUSDT
+bullish inside bar on POLUSDT
+bullish inside bar on SXTUSDT
+bullish inside bar on DOLOUSDT
+bearish engulfing top on SAFEUSDT
+bullish inside bar on SUNUSDT
+bullish inside bar on OXTUSDT
+bullish inside bar on RLSUSDT
+bullish inside bar on ELSAUSDT
+bullish inside bar on SYNUSDT
+bullish inside bar on SXTUSDT
+bullish inside bar on STBLUSDT
+bullish inside bar on BROCCOLIF3BUSDT
+bullish inside bar on BROCCOLIF3BUSDT
+bullish inside bar on TRUTHUSDT
+bearish inside bar on COAIUSDT
+bearish inside bar on COAIUSDT
+bullish inside bar on TAGUSDT
+bullish inside bar on QNTUSDT
+bearish harami top on DOGEUSDT
+bearish inside bar on NOTUSDT
+bearish inside bar on HYPEUSDT
+bearish inside bar on DOGEUSDT
+bullish inside bar on POWERUSDT
+checking higher tf 1h for DOGEUSDT bullish=false
+bearish inside bar on ENAUSDT
+bearish inside bar on HOOKUSDT
+bearish harami top on MOODENGUSDT
+bearish inside bar on HEIUSDT
+bearish inside bar on MOODENGUSDT
+bullish inside bar on DUSKUSDT
+bullish inside bar on DRIFTUSDT
+bullish inside bar on DUSKUSDT
+bullish inside bar on DRIFTUSDT
+bullish inside bar on NEOUSDT
+bullish inside bar on 1000PEPEUSDT
+bullish inside bar on SANDUSDT
+bullish inside bar on FARTCOINUSDT
+bullish engulfinfg top on FORMUSDT
+bullish inside bar on EIGENUSDT
+bearish harami top on PHAUSDT
+bullish engulfinfg top on SSVUSDT
+bearish engulfing top on MYXUSDT
+bearish inside bar on MYXUSDT
+bullish inside bar on SKRUSDT
+checking higher tf 1h for FARTCOINUSDT bullish=true
+bearish inside bar on PHAUSDT
+bullish engulfinfg top on RAYSOLUSDT
+bullish inside bar on STBLUSDT
+checking higher tf 1h for FORMUSDT bullish=true
+bullish inside bar on SWARMSUSDT
+bullish inside bar on MONUSDT
+bullish inside bar on MONUSDT
+bearish engulfing top on MORPHOUSDT
+bullish engulfinfg top on INITUSDT
+bullish harami top on MYXUSDT
+bearish engulfing top on ALTUSDT
+bullish engulfinfg top on ALPINEUSDT
+bullish inside bar on MYXUSDT
+bullish harami top on MORPHOUSDT
+checking higher tf 1h for SKRUSDT bullish=true
+bullish inside bar on BREVUSDT
+bullish inside bar on API3USDT
+checking higher tf 1h for PHAUSDT bullish=false
+bullish inside bar on BICOUSDT
+bullish inside bar on API3USDT
+bullish inside bar on OPNUSDT
+bullish engulfinfg top on OPNUSDT
+bearish inside bar on PHAUSDT
+bullish inside bar on API3USDT
+bullish inside bar on MORPHOUSDT
+checking higher tf 1h for OPNUSDT bullish=true
+bullish engulfinfg top on ALGOUSDT
+bearish inside bar on ACEUSDT
+bullish inside bar on COWUSDT
+bullish inside bar on ASRUSDT
+bearish engulfing top on MEGAUSDT
+bullish inside bar on IDUSDT
+bullish inside bar on SNXUSDT
+bullish inside bar on DUSDT
+bullish inside bar on 0GUSDT
+bullish engulfinfg top on HOMEUSDT
+bearish inside bar on HOTUSDT
+bullish inside bar on ORCAUSDT
+bullish inside bar on SONICUSDT
+bullish engulfinfg top on STXUSDT
+bullish inside bar on CVCUSDT
+bullish inside bar on COWUSDT
+bullish harami top on MEGAUSDT
+bullish inside bar on ALGOUSDT
+bullish inside bar on MEGAUSDT
+checking higher tf 1h for ASRUSDT bullish=true
+bullish inside bar on AVAXUSDT
+bullish inside bar on CLOUSDT
+bullish inside bar on FFUSDT
+bearish inside bar on DASHUSDT
+bullish inside bar on SPACEUSDT
+bearish inside bar on MORPHOUSDT
+bearish inside bar on 1000000MOGUSDT
+checking higher tf 1h for DASHUSDT bullish=false
+bullish inside bar on HIPPOUSDT
+bearish inside bar on 1000000MOGUSDT
+bearish inside bar on 1000000MOGUSDT
+bearish inside bar on RAVEUSDT
+bullish inside bar on RLCUSDT
+bearish inside bar on SAHARAUSDT
+bearish inside bar on TACUSDT
+bearish inside bar on BUSDT
+bearish inside bar on GPSUSDT
+checking higher tf 1h for TACUSDT bullish=false
+bullish inside bar on FIGHTUSDT
+bullish engulfinfg top on AIOTUSDT
+bearish inside bar on INUSDT
+bearish inside bar on INUSDT
+bullish inside bar on NEIROUSDT
+bullish inside bar on DOGEUSDT
+bullish inside bar on ATOMUSDT
+bearish engulfing top on 1000SHIBUSDT
+bullish inside bar on NMRUSDT
+bullish harami top on 1000SHIBUSDT
+bullish inside bar on CATIUSDT
+bullish inside bar on 1000SHIBUSDT
+bullish inside bar on MEMEUSDT
+bearish engulfing top on POPCATUSDT
+bullish inside bar on MOODENGUSDT
+bearish engulfing top on PNUTUSDT
+bearish engulfing top on BOMEUSDT
+bullish inside bar on BCHUSDT
+bearish engulfing top on JOEUSDT
+bearish engulfing top on STXUSDT
+bullish inside bar on KAIAUSDT
+bullish harami top on POPCATUSDT
+bullish harami top on PNUTUSDT
+bullish harami top on BOMEUSDT
+bullish harami top on JOEUSDT
+bearish engulfing top on LUNA2USDT
+bullish inside bar on POPCATUSDT
+bearish inside bar on ESPUSDT
+bullish inside bar on BOMEUSDT
+bullish inside bar on JOEUSDT
+bullish harami top on LUNA2USDT
+bullish inside bar on PNUTUSDT
+bullish inside bar on LUNA2USDT
+bullish inside bar on LUNA2USDT
+bullish inside bar on AIUSDT
+bullish inside bar on CKBUSDT
+bullish inside bar on POLYXUSDT
+bullish inside bar on STORJUSDT
+bullish inside bar on BATUSDT
+bullish inside bar on SKRUSDT
+bullish inside bar on SKRUSDT
+bullish inside bar on SKRUSDT
+bullish inside bar on AUSDT
+bullish inside bar on 4USDT
+bullish inside bar on AIAUSDT
+bullish inside bar on ELSAUSDT
+bullish inside bar on RECALLUSDT
+checking higher tf 1h for RECALLUSDT bullish=true
+bullish inside bar on COOKIEUSDT
+bullish engulfinfg top on FLOWUSDT
+bearish inside bar on SPACEUSDT
+bullish inside bar on HYPEUSDT
+bearish inside bar on KITEUSDT
+bullish inside bar on 4USDT
+bullish engulfinfg top on 1INCHUSDT
+bullish inside bar on PYTHUSDT
+bullish inside bar on NIGHTUSDT
+checking higher tf 1h for FLOWUSDT bullish=true
+checking higher tf 1h for 4USDT bullish=true
+bullish inside bar on PARTIUSDT
+bullish engulfinfg top on AIXBTUSDT
+bullish inside bar on PARTIUSDT
+bullish inside bar on PEOPLEUSDT
+bullish inside bar on LISTAUSDT
+bullish inside bar on DOODUSDT
+checking higher tf 1h for DOODUSDT bullish=true
+bearish harami top on ETHUSDT
+bearish inside bar on SOLUSDT
+bearish inside bar on ETHUSDT
+bearish inside bar on RAYSOLUSDT
+checking higher tf 1h for SOLUSDT bullish=false
+checking higher tf 1h for RAYSOLUSDT bullish=false
+bearish inside bar on STABLEUSDT
+bearish harami top on BLESSUSDT
+bearish inside bar on HOLOUSDT
+bearish harami top on RAVEUSDT
+bearish inside bar on STABLEUSDT
+bearish inside bar on BLESSUSDT
+bearish harami top on LINKUSDT
+bearish inside bar on RAVEUSDT
+bearish inside bar on LINKUSDT
+checking higher tf 1h for LINKUSDT bullish=false
+bearish inside bar on GMXUSDT
+bearish inside bar on NAORISUSDT
+bearish inside bar on LUNA2USDT
+bearish harami top on TAGUSDT
+bearish inside bar on TAGUSDT
+bullish engulfinfg top on RPLUSDT
+bullish inside bar on PIEVERSEUSDT
+bullish engulfinfg top on KGENUSDT
+bullish inside bar on AVAXUSDT
+bullish inside bar on ETHUSDT
+bullish inside bar on BLUAIUSDT
+bullish inside bar on SPORTFUNUSDT
+bullish inside bar on MUSDT
+bearish engulfing top on STRKUSDT
+bullish inside bar on TIAUSDT
+bullish inside bar on MUSDT
+bullish harami top on STRKUSDT
+bullish inside bar on STRKUSDT
+bullish inside bar on IMXUSDT
+bullish inside bar on BERAUSDT
+bullish inside bar on HEIUSDT
+bullish inside bar on APTUSDT
+bullish inside bar on PENGUUSDT
+bullish inside bar on NMRUSDT
+bullish inside bar on SEIUSDT
+bearish inside bar on APRUSDT
+bullish inside bar on ETCUSDT
+bearish inside bar on CLOUSDT
+bearish inside bar on ESPUSDT
+bullish inside bar on FUNUSDT
+bullish inside bar on IOTXUSDT
+bearish inside bar on RAVEUSDT
+bullish inside bar on ATOMUSDT
+bearish inside bar on KNCUSDT
+checking higher tf 1h for KNCUSDT bullish=false
+bullish inside bar on JOEUSDT
+bullish inside bar on PUMPBTCUSDT
+bullish inside bar on HEIUSDT
+bullish inside bar on EULUSDT
+bullish inside bar on TAUSDT
+bearish inside bar on BULLAUSDT
+checking higher tf 1h for PUMPBTCUSDT bullish=true
+bullish engulfinfg top on BANANAS31USDT
+bearish inside bar on EDENUSDT
+bearish inside bar on ESPUSDT
+bearish inside bar on ACXUSDT
+bearish inside bar on TNSRUSDT
+checking higher tf 1h for ACXUSDT bullish=false
+bullish inside bar on MELANIAUSDT
+bullish inside bar on SLPUSDT
+bullish inside bar on FLOCKUSDT
+bearish inside bar on DEEPUSDT
+bullish inside bar on KMNOUSDT
+bullish inside bar on HANAUSDT
+bullish inside bar on SAFEUSDT
+bullish inside bar on JSTUSDT
+bullish inside bar on SAFEUSDT
+bullish inside bar on OPNUSDT
+bullish inside bar on OPNUSDT
+bearish inside bar on SAGAUSDT
+bullish inside bar on STABLEUSDT
+bearish inside bar on FORMUSDT
+bearish inside bar on TAGUSDT
+bearish inside bar on MEMEUSDT
+checking higher tf 1h for MEMEUSDT bullish=false
+bullish inside bar on ACUUSDT
+bullish inside bar on GWEIUSDT
+bullish inside bar on BNTUSDT
+bearish inside bar on FOGOUSDT
+checking higher tf 1h for GWEIUSDT bullish=true
+bullish inside bar on KGENUSDT
+bullish inside bar on CETUSUSDT
+bearish inside bar on ALLOUSDT
+bearish harami top on JSTUSDT
+bullish inside bar on SAPIENUSDT
+bullish inside bar on ALPINEUSDT
+bullish inside bar on LDOUSDT
+bullish inside bar on ICPUSDT
+bullish inside bar on JELLYJELLYUSDT
+bearish inside bar on JSTUSDT
+bullish inside bar on 1INCHUSDT
+bullish inside bar on BSVUSDT
+checking higher tf 1h for KGENUSDT bullish=true
+bearish engulfing top on SKLUSDT
+bullish inside bar on LTCUSDT
+bullish inside bar on FILUSDT
+bullish inside bar on HYPERUSDT
+bullish inside bar on NEARUSDT
+bullish harami top on SKLUSDT
+bearish inside bar on ARBUSDT
+bullish inside bar on CAKEUSDT
+bullish inside bar on MEMEUSDT
+bullish inside bar on MORPHOUSDT
+bullish inside bar on SKLUSDT
+checking higher tf 1h for JELLYJELLYUSDT bullish=true
+bullish inside bar on AKTUSDT
+checking higher tf 1h for NEARUSDT bullish=true
+checking higher tf 1h for ARBUSDT bullish=false
+checking higher tf 1h for MORPHOUSDT bullish=true
+bearish inside bar on MERLUSDT
+bullish inside bar on DUSDT
+bearish inside bar on GRTUSDT
+bearish inside bar on BTCDOMUSDT
+bullish inside bar on PUNDIXUSDT
+bullish inside bar on BREVUSDT
+bullish inside bar on AVNTUSDT
+bearish inside bar on SUNUSDT
+bullish inside bar on HEMIUSDT
+bearish inside bar on KOMAUSDT
+bullish inside bar on GLMUSDT
+bearish inside bar on GRIFFAINUSDT
+bullish inside bar on SANTOSUSDT
+bullish inside bar on 1000000BOBUSDT
+bullish inside bar on SANTOSUSDT
+bearish inside bar on PYTHUSDT
+bearish inside bar on SANDUSDT
+checking higher tf 1h for PYTHUSDT bullish=false
+bearish inside bar on PYTHUSDT
+bullish inside bar on BTCDOMUSDT
+bullish inside bar on OPNUSDT
+bearish inside bar on STXUSDT
+bearish inside bar on MINAUSDT
+bullish inside bar on GWEIUSDT
+bearish inside bar on ACXUSDT
+bearish inside bar on ATOMUSDT
+checking higher tf 1h for ATOMUSDT bullish=false
+bearish inside bar on ATOMUSDT
+bearish inside bar on ATOMUSDT
+bearish inside bar on RAREUSDT
+bearish inside bar on AXLUSDT
+bearish inside bar on STRKUSDT
+bearish inside bar on BERAUSDT
+bearish inside bar on TRBUSDT
+bearish inside bar on SUSDT
+bearish inside bar on 1000FLOKIUSDT
+checking higher tf 1h for STRKUSDT bullish=false
+bullish inside bar on REZUSDT
+bearish inside bar on BOBUSDT
+bearish inside bar on MLNUSDT
+bearish inside bar on CTKUSDT
+bearish inside bar on JSTUSDT
+bearish inside bar on ETHWUSDT
+bearish inside bar on MLNUSDT
+bearish inside bar on ACHUSDT
+bullish inside bar on MEGAUSDT
+bullish inside bar on INXUSDT
+bullish inside bar on ORDERUSDT
+bullish inside bar on 1000000BOBUSDT
+bullish inside bar on LUMIAUSDT
+bullish inside bar on FLUXUSDT
+bullish inside bar on SKRUSDT
+bullish engulfinfg top on PAXGUSDT
+bearish inside bar on 2ZUSDT
+bullish inside bar on MBOXUSDT
+bearish inside bar on STOUSDT
+bearish engulfing top on INUSDT
+bullish engulfinfg top on AZTECUSDT
+bearish harami top on MANTAUSDT
+bearish inside bar on MANTAUSDT
+bearish engulfing top on HUSDT
+bullish inside bar on SKRUSDT
+bullish inside bar on FRAXUSDT
+bearish inside bar on PYTHUSDT
+bearish inside bar on SCRTUSDT
+bearish inside bar on SCRTUSDT
+bearish harami top on BANANAS31USDT
+bearish inside bar on BANANAS31USDT
+bearish inside bar on AGLDUSDT
+bearish inside bar on SPXUSDT
+bearish inside bar on ARUSDT
+bearish inside bar on ARUSDT
+bearish inside bar on ARUSDT
+bearish inside bar on B2USDT
+bearish inside bar on CHZUSDT
+bearish inside bar on TIAUSDT
+bearish inside bar on CHZUSDT
+bearish harami top on PENGUUSDT
+bearish inside bar on ADAUSDT
+bearish inside bar on ATUSDT
+bearish inside bar on ROBOUSDT
+bearish inside bar on BANKUSDT
+bearish inside bar on PENGUUSDT
+bearish inside bar on DUSDT
+bearish inside bar on NOTUSDT
+bearish harami top on POLUSDT
+bearish inside bar on FLUXUSDT
+bearish inside bar on DUSDT
+bearish inside bar on ETHFIUSDT
+bearish inside bar on ADAUSDT
+checking higher tf 1h for ATUSDT bullish=false
+bearish inside bar on AIOUSDT
+bearish inside bar on POLUSDT
+bearish inside bar on AIOUSDT
+checking higher tf 1h for FLUXUSDT bullish=false
+bearish inside bar on MERLUSDT
+bearish inside bar on MERLUSDT
+bearish inside bar on MOODENGUSDT
+bearish inside bar on MERLUSDT
+bearish inside bar on MOODENGUSDT
+bearish inside bar on INJUSDT
+bearish inside bar on LUNA2USDT
+bearish inside bar on ANKRUSDT
+bearish inside bar on AUSDT
+bearish inside bar on PHBUSDT
+bearish inside bar on AUSDT
+bearish inside bar on PHBUSDT
+bearish inside bar on PHBUSDT
+bearish inside bar on PHBUSDT
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+bearish inside bar on BLESSUSDT
+bearish inside bar on 1000PEPEUSDT
+bearish inside bar on 1000PEPEUSDT
+bearish inside bar on BTRUSDT
+bearish inside bar on CLOUSDT
+bearish inside bar on ORDERUSDT
+bearish inside bar on SONICUSDT
+bearish inside bar on ICPUSDT
+bearish inside bar on ICPUSDT
+bearish inside bar on ICPUSDT
+bearish inside bar on BASUSDT
+bearish inside bar on MTLUSDT
+bullish engulfinfg top on PIXELUSDT
+bearish harami top on SEIUSDT
+bullish inside bar on LUMIAUSDT
+bearish harami top on KSMUSDT
+bearish inside bar on SEIUSDT
+bearish inside bar on SUIUSDT
+bearish inside bar on KSMUSDT
+bullish inside bar on BARDUSDT
+bearish engulfing top on PAXGUSDT
+bearish inside bar on SUSDT
+bearish engulfing top on GWEIUSDT
+checking higher tf 1h for SUIUSDT bullish=false
+bullish harami top on PAXGUSDT
+bullish harami top on GWEIUSDT
+bullish engulfinfg top on SKRUSDT
+bullish inside bar on GWEIUSDT
+checking higher tf 1h for KSMUSDT bullish=false
+bullish inside bar on PAXGUSDT
+bearish inside bar on AUCTIONUSDT
+bearish inside bar on INJUSDT
+bullish inside bar on GWEIUSDT
+checking higher tf 1h for INJUSDT bullish=false
+bearish inside bar on LINEAUSDT
+bearish inside bar on FORMUSDT
+checking higher tf 1h for LINEAUSDT bullish=false
+bearish inside bar on MEMEUSDT
+bearish inside bar on TNSRUSDT
+checking higher tf 1h for FORMUSDT bullish=false
+checking higher tf 1h for MEMEUSDT bullish=false
+bearish inside bar on JASMYUSDT
+bullish inside bar on TRUTHUSDT
+bearish inside bar on REDUSDT
+bearish inside bar on ERAUSDT
+bearish inside bar on FOLKSUSDT
+bearish inside bar on RAREUSDT
+bearish inside bar on COAIUSDT
+bearish inside bar on CYBERUSDT
+bearish inside bar on JASMYUSDT
+bearish inside bar on ERAUSDT
+bearish inside bar on RAREUSDT
+checking higher tf 1h for FOLKSUSDT bullish=false
+bullish inside bar on SIGNUSDT
+bullish inside bar on TRUMPUSDT
+bullish inside bar on PLAYUSDT
+bullish inside bar on TRUMPUSDT
+bearish inside bar on GRASSUSDT
+bearish engulfing top on BARDUSDT
+bearish engulfing top on HIPPOUSDT
+bullish inside bar on AVAXUSDT
+bullish inside bar on KMNOUSDT
+bullish inside bar on LDOUSDT
+bullish inside bar on DASHUSDT
+bullish inside bar on 1000BONKUSDT
+bullish inside bar on KMNOUSDT
+bullish inside bar on RENDERUSDT
+bullish inside bar on ETHFIUSDT
+bearish engulfing top on ELSAUSDT
+bullish inside bar on RAYSOLUSDT
+bullish inside bar on FOGOUSDT
+bearish inside bar on HUSDT
+bullish inside bar on TNSRUSDT
+checking higher tf 1h for FOGOUSDT bullish=true
+bearish engulfing top on BTCUSDT
+bullish inside bar on ETHUSDT
+bullish inside bar on HBARUSDT
+bullish harami top on BTCUSDT
+bullish inside bar on BTCUSDT
+bullish inside bar on MORPHOUSDT
+bullish inside bar on 1000SHIBUSDT
+bullish inside bar on BCHUSDT
+bullish inside bar on OPUSDT
+bullish inside bar on COMPUSDT
+bullish inside bar on 1000SHIBUSDT
+bullish inside bar on 1000SHIBUSDT
+bullish inside bar on CAKEUSDT
+checking higher tf 1h for COMPUSDT bullish=true
+bullish inside bar on DUSDT
+bullish inside bar on KAIAUSDT
+bullish inside bar on MEWUSDT
+bullish inside bar on ALCHUSDT
+bearish inside bar on JCTUSDT
+bullish inside bar on RDNTUSDT
+bullish inside bar on CLANKERUSDT
+bullish inside bar on HIVEUSDT
+bullish inside bar on MEWUSDT
+bearish inside bar on JCTUSDT
+bullish inside bar on GLMUSDT
+bullish inside bar on HOLOUSDT
+checking higher tf 1h for HOLOUSDT bullish=true
+bullish inside bar on ARKUSDT
+bullish inside bar on AEVOUSDT
+checking higher tf 1h for AEVOUSDT bullish=true
+bullish engulfinfg top on ORDERUSDT
+bearish inside bar on AKEUSDT
+bearish inside bar on GRTUSDT
+bearish inside bar on AEROUSDT
+bearish inside bar on AIAUSDT
+bullish inside bar on THEUSDT
+bearish inside bar on TRUMPUSDT
+bearish inside bar on PORTALUSDT
+bearish inside bar on POWERUSDT
+bullish inside bar on 1000LUNCUSDT
+bullish inside bar on MONUSDT
+checking higher tf 1h for AIAUSDT bullish=false
+checking higher tf 1h for AEROUSDT bullish=false
+checking higher tf 1h for POWERUSDT bullish=false
+bearish inside bar on POWERUSDT
+bearish inside bar on POWERUSDT
+checking higher tf 1h for TRUMPUSDT bullish=false
+bullish engulfinfg top on NFPUSDT
+checking higher tf 1h for AKEUSDT bullish=false
+bullish inside bar on LQTYUSDT
+bearish inside bar on SONICUSDT
+bearish inside bar on CLOUSDT
+bullish engulfinfg top on GWEIUSDT
+bearish inside bar on SAHARAUSDT
+bearish inside bar on SAHARAUSDT
+bearish inside bar on SAHARAUSDT
+bearish inside bar on TRUUSDT
+bullish inside bar on KERNELUSDT
+bearish inside bar on TRUMPUSDT
+bullish inside bar on KERNELUSDT
+bearish inside bar on SIGNUSDT
+bearish inside bar on INUSDT
+bearish inside bar on SXTUSDT
+bearish inside bar on SXTUSDT
+bearish inside bar on CYBERUSDT
+bearish inside bar on ENSOUSDT
+bearish inside bar on FLOCKUSDT
+bullish inside bar on DUSKUSDT
+bullish inside bar on DUSKUSDT
+bullish inside bar on DUSKUSDT
+bearish inside bar on TONUSDT
+bearish inside bar on STRKUSDT
+bearish inside bar on TONUSDT
+bearish inside bar on TONUSDT
+bearish inside bar on TRUSTUSDT
+bullish inside bar on FORMUSDT
+bearish inside bar on PAXGUSDT
+bullish inside bar on BLUAIUSDT
+checking higher tf 1h for PAXGUSDT bullish=false
+Pattern  detected on PAXGUSDT at 2026-03-16T06:00:00.000Z in 1h
+bearish engulfing top on POLUSDT
+bullish harami top on POLUSDT
+bullish inside bar on POLUSDT
+bearish engulfing top on 1000SHIBUSDT
+bullish harami top on 1000SHIBUSDT
+bearish engulfing top on BANKUSDT
+bullish inside bar on 1000SHIBUSDT
+bullish inside bar on KOMAUSDT
+bullish inside bar on PLUMEUSDT
+bullish inside bar on AIUSDT
+bullish inside bar on THEUSDT
+bearish inside bar on ARCUSDT
+bullish inside bar on KAITOUSDT
+bearish engulfing top on ATHUSDT
+bearish inside bar on CCUSDT
+bearish inside bar on AZTECUSDT
+bearish engulfing top on DRIFTUSDT
+checking higher tf 1h for ARCUSDT bullish=false
+bearish inside bar on IRUSDT
+bearish inside bar on ARCUSDT
+checking higher tf 1h for AZTECUSDT bullish=false
+bullish inside bar on PUMPUSDT
+bearish inside bar on AZTECUSDT
+bullish inside bar on APTUSDT
+bullish inside bar on APTUSDT
+bullish inside bar on TAGUSDT
+bullish inside bar on BARDUSDT
+bearish inside bar on LISTAUSDT
+bearish inside bar on MORPHOUSDT
+bearish inside bar on HYPEUSDT
+bearish inside bar on BASUSDT
+bearish inside bar on CGPTUSDT
+bearish inside bar on BBUSDT
+bearish inside bar on BTCUSDT
+bearish inside bar on SHELLUSDT
+bearish inside bar on BBUSDT
+bearish inside bar on SHELLUSDT
+bearish inside bar on SAFEUSDT
+bearish inside bar on ALTUSDT
+bullish inside bar on AIOUSDT
+bearish harami top on CFXUSDT
+bearish inside bar on CFXUSDT
+bearish inside bar on FOGOUSDT
+bearish inside bar on FOGOUSDT
+bearish inside bar on LINEAUSDT
+bearish inside bar on FOGOUSDT
+bearish inside bar on FOGOUSDT
+bearish inside bar on FOGOUSDT
+bullish engulfinfg top on BLUAIUSDT
+bullish inside bar on BROCCOLIF3BUSDT
+bullish inside bar on AIOUSDT
+bullish inside bar on BROCCOLIF3BUSDT
+bullish inside bar on BROCCOLIF3BUSDT
+checking higher tf 1h for AIOUSDT bullish=true
+bullish inside bar on AIOUSDT
+bearish inside bar on DOGEUSDT
+bearish inside bar on STXUSDT
+bearish inside bar on IDOLUSDT
+bearish inside bar on TNSRUSDT
+bearish inside bar on HIVEUSDT
+bearish inside bar on EIGENUSDT
+bullish inside bar on DUSKUSDT
+bearish inside bar on BASUSDT
+bearish engulfing top on RLCUSDT
+bullish harami top on RLCUSDT
+bullish inside bar on RLCUSDT
+bearish inside bar on AWEUSDT
+bearish inside bar on ACUUSDT
+bullish inside bar on EGLDUSDT
+bearish inside bar on OLUSDT
+bearish engulfing top on FORMUSDT
+bullish harami top on FORMUSDT
+checking higher tf 1h for ACUUSDT bullish=false
+bullish inside bar on FORMUSDT
+checking higher tf 1h for EGLDUSDT bullish=true
+bearish inside bar on SPXUSDT
+bearish inside bar on BLESSUSDT
+bearish inside bar on BCHUSDT
+bullish inside bar on NEOUSDT
+bullish inside bar on ONUSDT
+bullish engulfinfg top on HOMEUSDT
+checking higher tf 1h for HOMEUSDT bullish=true
+bearish inside bar on 1000FLOKIUSDT
+bearish inside bar on SAGAUSDT
+bearish inside bar on SYRUPUSDT
+bearish inside bar on ORDIUSDT
+bearish inside bar on 1000PEPEUSDT
+bearish inside bar on BANANAUSDT
+bearish inside bar on BANANAUSDT
+bullish inside bar on TRXUSDT
+bearish inside bar on TRUUSDT
+bearish inside bar on JCTUSDT
+bearish inside bar on BTRUSDT
+bullish inside bar on LTCUSDT
+bullish inside bar on ETCUSDT
+bullish inside bar on SCRUSDT
+bullish inside bar on SCRUSDT
+bullish engulfinfg top on MAGICUSDT
+bullish inside bar on MAGICUSDT
+checking higher tf 1h for MAGICUSDT bullish=true
+bullish inside bar on SOPHUSDT
+checking higher tf 1h for SOPHUSDT bullish=true
+bullish inside bar on SOPHUSDT
+bearish inside bar on ETHUSDT
+bearish inside bar on KATUSDT
+bullish inside bar on POWERUSDT
+bearish inside bar on API3USDT
+bearish inside bar on ENSUSDT
+bearish inside bar on FLOWUSDT
+bearish inside bar on SUSDT
+bearish inside bar on AIOUSDT
+bearish inside bar on SXTUSDT
+bearish engulfing top on HANAUSDT
+checking higher tf 1h for ETHUSDT bullish=false
+bearish inside bar on HOMEUSDT
+bearish inside bar on BTCUSDT
+bearish inside bar on TAOUSDT
+checking higher tf 1h for FLOWUSDT bullish=false
+bearish inside bar on ETHUSDT
+bearish inside bar on PAXGUSDT
+bearish inside bar on JASMYUSDT
+bearish inside bar on ALTUSDT
+bearish inside bar on SWARMSUSDT
+bearish inside bar on BROCCOLI714USDT
+checking higher tf 1h for PAXGUSDT bullish=false
+bearish inside bar on BATUSDT
+bearish inside bar on TAGUSDT
+bearish inside bar on TAGUSDT
+bearish inside bar on AIAUSDT
+bearish inside bar on ETHUSDT
+checking higher tf 1h for AIAUSDT bullish=false
+bearish inside bar on ENJUSDT
+Pattern  detected on PAXGUSDT at 2026-03-16T06:00:00.000Z in 1h
+bearish inside bar on CTKUSDT
+bearish inside bar on BOBUSDT
+bearish inside bar on REDUSDT
+bearish inside bar on 1000RATSUSDT
+bullish engulfinfg top on SPORTFUNUSDT
+bullish inside bar on NXPCUSDT
+checking higher tf 1h for SWARMSUSDT bullish=false
+bearish inside bar on JASMYUSDT
+checking higher tf 1h for REDUSDT bullish=false
+checking higher tf 1h for NXPCUSDT bullish=true
+bearish inside bar on FIGHTUSDT
+bearish inside bar on BTCUSDT
+bearish inside bar on SPXUSDT
+bearish inside bar on BTCUSDT
+bearish inside bar on SPXUSDT
+bearish inside bar on BIRBUSDT
+bearish inside bar on SANDUSDT
+bearish inside bar on SYNUSDT
+bearish inside bar on HUSDT
+bearish inside bar on SOLVUSDT
+bearish inside bar on SOMIUSDT
+bearish inside bar on KSMUSDT
+bearish inside bar on PLUMEUSDT
+bearish inside bar on PARTIUSDT
+bearish inside bar on BUSDT
+bullish inside bar on CUSDT
+bearish inside bar on RESOLVUSDT
+bearish inside bar on BANANAUSDT
+bearish inside bar on BIOUSDT
+bearish inside bar on STGUSDT
+bearish inside bar on BIOUSDT
+bearish inside bar on MAVIAUSDT
+bearish inside bar on COTIUSDT
+bullish inside bar on BANUSDT
+bullish inside bar on 1MBABYDOGEUSDT
+checking higher tf 1h for 1MBABYDOGEUSDT bullish=true
+bullish inside bar on ACHUSDT
+bearish inside bar on ONUSDT
+bullish inside bar on DIAUSDT
+bearish inside bar on ONUSDT
+bearish inside bar on ACUUSDT
+bullish inside bar on RPLUSDT
+bearish inside bar on MAGMAUSDT
+bullish inside bar on AVNTUSDT
+bearish inside bar on MAGMAUSDT
+checking higher tf 1h for AVNTUSDT bullish=true
+bullish inside bar on LUMIAUSDT
+bearish inside bar on PHAUSDT
+bearish inside bar on ALLOUSDT
+bullish inside bar on GRASSUSDT
+bullish inside bar on AWEUSDT
+bullish inside bar on EDENUSDT
+bearish inside bar on IRUSDT
+bearish inside bar on IDOLUSDT
+bearish inside bar on PARTIUSDT
+bearish inside bar on 1000PEPEUSDT
+bearish inside bar on COSUSDT
+bearish inside bar on BASUSDT
+bearish inside bar on TLMUSDT
+bearish inside bar on NEIROUSDT
+bearish inside bar on GIGGLEUSDT
+checking higher tf 1h for 1000PEPEUSDT bullish=false
+bearish inside bar on BRETTUSDT
+bearish inside bar on BASUSDT
+bearish inside bar on SUIUSDT
+bearish inside bar on 1000BONKUSDT
+bearish inside bar on POPCATUSDT
+bearish harami top on DASHUSDT
+bearish inside bar on NEIROUSDT
+bearish inside bar on RLSUSDT
+bearish inside bar on MEUSDT
+bearish inside bar on 1000000BOBUSDT
+bearish inside bar on HYPEUSDT
+bearish inside bar on 1000FLOKIUSDT
+bearish inside bar on MAGICUSDT
+bearish inside bar on 0GUSDT
+bearish inside bar on SWARMSUSDT
+bearish inside bar on CLANKERUSDT
+bearish inside bar on COMPUSDT
+bearish inside bar on MAVUSDT
+bearish inside bar on DASHUSDT
+bearish inside bar on BASUSDT
+bearish inside bar on HMSTRUSDT
+bearish inside bar on MEUSDT
+bearish inside bar on CLANKERUSDT
+bearish inside bar on 0GUSDT
+bearish inside bar on RENDERUSDT
+bearish inside bar on COMPUSDT
+bearish inside bar on MEUSDT
+bearish inside bar on BEAMXUSDT
+bearish inside bar on ALLUSDT
+bearish inside bar on ANKRUSDT
+bearish inside bar on JTOUSDT
+bearish inside bar on SAPIENUSDT
+checking higher tf 1h for DASHUSDT bullish=false
+bearish inside bar on ILVUSDT
+bearish inside bar on 1000CHEEMSUSDT
+bearish inside bar on MEUSDT
+bearish inside bar on SKLUSDT
+bearish inside bar on AXSUSDT
+bullish inside bar on CCUSDT
+bearish inside bar on CETUSUSDT
+bearish inside bar on BROCCOLIF3BUSDT
+bearish inside bar on PUMPBTCUSDT
+bearish inside bar on PUFFERUSDT
+bearish inside bar on FOGOUSDT
+bearish inside bar on RENDERUSDT
+Client connecting: D0r5Nsdstu1Ews8GAAAN with accountId: default
+[32m[Nest] 77032  - [39m03/16/2026, 7:05:34 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MjgwNTMyNywiZXhwIjoxNzc2MjYxMzI3fQ.KtOLGxWQLpHN_vtIeZXvNfBQvPkr0XNqoRlvTHD8oGo[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 77032  - [39m03/16/2026, 7:05:34 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: D0r5Nsdstu1Ews8GAAAN[39m
+Client connecting: U1Qz38r0Y6uTFY3AAAAP with accountId: default
+[32m[Nest] 77032  - [39m03/16/2026, 7:05:34 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MjgwNTMyNywiZXhwIjoxNzc2MjYxMzI3fQ.KtOLGxWQLpHN_vtIeZXvNfBQvPkr0XNqoRlvTHD8oGo[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 77032  - [39m03/16/2026, 7:05:41 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: U1Qz38r0Y6uTFY3AAAAP[39m
+bearish inside bar on 1000RATSUSDT
+bullish engulfinfg top on CCUSDT
+bearish engulfing top on BTCUSDT
+bearish engulfing top on PTBUSDT
+bullish inside bar on ADAUSDT
+bullish inside bar on CVXUSDT
+bearish engulfing top on ALLUSDT
+bullish harami top on BTCUSDT
+bearish engulfing top on AAVEUSDT
+bullish inside bar on BTCUSDT
+bullish harami top on AAVEUSDT
+bearish engulfing top on GPSUSDT
+bullish inside bar on SOONUSDT
+checking higher tf 1h for ADAUSDT bullish=true
+bearish engulfing top on BNBUSDT
+bullish inside bar on CROSSUSDT
+bearish engulfing top on ETHFIUSDT
+bullish inside bar on AAVEUSDT
+bearish engulfing top on BANDUSDT
+checking higher tf 1h for BTCUSDT bullish=true
+bullish harami top on BNBUSDT
+bullish harami top on ETHFIUSDT
+bullish inside bar on FLUIDUSDT
+bearish engulfing top on SPXUSDT
+bullish inside bar on RAYSOLUSDT
+bullish inside bar on NFPUSDT
+checking higher tf 1h for SOONUSDT bullish=true
+checking higher tf 1h for AAVEUSDT bullish=true
+bullish inside bar on BNBUSDT
+bullish inside bar on ETHFIUSDT
+Pattern  detected on AAVEUSDT at 2026-03-16T15:00:00.000Z in 1h
+checking higher tf 1h for RAYSOLUSDT bullish=true
+bullish inside bar on SENTUSDT
+checking higher tf 1h for BNBUSDT bullish=true
+checking higher tf 1h for FLUIDUSDT bullish=true
+checking higher tf 1h for ETHFIUSDT bullish=true
+bearish engulfing top on RUNEUSDT
+bearish engulfing top on NEWTUSDT
+bullish harami top on NEWTUSDT
+bullish inside bar on NEWTUSDT
+bearish engulfing top on MEMEUSDT
+bullish inside bar on MASKUSDT
+bullish inside bar on RECALLUSDT
+checking higher tf 1h for MASKUSDT bullish=true
+checking higher tf 1h for NEWTUSDT bullish=true
+bullish inside bar on TONUSDT
+checking higher tf 1h for RECALLUSDT bullish=true
+Pattern  detected on NEWTUSDT at 2026-03-16T15:00:00.000Z in 1h
+bullish inside bar on SSVUSDT
+checking higher tf 1h for SSVUSDT bullish=true
+bearish engulfing top on ONGUSDT
+bearish engulfing top on AEROUSDT
+bullish inside bar on GUNUSDT
+bearish engulfing top on HIVEUSDT
+bullish inside bar on AGLDUSDT
+bullish inside bar on OXTUSDT
+bullish inside bar on TREEUSDT
+bearish engulfing top on AUSDT
+bullish harami top on HIVEUSDT
+bullish inside bar on HIVEUSDT
+checking higher tf 1h for AGLDUSDT bullish=true
+checking higher tf 1h for TREEUSDT bullish=true
+bullish inside bar on SOMIUSDT
+bullish inside bar on TRXUSDT
+bullish inside bar on BASUSDT
+bullish inside bar on ORDERUSDT
+bullish engulfinfg top on KOMAUSDT
+bullish inside bar on BIOUSDT
+bearish engulfing top on HANAUSDT
+bullish inside bar on MANTAUSDT
+bullish inside bar on SKRUSDT
+bullish inside bar on SOPHUSDT
+bullish harami top on HANAUSDT
+bullish inside bar on SKRUSDT
+checking higher tf 1h for MANTAUSDT bullish=true
+bullish inside bar on FUSDT
+bullish inside bar on HANAUSDT
+bullish inside bar on RDNTUSDT
+checking higher tf 1h for SOPHUSDT bullish=true
+bullish inside bar on SOPHUSDT
+checking higher tf 1h for FUSDT bullish=true
+bullish inside bar on 1000CHEEMSUSDT
+bearish engulfing top on ATHUSDT
+checking higher tf 1h for 1000CHEEMSUSDT bullish=true
+bullish harami top on ATHUSDT
+bullish inside bar on ATHUSDT
+bullish inside bar on SUSDT
+bullish inside bar on OPUSDT
+bullish inside bar on ACHUSDT
+bullish inside bar on DEGENUSDT
+bearish inside bar on TAKEUSDT
+bullish inside bar on STGUSDT
+bullish inside bar on RLCUSDT
+bullish inside bar on ASTRUSDT
+bearish inside bar on SKYUSDT
+bullish inside bar on MBOXUSDT
+checking higher tf 1h for STGUSDT bullish=true
+checking higher tf 1h for MBOXUSDT bullish=true
+bullish inside bar on MBOXUSDT
+bullish inside bar on LAUSDT
+bullish inside bar on STABLEUSDT
+bullish inside bar on SPACEUSDT
+bullish engulfinfg top on BLESSUSDT
+bullish inside bar on ESPUSDT
+bullish inside bar on CLOUSDT
+bullish inside bar on TRUMPUSDT
+bullish inside bar on ASTERUSDT
+bullish inside bar on A2ZUSDT
+bullish inside bar on JSTUSDT
+bullish inside bar on GLMUSDT
+bullish inside bar on TRUMPUSDT
+bullish inside bar on FORTHUSDT
+checking higher tf 1h for JSTUSDT bullish=true
+bullish inside bar on LINEAUSDT
+bullish inside bar on FORTHUSDT
+bullish inside bar on ACHUSDT
+bullish inside bar on FOGOUSDT
+checking higher tf 1h for FOGOUSDT bullish=true
+bullish inside bar on TRUUSDT
+bullish inside bar on RIFUSDT
+bullish inside bar on QTUMUSDT
+bullish inside bar on KNCUSDT
+bullish inside bar on COAIUSDT
+bullish inside bar on SOLVUSDT
+bullish inside bar on QTUMUSDT
+bullish inside bar on KNCUSDT
+bullish inside bar on KNCUSDT
+checking higher tf 1h for COAIUSDT bullish=true
+bullish inside bar on COAIUSDT
+bullish inside bar on COAIUSDT
+bearish inside bar on INXUSDT
+bearish inside bar on MAGMAUSDT
+bearish inside bar on MAGMAUSDT
+bearish inside bar on NAORISUSDT
+bearish inside bar on DRIFTUSDT
+bearish inside bar on PARTIUSDT
+bearish inside bar on 4USDT
+bullish inside bar on COOKIEUSDT
+bullish engulfinfg top on BCHUSDT
+bullish engulfinfg top on ATHUSDT
+bearish engulfing top on SKYAIUSDT
+bullish inside bar on BANUSDT
+checking higher tf 1h for COOKIEUSDT bullish=true
+bullish engulfinfg top on SENTUSDT
+bullish inside bar on COLLECTUSDT
+bearish inside bar on HUMAUSDT
+bearish engulfing top on LUMIAUSDT
+bullish inside bar on RIFUSDT
+bullish inside bar on DOTUSDT
+bullish inside bar on BUSDT
+bearish engulfing top on DASHUSDT
+bearish inside bar on PUMPUSDT
+bullish harami top on LUMIAUSDT
+bearish inside bar on 1000000BOBUSDT
+bullish inside bar on LUMIAUSDT
+checking higher tf 1h for PUMPUSDT bullish=false
+bearish inside bar on BERAUSDT
+bearish inside bar on ROBOUSDT
+bullish inside bar on QTUMUSDT
+checking higher tf 1h for 1000000BOBUSDT bullish=false
+checking higher tf 1h for ROBOUSDT bullish=false
+checking higher tf 1h for QTUMUSDT bullish=true
+bearish inside bar on ROBOUSDT
+bullish inside bar on ALTUSDT
+bullish inside bar on PHAUSDT
+bullish inside bar on LINEAUSDT
+bearish inside bar on SPACEUSDT
+checking higher tf 1h for BUSDT bullish=true
+checking higher tf 1h for LINEAUSDT bullish=true
+bearish inside bar on ARCUSDT
+bullish inside bar on AVNTUSDT
+bearish inside bar on A2ZUSDT
+bearish inside bar on ALPINEUSDT
+bullish inside bar on SONICUSDT
+bullish inside bar on CHZUSDT
+bullish inside bar on INUSDT
+bullish engulfinfg top on TOWNSUSDT
+bearish inside bar on ALPINEUSDT
+checking higher tf 1h for ARCUSDT bullish=false
+checking higher tf 1h for CHZUSDT bullish=true
+checking higher tf 1h for AVNTUSDT bullish=true
+bullish inside bar on SOLUSDT
+bullish inside bar on NEARUSDT
+bullish inside bar on NILUSDT
+bullish inside bar on NEARUSDT
+bullish inside bar on BIOUSDT
+bullish inside bar on CCUSDT
+bullish inside bar on BLESSUSDT
+bullish inside bar on BIOUSDT
+bullish engulfinfg top on SONICUSDT
+bullish inside bar on BLESSUSDT
+bearish inside bar on RESOLVUSDT
+bearish inside bar on BABYUSDT
+bearish inside bar on BABYUSDT
+bullish inside bar on SUSDT
+bullish inside bar on QUSDT
+bullish inside bar on DOTUSDT
+bullish inside bar on ASTERUSDT
+bullish inside bar on LUNA2USDT
+bullish inside bar on INITUSDT
+bullish inside bar on SUIUSDT
+bullish inside bar on ORDIUSDT
+bullish inside bar on ORDIUSDT
+bullish inside bar on HIVEUSDT
+bullish inside bar on POLYXUSDT
+bearish inside bar on POLUSDT
+bearish inside bar on NEARUSDT
+bearish inside bar on BNBUSDT
+bullish inside bar on ROBOUSDT
+bearish inside bar on CYSUSDT
+bearish inside bar on TLMUSDT
+bullish inside bar on CFXUSDT
+bullish inside bar on BANUSDT
+bullish inside bar on KATUSDT
+bullish inside bar on SKYUSDT
+checking higher tf 1h for ROBOUSDT bullish=true
+bearish inside bar on MORPHOUSDT
+bullish engulfinfg top on SFPUSDT
+bearish inside bar on ACXUSDT
+bearish engulfing top on OPNUSDT
+bearish inside bar on BOMEUSDT
+bullish engulfinfg top on FARTCOINUSDT
+bearish inside bar on NOTUSDT
+bearish inside bar on JASMYUSDT
+bearish inside bar on GPSUSDT
+bearish inside bar on BRETTUSDT
+bullish harami top on OPNUSDT
+bearish inside bar on MEMEUSDT
+checking higher tf 1h for KATUSDT bullish=true
+bullish inside bar on OPNUSDT
+bearish inside bar on BCHUSDT
+bearish inside bar on TOSHIUSDT
+checking higher tf 1h for OPNUSDT bullish=true
+bearish inside bar on BTCUSDT
+bearish inside bar on BNTUSDT
+bearish inside bar on NEOUSDT
+bullish engulfinfg top on AVAUSDT
+checking higher tf 1h for AVAUSDT bullish=true
+bearish inside bar on A2ZUSDT
+bearish inside bar on REDUSDT
+bullish inside bar on BARDUSDT
+bearish inside bar on MITOUSDT
+bearish inside bar on BEAMXUSDT
+bearish inside bar on TREEUSDT
+bearish harami top on GLMUSDT
+bearish inside bar on BMTUSDT
+bearish inside bar on SAHARAUSDT
+bearish inside bar on HOLOUSDT
+bullish inside bar on FIDAUSDT
+bearish inside bar on EVAAUSDT
+bearish inside bar on SOLVUSDT
+bearish inside bar on DODOXUSDT
+bearish engulfing top on KERNELUSDT
+bearish inside bar on INXUSDT
+bullish harami top on KERNELUSDT
+bullish inside bar on BARDUSDT
+bearish inside bar on GLMUSDT
+bullish inside bar on KERNELUSDT
+bullish inside bar on BARDUSDT
+checking higher tf 1h for FIDAUSDT bullish=true
+checking higher tf 1h for EVAAUSDT bullish=false
+checking higher tf 1h for KERNELUSDT bullish=true
+Pattern  detected on KERNELUSDT at 2026-03-16T14:00:00.000Z in 1h
+[68d3f007099f9de77119b413] Current open positions: 0
+Account Config Update: {
+  eventType: 'ACCOUNT_CONFIG_UPDATE',
+  transactionTime: 1773688804866,
+  eventTime: 1773688804866,
+  assetConfiguration: { symbol: 'KERNELUSDT', leverage: 20 },
+  wsMarket: 'usdm',
+  wsKey: 'usdm_userData__ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI_usdm',
+  isWSAPIResponse: false
+}
+[68d3f007099f9de77119b413] Placing entry: KERNELUSDT BUY Qty:2021 Entry:0.09605115 SL:0.09564 TP:0.25603999999999905 RR:2.68
+[68d3f007099f9de77119b413] TRAILING STARTED → KERNELUSDT LONG | SL:0.09564 TP:0.25603999999999905 Map(1) {
+  '68d3f007099f9de77119b413-KERNELUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-74bf1204638f43-x-15PC4ZJy_Xcdr_tp-74bf1204638f43' => {
+    side: 'BUY',
+    symbol: 'KERNELUSDT',
+    positionSide: 'LONG',
+    currentSL: 0.09564,
+    currentTP: 0.25604,
+    qty: '2021',
+    trailCount: 0,
+    isScalping: false,
+    nextTriggerPrice: 0.0985092,
+    nextSL: 0.0965964,
+    nextTP: 0.2586004,
+    bigMoveTriggerPrice: 0.1281576,
+    bigMoveNextSL: 0.11955,
+    bigMoveNextTP: 0.32005,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-74bf1204638f43',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-74bf1204638f43'
+  }
+}
+BULLISH INSIDE BAR LONG entered: KERNELUSDT
+bearish inside bar on BABYUSDT
+bearish inside bar on OGUSDT
+bearish inside bar on ARIAUSDT
+bearish inside bar on ONUSDT
+bearish inside bar on DEGENUSDT
+bearish inside bar on MEMEUSDT
+bullish inside bar on PARTIUSDT
+bearish inside bar on MAGICUSDT
+bearish inside bar on FRAXUSDT
+bearish inside bar on SAPIENUSDT
+bearish inside bar on CCUSDT
+bullish inside bar on MYXUSDT
+bullish inside bar on IDOLUSDT
+bullish inside bar on TAUSDT
+bullish inside bar on TAUSDT
+bullish inside bar on OPUSDT
+bullish inside bar on PTBUSDT
+bullish inside bar on TRADOORUSDT
+bullish inside bar on TRADOORUSDT
+bullish inside bar on TAOUSDT
+bearish engulfing top on PYTHUSDT
+bullish harami top on PYTHUSDT
+bearish engulfing top on REZUSDT
+bullish inside bar on SAGAUSDT
+bullish inside bar on MORPHOUSDT
+bullish inside bar on BROCCOLI714USDT
+bullish inside bar on JUPUSDT
+bullish inside bar on PYTHUSDT
+bullish inside bar on JUPUSDT
+bullish inside bar on PYTHUSDT
+bullish inside bar on LINKUSDT
+bullish inside bar on LINKUSDT
+bullish inside bar on JSTUSDT
+bullish inside bar on SLPUSDT
+bullish inside bar on THEUSDT
+bullish inside bar on AUSDT
+bearish inside bar on AKTUSDT
+bullish inside bar on CATIUSDT
+bullish inside bar on DRIFTUSDT
+bullish inside bar on AZTECUSDT
+bullish inside bar on CATIUSDT
+bullish inside bar on AZTECUSDT
+bullish inside bar on ATHUSDT
+bearish inside bar on BTCUSDT
+bearish inside bar on NEIROUSDT
+bearish inside bar on SOLUSDT
+bearish harami top on AAVEUSDT
+bullish inside bar on LITUSDT
+bearish inside bar on AAVEUSDT
+bearish harami top on LTCUSDT
+bearish inside bar on PAXGUSDT
+bearish inside bar on LUMIAUSDT
+bearish inside bar on RLCUSDT
+bearish inside bar on KASUSDT
+bearish harami top on TREEUSDT
+bearish harami top on SYRUPUSDT
+bearish inside bar on TRXUSDT
+bearish inside bar on LTCUSDT
+bearish inside bar on TREEUSDT
+bearish inside bar on SYRUPUSDT
+bearish inside bar on TRXUSDT
+bearish harami top on PNUTUSDT
+bearish inside bar on PNUTUSDT
+bearish inside bar on POLUSDT
+bearish inside bar on KERNELUSDT
+bearish inside bar on FFUSDT
+bearish inside bar on 1MBABYDOGEUSDT
+bearish inside bar on LDOUSDT
+bearish inside bar on 1000RATSUSDT
+bearish inside bar on POPCATUSDT
+bearish inside bar on MONUSDT
+bearish inside bar on MONUSDT
+bearish harami top on SPACEUSDT
+bearish inside bar on SPACEUSDT
+bearish inside bar on MEMEUSDT
+bearish inside bar on DEEPUSDT
+bearish inside bar on COAIUSDT
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+bearish inside bar on BANANAS31USDT
+bullish inside bar on TRUUSDT
+bullish inside bar on HYPEUSDT
+bullish inside bar on ENSOUSDT
+bullish inside bar on HBARUSDT
+bullish inside bar on LAYERUSDT
+bearish engulfing top on MAGICUSDT
+bearish inside bar on KASUSDT
+bullish inside bar on ACHUSDT
+bullish inside bar on ASTERUSDT
+bearish engulfing top on ATUSDT
+bullish inside bar on COSUSDT
+bearish engulfing top on REZUSDT
+bullish inside bar on SONICUSDT
+bearish inside bar on RLCUSDT
+bearish inside bar on BBUSDT
+bearish inside bar on FIGHTUSDT
+bearish engulfing top on AIAUSDT
+bearish inside bar on RENDERUSDT
+bullish harami top on REZUSDT
+bullish inside bar on BNTUSDT
+checking higher tf 1h for SONICUSDT bullish=true
+bullish inside bar on REZUSDT
+bullish inside bar on SSVUSDT
+bearish engulfing top on SAGAUSDT
+checking higher tf 1h for RLCUSDT bullish=false
+checking higher tf 1h for REZUSDT bullish=true
+bearish inside bar on LAUSDT
+bullish inside bar on COOKIEUSDT
+bearish inside bar on LRCUSDT
+checking higher tf 1h for COOKIEUSDT bullish=true
+checking higher tf 1h for LAUSDT bullish=false
+bullish inside bar on KGENUSDT
+bullish inside bar on SUNUSDT
+bullish inside bar on HAEDALUSDT
+bearish inside bar on TACUSDT
+bullish inside bar on COMPUSDT
+bullish inside bar on GRIFFAINUSDT
+bullish inside bar on EVAAUSDT
+bullish inside bar on CCUSDT
+checking higher tf 1h for TACUSDT bullish=false
+bearish inside bar on TACUSDT
+checking higher tf 1h for HAEDALUSDT bullish=true
+checking higher tf 1h for EVAAUSDT bullish=true
+checking higher tf 1h for SUNUSDT bullish=true
+bullish inside bar on HAEDALUSDT
+bullish inside bar on ETHUSDT
+bullish inside bar on SOLUSDT
+bullish inside bar on JTOUSDT
+bullish inside bar on 1000PEPEUSDT
+bullish inside bar on B3USDT
+bullish inside bar on 1000PEPEUSDT
+bullish inside bar on B3USDT
+bullish inside bar on LISTAUSDT
+bullish inside bar on PIXELUSDT
+bullish inside bar on LISTAUSDT
+bullish inside bar on APTUSDT
+bullish inside bar on PIXELUSDT
+bullish inside bar on OPUSDT
+bullish inside bar on RENDERUSDT
+bullish inside bar on GUAUSDT
+bullish inside bar on THETAUSDT
+bullish inside bar on THETAUSDT
+bullish inside bar on AAVEUSDT
+bullish inside bar on 1MBABYDOGEUSDT
+bullish inside bar on ATHUSDT
+bullish inside bar on BARDUSDT
+bullish inside bar on QNTUSDT
+bullish inside bar on SCRTUSDT
+bullish inside bar on SQDUSDT
+bearish engulfing top on DOLOUSDT
+bearish inside bar on OPNUSDT
+bullish engulfinfg top on 1000PEPEUSDT
+bearish inside bar on CYSUSDT
+bearish engulfing top on AIOTUSDT
+bullish harami top on AIOTUSDT
+bearish inside bar on KGENUSDT
+bullish inside bar on AIOTUSDT
+bullish inside bar on AIOTUSDT
+bullish inside bar on RESOLVUSDT
+checking higher tf 1h for RESOLVUSDT bullish=true
+bullish inside bar on ESPUSDT
+bullish inside bar on PYTHUSDT
+bullish inside bar on GMXUSDT
+bullish inside bar on ENSOUSDT
+bearish harami top on BLESSUSDT
+bullish inside bar on DOGEUSDT
+bullish inside bar on BANANAUSDT
+bullish inside bar on NEOUSDT
+bearish inside bar on BLESSUSDT
+bullish inside bar on JUPUSDT
+bullish inside bar on 0GUSDT
+bullish inside bar on CATIUSDT
+bullish inside bar on MUBARAKUSDT
+bullish inside bar on AXLUSDT
+bullish inside bar on CATIUSDT
+bullish inside bar on CATIUSDT
+bearish inside bar on STABLEUSDT
+bullish inside bar on SUSDT
+bullish inside bar on ALLOUSDT
+bearish inside bar on INITUSDT
+bullish inside bar on GIGGLEUSDT
+bearish engulfing top on ACXUSDT
+bullish inside bar on FIDAUSDT
+bullish inside bar on AUCTIONUSDT
+bullish inside bar on AUCTIONUSDT
+bullish inside bar on ACHUSDT
+bullish inside bar on BIRBUSDT
+bullish inside bar on BIRBUSDT
+bullish inside bar on SUNUSDT
+bullish engulfinfg top on BANUSDT
+bullish engulfinfg top on GPSUSDT
+bullish inside bar on GPSUSDT
+bullish inside bar on IDOLUSDT
+bearish inside bar on NILUSDT
+bearish inside bar on 1000SHIBUSDT
+bearish inside bar on TIAUSDT
+bearish inside bar on INXUSDT
+bearish inside bar on KATUSDT
+bearish inside bar on BEAMXUSDT
+bearish engulfing top on BASUSDT
+bearish inside bar on NOMUSDT
+bearish inside bar on BCHUSDT
+bearish engulfing top on STABLEUSDT
+bullish inside bar on ACHUSDT
+bullish inside bar on PLAYUSDT
+bearish inside bar on ANKRUSDT
+bearish engulfing top on SPKUSDT
+bearish inside bar on MEMEUSDT
+bullish inside bar on CFXUSDT
+bullish inside bar on CFXUSDT
+bearish inside bar on FILUSDT
+bearish inside bar on KATUSDT
+bullish inside bar on DEXEUSDT
+checking higher tf 1h for DEXEUSDT bullish=true
+bearish inside bar on AKEUSDT
+bearish inside bar on QUSDT
+bullish inside bar on QUSDT
+bullish inside bar on SAPIENUSDT
+bullish inside bar on THEUSDT
+bullish inside bar on TAUSDT
+bullish engulfinfg top on CYBERUSDT
+bullish inside bar on CYBERUSDT
+bullish inside bar on TAOUSDT
+bullish inside bar on HYPEUSDT
+bearish engulfing top on LUMIAUSDT
+bearish inside bar on BICOUSDT
+bullish inside bar on HEIUSDT
+bullish inside bar on MUSDT
+bearish harami top on ACHUSDT
+bullish inside bar on CLOUSDT
+bullish inside bar on BNTUSDT
+bearish inside bar on ACHUSDT
+bullish inside bar on BNTUSDT
+bullish inside bar on BNTUSDT
+bearish engulfing top on LAYERUSDT
+bearish inside bar on APTUSDT
+bearish inside bar on PAXGUSDT
+bearish inside bar on FARTCOINUSDT
+bearish inside bar on ADAUSDT
+bearish inside bar on ADAUSDT
+bullish engulfinfg top on TAGUSDT
+bearish inside bar on ACUUSDT
+bearish inside bar on 1000BONKUSDT
+bearish inside bar on ORDIUSDT
+bearish inside bar on POPCATUSDT
+bearish inside bar on INJUSDT
+bearish inside bar on 2ZUSDT
+bearish inside bar on STRKUSDT
+bearish inside bar on DRIFTUSDT
+bearish inside bar on ORDERUSDT
+bullish inside bar on BLUAIUSDT
+bullish engulfinfg top on AZTECUSDT
+bullish inside bar on SKYUSDT
+bearish inside bar on JELLYJELLYUSDT
+bearish inside bar on KATUSDT
+bullish inside bar on AKTUSDT
+bearish inside bar on NOTUSDT
+bearish inside bar on EIGENUSDT
+bullish inside bar on NILUSDT
+bullish inside bar on ALCHUSDT
+bullish inside bar on ALCHUSDT
+bullish inside bar on AAVEUSDT
+bearish inside bar on FILUSDT
+bearish inside bar on FILUSDT
+bearish engulfing top on 1000000MOGUSDT
+bullish harami top on 1000000MOGUSDT
+bullish inside bar on 1000000MOGUSDT
+checking higher tf 1h for AKTUSDT bullish=true
+bullish engulfinfg top on SUNUSDT
+bearish engulfing top on BASUSDT
+bullish inside bar on DEGENUSDT
+bearish engulfing top on JCTUSDT
+bullish inside bar on BANUSDT
+bullish harami top on JCTUSDT
+checking higher tf 1h for DEGENUSDT bullish=true
+bullish inside bar on JCTUSDT
+bearish inside bar on PHBUSDT
+bearish inside bar on REZUSDT
+bearish inside bar on RLCUSDT
+bearish inside bar on PHBUSDT
+bearish inside bar on GLMUSDT
+bearish inside bar on HBARUSDT
+bearish inside bar on HBARUSDT
+bearish inside bar on ATOMUSDT
+bearish inside bar on AEROUSDT
+bearish inside bar on SOLUSDT
+bearish inside bar on ETHFIUSDT
+bearish inside bar on ENAUSDT
+bearish inside bar on DRIFTUSDT
+bearish inside bar on ENSUSDT
+bearish inside bar on BANANAS31USDT
+bearish inside bar on GWEIUSDT
+bearish inside bar on BNBUSDT
+bearish inside bar on PUMPUSDT
+bearish inside bar on API3USDT
+bearish inside bar on ESPUSDT
+bullish inside bar on APRUSDT
+bearish inside bar on CGPTUSDT
+bearish inside bar on BBUSDT
+bearish inside bar on GASUSDT
+bearish inside bar on MEUSDT
+bearish inside bar on ANKRUSDT
+bearish inside bar on SAFEUSDT
+bullish inside bar on APRUSDT
+bearish inside bar on DOTUSDT
+bearish inside bar on SAPIENUSDT
+bearish inside bar on BIGTIMEUSDT
+checking higher tf 1h for GASUSDT bullish=false
+bearish inside bar on DOTUSDT
+bearish inside bar on LINEAUSDT
+bearish inside bar on SUSDT
+bearish inside bar on LAUSDT
+bearish inside bar on MANTRAUSDT
+bearish inside bar on BLURUSDT
+bearish inside bar on BREVUSDT
+bearish inside bar on SYSUSDT
+bearish inside bar on SKRUSDT
+bearish inside bar on GRIFFAINUSDT
+bearish inside bar on FUSDT
+bearish inside bar on EPICUSDT
+bearish inside bar on SUNUSDT
+[
+  'Pong timeout - closing socket to reconnect',
+  {
+    category: 'binance-ws',
+    wsKey: 'usdm_userData__ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI_usdm',
+    reason: 'Pong timeout'
+  }
+]
+[
+  'Websocket connection closed',
+  {
+    category: 'binance-ws',
+    wsKey: 'usdm_userData__ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI_usdm'
+  }
+]
+[
+  'Reconnecting to websocket with delay...',
+  {
+    category: 'binance-ws',
+    wsKey: 'usdm_userData__ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI_usdm',
+    connectionDelayMs: 500
+  }
+]
+[68d3f007099f9de77119b413] Reconnecting...
+[
+  'Preparing to reconnect userData stream...',
+  {
+    category: 'binance-ws',
+    legacyWsKey: 'usdm_userData__ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI_usdm',
+    market: 'usdm',
+    symbol: '',
+    isTestnet: false,
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI',
+    wsKey: 'usdm'
+  }
+]
+[
+  'Reconnecting to user data stream...',
+  {
+    category: 'binance-ws',
+    symbol: '',
+    legacyWsKey: 'usdm_userData__ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI_usdm',
+    wsKey: 'usdm',
+    market: 'usdm',
+    isTestnet: false,
+    isUserData: true,
+    streamName: 'userData',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI',
+    otherParams: []
+  }
+]
+[
+  'Websocket reconnected',
+  {
+    category: 'binance-ws',
+    wsKey: 'usdm_userData__ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI_usdm'
+  }
+]
+[68d3f007099f9de77119b413] Reconnected
+bearish inside bar on DAMUSDT
+bearish inside bar on MYXUSDT
+bearish inside bar on DAMUSDT
+bearish inside bar on MYXUSDT
+bullish inside bar on PLAYUSDT
+bullish inside bar on DEXEUSDT
+bearish inside bar on HANAUSDT
+bullish inside bar on COLLECTUSDT
+bearish inside bar on STBLUSDT
+bullish inside bar on BLUAIUSDT
+bearish inside bar on FHEUSDT
+bearish inside bar on FHEUSDT
+bearish inside bar on NIGHTUSDT
+bearish inside bar on NIGHTUSDT
+bearish inside bar on MASKUSDT
+bearish inside bar on ARKMUSDT
+bearish harami top on CATIUSDT
+bearish harami top on RDNTUSDT
+bearish inside bar on SQDUSDT
+bearish inside bar on COAIUSDT
+bearish harami top on INJUSDT
+bearish inside bar on CATIUSDT
+bearish inside bar on RDNTUSDT
+bearish inside bar on INJUSDT
+bearish inside bar on DASHUSDT
+bearish inside bar on DASHUSDT
+bearish inside bar on FIGHTUSDT
+bearish inside bar on FIGHTUSDT
+[68d3f007099f9de77119b413] UNWANTED ENTRY → KERNELUSDT undefined x-15PC4ZJy_Xcdr_sl-74bf1204638f43 → KILLING
+Client connecting: wrycrANyzhHi7KlUAAAR with accountId: default
+[32m[Nest] 77032  - [39m03/16/2026, 7:51:31 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MjgwNTMyNywiZXhwIjoxNzc2MjYxMzI3fQ.KtOLGxWQLpHN_vtIeZXvNfBQvPkr0XNqoRlvTHD8oGo[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 77032  - [39m03/16/2026, 7:51:31 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: wrycrANyzhHi7KlUAAAR[39m
+Client connecting: RglakysQPhJkp1QUAAAT with accountId: default
+[32m[Nest] 77032  - [39m03/16/2026, 7:51:31 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MjgwNTMyNywiZXhwIjoxNzc2MjYxMzI3fQ.KtOLGxWQLpHN_vtIeZXvNfBQvPkr0XNqoRlvTHD8oGo[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 77032  - [39m03/16/2026, 7:51:45 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: RglakysQPhJkp1QUAAAT[39m
+bullish inside bar on PARTIUSDT
+bullish inside bar on SIGNUSDT
+bullish inside bar on TRUMPUSDT
+bearish inside bar on BANANAS31USDT
+bearish inside bar on CYSUSDT
+bearish inside bar on HUSDT
+bearish engulfing top on NEWTUSDT
+bearish inside bar on SYRUPUSDT
+bearish inside bar on SPORTFUNUSDT
+bearish inside bar on BICOUSDT
+bearish inside bar on PHAUSDT
+bearish inside bar on PHAUSDT
+bearish inside bar on BANANAUSDT
+bearish inside bar on NOMUSDT
+bearish harami top on BIRBUSDT
+bearish inside bar on BIRBUSDT
+bearish inside bar on BTCUSDT
+bearish inside bar on ETHFIUSDT
+bearish inside bar on ETHFIUSDT
+bearish inside bar on DOGEUSDT
+bearish inside bar on BNBUSDT
+bearish inside bar on SANDUSDT
+bearish inside bar on KSMUSDT
+bearish inside bar on RLCUSDT
+bearish inside bar on ADAUSDT
+bearish inside bar on FFUSDT
+bearish inside bar on LUMIAUSDT
+bearish inside bar on QTUMUSDT
+bearish inside bar on HANAUSDT
+bearish inside bar on CATIUSDT
+bullish inside bar on ESPUSDT
+bearish inside bar on MEUSDT
+bearish inside bar on FFUSDT
+bearish inside bar on QTUMUSDT
+bearish inside bar on MEUSDT
+bearish inside bar on FHEUSDT
+bearish inside bar on AUCTIONUSDT
+bullish inside bar on STABLEUSDT
+bearish inside bar on MANTAUSDT
+bullish inside bar on IDOLUSDT
+bearish inside bar on ALLUSDT
+bearish harami top on PARTIUSDT
+bearish inside bar on PARTIUSDT
+bearish inside bar on BREVUSDT
+bearish inside bar on BREVUSDT
+bearish inside bar on BREVUSDT
+bearish inside bar on MLNUSDT
+bearish inside bar on MLNUSDT
+bearish inside bar on SPACEUSDT
+bearish inside bar on SAFEUSDT
+bearish inside bar on BRETTUSDT
+bearish inside bar on BIGTIMEUSDT
+bearish inside bar on BIGTIMEUSDT
+bullish engulfinfg top on TAOUSDT
+bullish engulfinfg top on PUMPUSDT
+bullish inside bar on A2ZUSDT
+bullish engulfinfg top on RAYSOLUSDT
+bullish inside bar on A2ZUSDT
+bullish inside bar on DOTUSDT
+bullish inside bar on DEGENUSDT
+bullish inside bar on BRETTUSDT
+bullish inside bar on KAITOUSDT
+bearish inside bar on POWERUSDT
+bullish inside bar on 1000BONKUSDT
+bullish inside bar on NEIROUSDT
+bullish inside bar on BOMEUSDT
+bullish inside bar on 1MBABYDOGEUSDT
+bullish inside bar on 1000CHEEMSUSDT
+bullish inside bar on 1000FLOKIUSDT
+bearish inside bar on HUSDT
+bearish inside bar on IDOLUSDT
+bullish inside bar on AXLUSDT
+bullish inside bar on EDENUSDT
+bullish inside bar on CYSUSDT
+bullish inside bar on HYPEUSDT
+bullish inside bar on ARCUSDT
+bearish inside bar on TRXUSDT
+bullish inside bar on 1000SHIBUSDT
+bullish inside bar on BOMEUSDT
+bullish inside bar on SPORTFUNUSDT
+bullish inside bar on ASTERUSDT
+bearish inside bar on MERLUSDT
+bullish inside bar on SEIUSDT
+bullish inside bar on APTUSDT
+bullish inside bar on DEEPUSDT
+bullish inside bar on PNUTUSDT
+bearish inside bar on AWEUSDT
+bullish inside bar on LISTAUSDT
+bearish inside bar on RIFUSDT
+bullish inside bar on IDOLUSDT
+bullish inside bar on BANANAUSDT
+checking higher tf 1h for LISTAUSDT bullish=true
+checking higher tf 1h for AWEUSDT bullish=false
+bullish inside bar on LISTAUSDT
+bullish inside bar on BANANAUSDT
+bullish inside bar on MOODENGUSDT
+checking higher tf 1h for IDOLUSDT bullish=true
+bullish inside bar on AIOUSDT
+bullish inside bar on GRIFFAINUSDT
+bearish inside bar on PROMUSDT
+bullish inside bar on RAYSOLUSDT
+bearish inside bar on PHBUSDT
+checking higher tf 1h for ARCUSDT bullish=true
+bearish inside bar on PROMUSDT
+bearish inside bar on PROMUSDT
+bullish engulfinfg top on HBARUSDT
+bullish inside bar on SPXUSDT
+bullish inside bar on SCRUSDT
+bearish inside bar on TAUSDT
+bearish engulfing top on AUCTIONUSDT
+bullish inside bar on SCRUSDT
+bullish inside bar on SOONUSDT
+bullish engulfinfg top on INJUSDT
+bullish engulfinfg top on APTUSDT
+bullish engulfinfg top on ONDOUSDT
+bullish inside bar on CETUSUSDT
+checking higher tf 1h for CETUSUSDT bullish=true
+bullish inside bar on FLOWUSDT
+bearish inside bar on B2USDT
+bearish inside bar on ATHUSDT
+bearish inside bar on STEEMUSDT
+bullish inside bar on MEUSDT
+bearish inside bar on RAREUSDT
+bearish inside bar on GUAUSDT
+bearish inside bar on AVAXUSDT
+bearish inside bar on 1000000BOBUSDT
+bearish inside bar on ILVUSDT
+bullish inside bar on LIGHTUSDT
+bearish inside bar on AVAAIUSDT
+bullish inside bar on DOTUSDT
+bullish inside bar on SUIUSDT
+bearish inside bar on ILVUSDT
+bearish inside bar on TRXUSDT
+bullish inside bar on NEARUSDT
+bullish inside bar on 2ZUSDT
+bullish inside bar on BLUAIUSDT
+bearish inside bar on ILVUSDT
+bearish engulfing top on INJUSDT
+bullish inside bar on CATIUSDT
+bearish inside bar on SKRUSDT
+bullish harami top on INJUSDT
+bearish engulfing top on EIGENUSDT
+bearish harami top on 1000RATSUSDT
+bearish engulfing top on RAYSOLUSDT
+bearish inside bar on PIEVERSEUSDT
+bearish engulfing top on 1000BONKUSDT
+bearish inside bar on 1000RATSUSDT
+bearish engulfing top on HEIUSDT
+bullish inside bar on INJUSDT
+bullish harami top on 1000BONKUSDT
+bullish inside bar on 1000BONKUSDT
+bullish inside bar on TNSRUSDT
+bullish inside bar on DUSDT
+bearish engulfing top on SEIUSDT
+bearish engulfing top on 1000FLOKIUSDT
+bullish harami top on 1000FLOKIUSDT
+bearish engulfing top on PNUTUSDT
+bullish inside bar on 1000FLOKIUSDT
+bullish harami top on PNUTUSDT
+bullish inside bar on PNUTUSDT
+bearish inside bar on HAEDALUSDT
+bullish inside bar on ESPORTSUSDT
+bearish engulfing top on ORDIUSDT
+bullish inside bar on ESPORTSUSDT
+bearish inside bar on CVXUSDT
+bullish inside bar on EDENUSDT
+bearish inside bar on NEOUSDT
+bearish inside bar on DOTUSDT
+checking higher tf 1h for NEOUSDT bullish=false
+bearish inside bar on NEOUSDT
+bearish inside bar on NEOUSDT
+bearish inside bar on ORDIUSDT
+bearish inside bar on AIUSDT
+bearish inside bar on ALPINEUSDT
+bearish inside bar on KMNOUSDT
+bullish inside bar on RESOLVUSDT
+bullish inside bar on BUSDT
+bullish inside bar on CLOUSDT
+bullish inside bar on CLOUSDT
+bearish inside bar on SUIUSDT
+bearish inside bar on ANKRUSDT
+bearish inside bar on MUSDT
+bearish inside bar on BARDUSDT
+bearish inside bar on SPACEUSDT
+bearish inside bar on DODOXUSDT
+bullish inside bar on PLAYUSDT
+bearish inside bar on MTLUSDT
+bearish inside bar on GRTUSDT
+bearish inside bar on PUFFERUSDT
+bearish inside bar on AIXBTUSDT
+bearish inside bar on GRTUSDT
+bullish inside bar on SKYUSDT
+bullish inside bar on HBARUSDT
+bearish inside bar on PIEVERSEUSDT
+bullish inside bar on CYSUSDT
+bearish harami top on CFXUSDT
+bearish inside bar on CFXUSDT
+bearish inside bar on PIXELUSDT
+bearish inside bar on GWEIUSDT
+bullish inside bar on INITUSDT
+bearish inside bar on SPORTFUNUSDT
+bearish inside bar on QNTUSDT
+bullish engulfinfg top on IDOLUSDT
+bullish inside bar on LISTAUSDT
+bearish inside bar on JELLYJELLYUSDT
+bearish inside bar on MORPHOUSDT
+bearish inside bar on ESPORTSUSDT
+checking higher tf 1h for LISTAUSDT bullish=true
+bullish inside bar on ATUSDT
+bearish inside bar on ACXUSDT
+bearish inside bar on SYNUSDT
+bearish inside bar on ASTRUSDT
+bearish inside bar on ASTRUSDT
+bearish inside bar on INUSDT
+bearish inside bar on INUSDT
+bearish inside bar on NIGHTUSDT
+bullish inside bar on STRKUSDT
+bearish engulfing top on TRUTHUSDT
+bearish inside bar on NEWTUSDT
+bearish inside bar on AKTUSDT
+bearish inside bar on B3USDT
+bullish inside bar on BANANAUSDT
+bearish inside bar on STOUSDT
+bearish engulfing top on RDNTUSDT
+bearish inside bar on BOBUSDT
+bearish inside bar on MAGMAUSDT
+bearish inside bar on TOWNSUSDT
+bullish harami top on RDNTUSDT
+bearish inside bar on BOBUSDT
+bullish inside bar on RDNTUSDT
+bullish inside bar on 2ZUSDT
+bullish inside bar on MINAUSDT
+bearish inside bar on BABYUSDT
+bullish inside bar on ADAUSDT
+bearish inside bar on BABYUSDT
+bearish inside bar on ATHUSDT
+bullish inside bar on TRUSTUSDT
+bullish inside bar on BOMEUSDT
+bearish inside bar on ICPUSDT
+bullish inside bar on SEIUSDT
+bullish inside bar on KSMUSDT
+bullish inside bar on PENDLEUSDT
+bullish inside bar on TIAUSDT
+bullish inside bar on PENDLEUSDT
+checking higher tf 1h for KSMUSDT bullish=true
+bullish inside bar on SKYAIUSDT
+bearish inside bar on BANANAS31USDT
+bearish inside bar on NAORISUSDT
+bullish inside bar on BNTUSDT
+bullish inside bar on LITUSDT
+bullish engulfinfg top on MEWUSDT
+bearish engulfing top on DODOXUSDT
+bullish harami top on DODOXUSDT
+bullish inside bar on DODOXUSDT
+bearish inside bar on STGUSDT
+bullish inside bar on DAMUSDT
+bullish inside bar on HYPEUSDT
+bearish inside bar on RLCUSDT
+bearish inside bar on GUAUSDT
+bearish inside bar on 2ZUSDT
+bearish inside bar on ETHFIUSDT
+bearish inside bar on AIAUSDT
+bullish inside bar on FARTCOINUSDT
+bearish inside bar on BNBUSDT
+bullish inside bar on PARTIUSDT
+bullish inside bar on TAOUSDT
+bearish engulfing top on APRUSDT
+bullish engulfinfg top on GUSDT
+bullish harami top on APRUSDT
+bearish inside bar on LTCUSDT
+bearish inside bar on KSMUSDT
+bullish inside bar on APRUSDT
+bearish inside bar on MAVIAUSDT
+bullish inside bar on PENDLEUSDT
+bearish inside bar on LISTAUSDT
+checking higher tf 1h for APRUSDT bullish=true
+bullish inside bar on DUSKUSDT
+checking higher tf 1h for KSMUSDT bullish=false
+bullish inside bar on BARDUSDT
+bearish inside bar on KSMUSDT
+checking higher tf 1h for PENDLEUSDT bullish=true
+bearish inside bar on HOMEUSDT
+bearish inside bar on AGLDUSDT
+bearish inside bar on SAFEUSDT
+bearish inside bar on ONUSDT
+bearish inside bar on IRYSUSDT
+bearish inside bar on RLCUSDT
+bullish inside bar on MEWUSDT
+bearish inside bar on BREVUSDT
+bullish inside bar on KITEUSDT
+bearish inside bar on JSTUSDT
+bullish inside bar on DAMUSDT
+bullish inside bar on BCHUSDT
+bearish inside bar on DYMUSDT
+bullish inside bar on APTUSDT
+bullish inside bar on BCHUSDT
+checking higher tf 1h for DYMUSDT bullish=false
+bullish inside bar on FLUIDUSDT
+checking higher tf 1h for FLUIDUSDT bullish=true
+bearish engulfing top on NAORISUSDT
+bullish inside bar on ETHUSDT
+bullish harami top on NAORISUSDT
+bullish inside bar on HUMAUSDT
+bullish inside bar on BTCUSDT
+bullish inside bar on 1000BONKUSDT
+bullish inside bar on PIEVERSEUSDT
+bullish inside bar on 1000BONKUSDT
+bullish inside bar on SANDUSDT
+bullish inside bar on PENDLEUSDT
+bearish engulfing top on POPCATUSDT
+bullish inside bar on JASMYUSDT
+bullish inside bar on KAITOUSDT
+bullish inside bar on ENSUSDT
+bullish inside bar on ONUSDT
+bearish engulfing top on TRUUSDT
+bullish inside bar on DOODUSDT
+bullish inside bar on AEROUSDT
+bullish inside bar on ENSUSDT
+checking higher tf 1h for AEROUSDT bullish=true
+Pattern  detected on AEROUSDT at 2026-03-16T15:00:00.000Z in 1h
+checking higher tf 1h for ONUSDT bullish=true
+bullish engulfinfg top on LINKUSDT
+bearish inside bar on STABLEUSDT
+bullish engulfinfg top on ASTERUSDT
+bullish inside bar on NFPUSDT
+checking higher tf 1h for ASTERUSDT bullish=true
+bullish inside bar on STOUSDT
+bullish inside bar on AVNTUSDT
+bullish inside bar on AVNTUSDT
+checking higher tf 1h for STOUSDT bullish=true
+bullish inside bar on STOUSDT
+bearish inside bar on CYSUSDT
+bearish inside bar on 1000CHEEMSUSDT
+bearish inside bar on INITUSDT
+bearish inside bar on OPNUSDT
+bearish inside bar on ATHUSDT
+bearish inside bar on RIVERUSDT
+bearish harami top on OPNUSDT
+bearish inside bar on OPNUSDT
+bullish inside bar on EIGENUSDT
+bullish inside bar on DOTUSDT
+bullish inside bar on RECALLUSDT
+bearish inside bar on BTCDOMUSDT
+bearish inside bar on KASUSDT
+bullish inside bar on RECALLUSDT
+bearish inside bar on RESOLVUSDT
+bearish inside bar on TRUUSDT
+bearish inside bar on KASUSDT
+bullish inside bar on HBARUSDT
+bullish inside bar on IDOLUSDT
+bearish inside bar on PARTIUSDT
+bullish inside bar on HEIUSDT
+bearish inside bar on AKTUSDT
+bearish inside bar on 1000CATUSDT
+bullish inside bar on BCHUSDT
+bearish inside bar on NOTUSDT
+bearish inside bar on SPXUSDT
+bullish inside bar on BARDUSDT
+bullish inside bar on RESOLVUSDT
+bearish inside bar on MYXUSDT
+bullish inside bar on ETHFIUSDT
+bullish inside bar on 0GUSDT
+bullish inside bar on ETHUSDT
+bullish engulfinfg top on HYPEUSDT
+bullish inside bar on DAMUSDT
+bullish inside bar on DAMUSDT
+bullish inside bar on DAMUSDT
+bullish inside bar on LINKUSDT
+bearish engulfing top on QNTUSDT
+bullish inside bar on REZUSDT
+bullish inside bar on DODOXUSDT
+bearish inside bar on AXLUSDT
+bearish inside bar on ATUSDT
+bearish inside bar on 1000RATSUSDT
+bullish inside bar on APRUSDT
+bearish inside bar on STABLEUSDT
+bullish inside bar on FETUSDT
+bearish inside bar on BNBUSDT
+bearish inside bar on CAKEUSDT
+bearish inside bar on KASUSDT
+bullish inside bar on INITUSDT
+bullish inside bar on QTUMUSDT
+bullish inside bar on EVAAUSDT
+bearish inside bar on JASMYUSDT
+bullish inside bar on KSMUSDT
+bullish inside bar on STRKUSDT
+bullish inside bar on KAITOUSDT
+bullish inside bar on RSRUSDT
+bullish engulfinfg top on ESPUSDT
+bearish inside bar on CROSSUSDT
+checking higher tf 1h for KAITOUSDT bullish=true
+checking higher tf 1h for KSMUSDT bullish=true
+bearish inside bar on CROSSUSDT
+bullish inside bar on HMSTRUSDT
+bearish engulfing top on TNSRUSDT
+bullish inside bar on DOODUSDT
+bullish inside bar on ALGOUSDT
+bullish inside bar on COAIUSDT
+bullish inside bar on ALGOUSDT
+bullish inside bar on ALGOUSDT
+bearish engulfing top on BTCUSDT
+bullish inside bar on PIXELUSDT
+bullish inside bar on AIOUSDT
+checking higher tf 1h for AIOUSDT bullish=true
+bullish engulfinfg top on RAYSOLUSDT
+bullish inside bar on RAYSOLUSDT
+bullish inside bar on COSUSDT
+bearish inside bar on NFPUSDT
+bullish inside bar on BUSDT
+bullish inside bar on BUSDT
+bullish inside bar on MOVEUSDT
+bearish inside bar on OPNUSDT
+bullish inside bar on RENDERUSDT
+bearish inside bar on SPXUSDT
+bullish inside bar on PHAUSDT
+bullish inside bar on TRUMPUSDT
+bullish inside bar on ALPINEUSDT
+bullish inside bar on STABLEUSDT
+bearish inside bar on NAORISUSDT
+bearish inside bar on BANANAS31USDT
+bullish inside bar on SEIUSDT
+bullish inside bar on DOGEUSDT
+bullish inside bar on AVAXUSDT
+bullish engulfinfg top on ASTERUSDT
+bearish engulfing top on BNBUSDT
+bullish inside bar on RAYSOLUSDT
+bullish inside bar on EVAAUSDT
+bullish inside bar on MOVEUSDT
+bearish inside bar on ROBOUSDT
+bullish inside bar on DASHUSDT
+checking higher tf 1h for SEIUSDT bullish=true
+bearish inside bar on FIGHTUSDT
+checking higher tf 1h for ASTERUSDT bullish=true
+bullish inside bar on SKYAIUSDT
+bullish inside bar on CGPTUSDT
+bullish inside bar on SKYAIUSDT
+bullish inside bar on SPACEUSDT
+bullish inside bar on CGPTUSDT
+bearish inside bar on MAGMAUSDT
+bearish inside bar on CAKEUSDT
+bullish inside bar on AXSUSDT
+bullish inside bar on POLUSDT
+bullish inside bar on MASKUSDT
+bullish inside bar on MASKUSDT
+bullish inside bar on IPUSDT
+bullish inside bar on SUSDT
+bullish inside bar on BRUSDT
+bearish inside bar on B2USDT
+bearish inside bar on EULUSDT
+bearish inside bar on SPKUSDT
+bullish inside bar on ORDIUSDT
+bullish inside bar on RAREUSDT
+bearish inside bar on ACXUSDT
+bullish inside bar on SKRUSDT
+bullish inside bar on GRIFFAINUSDT
+bearish inside bar on EULUSDT
+bullish inside bar on SKRUSDT
+checking higher tf 1h for SUSDT bullish=true
+checking higher tf 1h for ACXUSDT bullish=false
+bullish inside bar on MUSDT
+bullish inside bar on CCUSDT
+bullish inside bar on AXSUSDT
+bearish inside bar on 1000RATSUSDT
+bullish inside bar on 4USDT
+bullish inside bar on ICPUSDT
+bullish inside bar on SIGNUSDT
+bearish inside bar on ALLOUSDT
+bullish inside bar on 2ZUSDT
+bullish inside bar on CETUSUSDT
+bearish inside bar on LISTAUSDT
+bullish inside bar on TAOUSDT
+bullish engulfinfg top on HYPEUSDT
+bearish inside bar on AIXBTUSDT
+bullish inside bar on HUMAUSDT
+bullish inside bar on NIGHTUSDT
+bearish inside bar on LINEAUSDT
+bearish inside bar on EIGENUSDT
+bullish inside bar on BANUSDT
+bearish inside bar on 1000RATSUSDT
+bullish inside bar on EGLDUSDT
+bullish inside bar on 1000SHIBUSDT
+bullish inside bar on MERLUSDT
+bearish inside bar on MORPHOUSDT
+bullish inside bar on TRBUSDT
+bullish inside bar on FLUXUSDT
+bullish inside bar on 1000BONKUSDT
+bullish inside bar on TRBUSDT
+bullish inside bar on SWARMSUSDT
+bullish inside bar on CFXUSDT
+bullish inside bar on MAVIAUSDT
+bullish inside bar on B2USDT
+bearish inside bar on 1MBABYDOGEUSDT
+bullish inside bar on B2USDT
+bullish inside bar on NEOUSDT
+bullish inside bar on PYTHUSDT
+bullish inside bar on GASUSDT
+bullish inside bar on TRBUSDT
+bullish inside bar on POLUSDT
+bearish inside bar on NAORISUSDT
+bullish inside bar on GASUSDT
+bullish inside bar on PENGUUSDT
+bullish inside bar on 1000PEPEUSDT
+bullish inside bar on SOLUSDT
+bullish inside bar on EDUUSDT
+bullish inside bar on MOODENGUSDT
+bullish inside bar on FLOCKUSDT
+bullish inside bar on ETCUSDT
+bullish inside bar on SANDUSDT
+bullish inside bar on ENSUSDT
+bullish inside bar on FILUSDT
+bullish inside bar on THETAUSDT
+bullish inside bar on ORDIUSDT
+bullish inside bar on EDUUSDT
+bullish inside bar on NEIROUSDT
+bullish inside bar on BOMEUSDT
+bullish inside bar on PNUTUSDT
+bullish inside bar on BOMEUSDT
+bullish inside bar on IDOLUSDT
+bullish inside bar on CYBERUSDT
+bullish inside bar on SENTUSDT
+bullish inside bar on SUSDT
+bullish inside bar on ARKMUSDT
+bullish inside bar on SUSDT
+bullish inside bar on GALAUSDT
+bullish inside bar on ARBUSDT
+bullish inside bar on SAGAUSDT
+bullish inside bar on LINKUSDT
+bullish inside bar on INJUSDT
+bullish inside bar on INJUSDT
+bullish inside bar on OPUSDT
+bullish inside bar on GALAUSDT
+bullish inside bar on ARBUSDT
+bullish inside bar on SWARMSUSDT
+bullish inside bar on HEIUSDT
+bullish inside bar on GALAUSDT
+bullish inside bar on ARBUSDT
+bullish inside bar on SWARMSUSDT
+bullish inside bar on TIAUSDT
+bearish inside bar on ALCHUSDT
+checking higher tf 1h for HEIUSDT bullish=true
+bullish inside bar on HEIUSDT
+bullish inside bar on GMTUSDT
+bullish inside bar on GMTUSDT
+bearish engulfing top on 4USDT
+bearish engulfing top on RAVEUSDT
+bullish inside bar on ANKRUSDT
+bullish inside bar on FFUSDT
+bullish inside bar on LQTYUSDT
+bullish inside bar on REDUSDT
+bullish inside bar on TRUUSDT
+bullish inside bar on DOGSUSDT
+bearish engulfing top on TREEUSDT
+bearish engulfing top on HIPPOUSDT
+bullish inside bar on DEEPUSDT
+bullish inside bar on ONDOUSDT
+bullish inside bar on RDNTUSDT
+bullish inside bar on FIOUSDT
+bearish inside bar on TOSHIUSDT
+bullish inside bar on TOWNSUSDT
+bullish inside bar on JOEUSDT
+bullish inside bar on MAGICUSDT
+bullish inside bar on ANKRUSDT
+bullish harami top on TREEUSDT
+bullish harami top on HIPPOUSDT
+bullish inside bar on DEEPUSDT
+bullish inside bar on ANKRUSDT
+bullish inside bar on TREEUSDT
+bullish inside bar on HIPPOUSDT
+checking higher tf 1h for REDUSDT bullish=true
+checking higher tf 1h for FIOUSDT bullish=true
+checking higher tf 1h for TOWNSUSDT bullish=true
+bearish inside bar on TAOUSDT
+bullish inside bar on DYMUSDT
+bullish inside bar on TAKEUSDT
+bullish inside bar on ENSUSDT
+bullish inside bar on ACUUSDT
+bullish inside bar on ALGOUSDT
+bullish inside bar on MAGMAUSDT
+bearish harami top on APRUSDT
+bullish inside bar on DEXEUSDT
+bearish inside bar on APRUSDT
+bullish inside bar on CLOUSDT
+bullish inside bar on DEXEUSDT
+bearish inside bar on EPICUSDT
+bearish inside bar on ROBOUSDT
+bearish inside bar on AUSDT
+bearish inside bar on ROBOUSDT
+checking higher tf 1h for AUSDT bullish=false
+Pattern  detected on AUSDT at 2026-03-16T17:00:00.000Z in 1h
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+bullish inside bar on 1000BONKUSDT
+bullish engulfinfg top on AKTUSDT
+bullish inside bar on INUSDT
+bullish inside bar on HOMEUSDT
+bearish engulfing top on MORPHOUSDT
+bullish harami top on MORPHOUSDT
+bullish engulfinfg top on DOGEUSDT
+bullish inside bar on POWRUSDT
+bullish inside bar on SPXUSDT
+bullish inside bar on PORTALUSDT
+bullish inside bar on BICOUSDT
+bearish harami top on BEATUSDT
+checking higher tf 1h for DOGEUSDT bullish=true
+bullish inside bar on APTUSDT
+bullish inside bar on SPXUSDT
+bullish inside bar on BICOUSDT
+bearish inside bar on BEATUSDT
+bullish inside bar on HUMAUSDT
+bullish inside bar on FLOCKUSDT
+bullish inside bar on SPXUSDT
+bullish inside bar on SCRUSDT
+bullish inside bar on CHZUSDT
+bearish harami top on TAUSDT
+bearish inside bar on TAUSDT
+bullish inside bar on AKTUSDT
+bullish engulfinfg top on 1000FLOKIUSDT
+bullish inside bar on SYNUSDT
+bullish inside bar on LDOUSDT
+bullish inside bar on PENDLEUSDT
+bullish inside bar on BERAUSDT
+bullish inside bar on FFUSDT
+bullish inside bar on LDOUSDT
+bullish inside bar on INITUSDT
+bullish inside bar on INITUSDT
+bearish engulfing top on SAGAUSDT
+bullish engulfinfg top on BARDUSDT
+bullish inside bar on TRUSTUSDT
+bullish inside bar on OGUSDT
+bullish inside bar on BRUSDT
+bullish engulfinfg top on SEIUSDT
+bullish inside bar on ELSAUSDT
+bearish inside bar on ARKUSDT
+bullish engulfinfg top on EGLDUSDT
+bullish inside bar on 1000CHEEMSUSDT
+bullish inside bar on HFTUSDT
+bullish inside bar on RSRUSDT
+bullish inside bar on TOSHIUSDT
+bullish inside bar on HFTUSDT
+bearish engulfing top on ALLOUSDT
+bullish harami top on ALLOUSDT
+bullish inside bar on ALLOUSDT
+bullish inside bar on ALLOUSDT
+bullish inside bar on AVNTUSDT
+bullish inside bar on AVNTUSDT
+bearish inside bar on CUSDT
+bearish inside bar on BABYUSDT
+bearish harami top on DOGEUSDT
+bearish inside bar on BABYUSDT
+bearish inside bar on DOGEUSDT
+bearish inside bar on ESPUSDT
+bearish inside bar on CCUSDT
+bearish inside bar on SIGNUSDT
+bearish inside bar on SOLUSDT
+bearish inside bar on ETHUSDT
+bearish inside bar on BTCUSDT
+bearish inside bar on BRETTUSDT
+bearish inside bar on MEWUSDT
+bearish inside bar on AVAUSDT
+bearish inside bar on ETCUSDT
+bearish inside bar on CYSUSDT
+bearish inside bar on CETUSUSDT
+bullish inside bar on BTCDOMUSDT
+bearish inside bar on LISTAUSDT
+bearish inside bar on SWARMSUSDT
+bearish inside bar on AVAXUSDT
+bearish inside bar on RAYSOLUSDT
+bearish inside bar on SCRTUSDT
+checking higher tf 1h for BRETTUSDT bullish=false
+bearish inside bar on POLUSDT
+checking higher tf 1h for AVAXUSDT bullish=false
+checking higher tf 1h for MEWUSDT bullish=false
+bearish inside bar on AVAXUSDT
+bearish inside bar on INJUSDT
+checking higher tf 1h for INJUSDT bullish=false
+bearish inside bar on BIOUSDT
+bearish inside bar on AWEUSDT
+bearish inside bar on SSVUSDT
+bearish harami top on MERLUSDT
+bearish inside bar on MERLUSDT
+bearish inside bar on LDOUSDT
+bearish inside bar on HIGHUSDT
+bearish inside bar on BLURUSDT
+bearish inside bar on CHILLGUYUSDT
+bearish inside bar on DODOXUSDT
+bearish inside bar on HIVEUSDT
+bearish inside bar on HIPPOUSDT
+bearish inside bar on SONICUSDT
+bearish inside bar on ACTUSDT
+checking higher tf 1h for BLURUSDT bullish=false
+checking higher tf 1h for HIPPOUSDT bullish=false
+bearish inside bar on HIPPOUSDT
+bullish inside bar on CROSSUSDT
+bullish inside bar on SOLUSDT
+bullish inside bar on 2ZUSDT
+bearish engulfing top on DASHUSDT
+bullish inside bar on NILUSDT
+bullish engulfinfg top on FILUSDT
+bullish engulfinfg top on AVAXUSDT
+bearish engulfing top on 0GUSDT
+bearish inside bar on TRUMPUSDT
+bullish harami top on DASHUSDT
+bullish inside bar on AVAXUSDT
+bearish harami top on HUSDT
+bullish inside bar on DASHUSDT
+bullish inside bar on PENGUUSDT
+bearish harami top on CYSUSDT
+bullish inside bar on RENDERUSDT
+bullish inside bar on FRAXUSDT
+bearish engulfing top on BCHUSDT
+bearish inside bar on TOSHIUSDT
+bullish inside bar on SANDUSDT
+bearish inside bar on HUSDT
+checking higher tf 1h for NILUSDT bullish=true
+checking higher tf 1h for FILUSDT bullish=true
+bearish inside bar on CYSUSDT
+bullish harami top on BCHUSDT
+checking higher tf 1h for AVAXUSDT bullish=true
+bearish harami top on ATOMUSDT
+checking higher tf 1h for RENDERUSDT bullish=true
+bullish inside bar on BCHUSDT
+checking higher tf 1h for SANDUSDT bullish=true
+bullish inside bar on RENDERUSDT
+bearish inside bar on ATOMUSDT
+bullish inside bar on RENDERUSDT
+bullish inside bar on RENDERUSDT
+checking higher tf 1h for ATOMUSDT bullish=false
+bearish engulfing top on LUNA2USDT
+bullish inside bar on ALTUSDT
+bullish inside bar on GMTUSDT
+bearish engulfing top on HMSTRUSDT
+bullish inside bar on ARBUSDT
+bearish inside bar on KGENUSDT
+bearish inside bar on KGENUSDT
+bullish inside bar on MANTAUSDT
+bullish inside bar on DOGSUSDT
+bullish inside bar on QUSDT
+bearish engulfing top on ROSEUSDT
+bullish inside bar on QTUMUSDT
+bearish engulfing top on SUSHIUSDT
+bullish inside bar on ALGOUSDT
+bullish inside bar on RECALLUSDT
+bearish inside bar on JCTUSDT
+bullish inside bar on BROCCOLIF3BUSDT
+bullish inside bar on AVAAIUSDT
+bullish inside bar on ASTRUSDT
+bullish engulfinfg top on CROSSUSDT
+bullish inside bar on CROSSUSDT
+bullish harami top on HMSTRUSDT
+bullish inside bar on DOGSUSDT
+bullish harami top on ROSEUSDT
+bullish harami top on SUSHIUSDT
+bearish inside bar on JCTUSDT
+bullish inside bar on HMSTRUSDT
+bullish inside bar on ROSEUSDT
+bullish inside bar on DOGSUSDT
+bullish inside bar on SUSHIUSDT
+checking higher tf 1h for QTUMUSDT bullish=true
+checking higher tf 1h for CROSSUSDT bullish=true
+checking higher tf 1h for QUSDT bullish=true
+checking higher tf 1h for AVAAIUSDT bullish=true
+checking higher tf 1h for ROSEUSDT bullish=true
+checking higher tf 1h for SUSHIUSDT bullish=true
+checking higher tf 1h for HMSTRUSDT bullish=true
+bullish inside bar on KASUSDT
+bearish inside bar on STABLEUSDT
+bullish inside bar on FRAXUSDT
+bullish inside bar on FRAXUSDT
+bullish inside bar on FIGHTUSDT
+bullish inside bar on OPUSDT
+bullish inside bar on BIOUSDT
+bullish inside bar on DEXEUSDT
+bearish inside bar on LAYERUSDT
+bullish inside bar on LQTYUSDT
+bullish inside bar on RESOLVUSDT
+bearish engulfing top on ENSOUSDT
+bullish harami top on ENSOUSDT
+bullish inside bar on SANDUSDT
+bullish inside bar on FORMUSDT
+bearish inside bar on SPORTFUNUSDT
+bearish inside bar on TACUSDT
+bullish inside bar on ENSOUSDT
+bullish inside bar on ARBUSDT
+bearish harami top on CFXUSDT
+bearish inside bar on CFXUSDT
+bullish inside bar on ONDOUSDT
+bullish inside bar on ONDOUSDT
+bearish harami top on KSMUSDT
+bearish inside bar on KSMUSDT
+bullish inside bar on SOONUSDT
+bullish inside bar on ROSEUSDT
+bearish inside bar on ARIAUSDT
+bullish inside bar on MERLUSDT
+bullish inside bar on 2ZUSDT
+bullish inside bar on 2ZUSDT
+bearish inside bar on SOLUSDT
+bearish inside bar on CUSDT
+bullish inside bar on TRIAUSDT
+checking higher tf 1h for SOLUSDT bullish=false
+bearish inside bar on ARCUSDT
+bearish inside bar on SKRUSDT
+bearish inside bar on BLESSUSDT
+checking higher tf 1h for ARCUSDT bullish=false
+bearish inside bar on 1000SHIBUSDT
+bearish inside bar on 1000000MOGUSDT
+bullish inside bar on COMPUSDT
+bullish inside bar on COMPUSDT
+bearish inside bar on AWEUSDT
+bullish inside bar on COOKIEUSDT
+bullish inside bar on INITUSDT
+bearish inside bar on BASUSDT
+bullish inside bar on BANANAS31USDT
+bearish engulfing top on FORMUSDT
+bearish inside bar on AIOUSDT
+bullish inside bar on CVXUSDT
+checking higher tf 1h for AIOUSDT bullish=false
+bearish inside bar on AIOUSDT
+bullish inside bar on SUSDT
+bullish inside bar on 1000BONKUSDT
+bullish inside bar on SUSDT
+bullish inside bar on 1000BONKUSDT
+bullish engulfinfg top on HEIUSDT
+bullish inside bar on SHELLUSDT
+bullish inside bar on AVNTUSDT
+bullish inside bar on NIGHTUSDT
+bullish inside bar on NIGHTUSDT
+bullish inside bar on LAUSDT
+bullish inside bar on LAUSDT
+bullish inside bar on MORPHOUSDT
+bullish inside bar on TONUSDT
+bullish inside bar on B2USDT
+bullish inside bar on SCRUSDT
+bullish inside bar on STXUSDT
+bearish engulfing top on SYNUSDT
+bullish inside bar on SOPHUSDT
+bullish inside bar on PROMPTUSDT
+bullish inside bar on SCRUSDT
+bearish inside bar on KMNOUSDT
+bullish inside bar on MITOUSDT
+bullish inside bar on AVNTUSDT
+bullish inside bar on MITOUSDT
+bullish inside bar on ARCUSDT
+bullish inside bar on NEARUSDT
+bearish inside bar on PHAUSDT
+bullish inside bar on SCRTUSDT
+bullish inside bar on SCRTUSDT
+bearish inside bar on FETUSDT
+bullish inside bar on ICNTUSDT
+bearish inside bar on FOGOUSDT
+bullish inside bar on AZTECUSDT
+bullish inside bar on TRUUSDT
+checking higher tf 1h for AZTECUSDT bullish=true
+checking higher tf 1h for FOGOUSDT bullish=false
+bullish inside bar on ACHUSDT
+bearish inside bar on CAKEUSDT
+bullish inside bar on SOONUSDT
+bearish engulfing top on BANANAS31USDT
+bullish inside bar on INITUSDT
+bullish inside bar on INITUSDT
+bullish harami top on BANANAS31USDT
+bullish inside bar on INITUSDT
+bullish inside bar on SYRUPUSDT
+bullish inside bar on BANANAS31USDT
+bullish inside bar on RDNTUSDT
+bearish inside bar on IOUSDT
+bearish inside bar on RLSUSDT
+bullish inside bar on EULUSDT
+bullish inside bar on HIPPOUSDT
+bearish inside bar on CARVUSDT
+checking higher tf 1h for IOUSDT bullish=false
+Pattern  detected on IOUSDT at 2026-03-16T17:00:00.000Z in 1h
+checking higher tf 1h for RLSUSDT bullish=false
+[68d3f007099f9de77119b413] Current open positions: 0
+Account Config Update: {
+  eventType: 'ACCOUNT_CONFIG_UPDATE',
+  transactionTime: 1773694504016,
+  eventTime: 1773694504016,
+  assetConfiguration: { symbol: 'IOUSDT', leverage: 20 },
+  wsMarket: 'usdm',
+  wsKey: 'usdm_userData__ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI_usdm',
+  isWSAPIResponse: false
+}
+bearish inside bar on BIOUSDT
+bearish inside bar on BTRUSDT
+bearish inside bar on TNSRUSDT
+checking higher tf 1h for TNSRUSDT bullish=false
+bearish inside bar on TNSRUSDT
+bearish inside bar on AEVOUSDT
+checking higher tf 1h for AEVOUSDT bullish=false
+bearish inside bar on AEVOUSDT
+bearish inside bar on AEVOUSDT
+bearish inside bar on ORDERUSDT
+checking higher tf 1h for ORDERUSDT bullish=false
+bullish engulfinfg top on PENDLEUSDT
+bullish inside bar on NILUSDT
+bullish inside bar on NILUSDT
+bearish inside bar on AKEUSDT
+bearish inside bar on AKEUSDT
+bearish inside bar on NAORISUSDT
+bearish inside bar on 1000RATSUSDT
+bearish inside bar on AVNTUSDT
+bearish inside bar on JCTUSDT
+checking higher tf 1h for AVNTUSDT bullish=false
+bullish inside bar on SXTUSDT
+bullish inside bar on LPTUSDT
+bullish inside bar on KSMUSDT
+bullish inside bar on SLPUSDT
+bearish inside bar on DOTUSDT
+bearish inside bar on PAXGUSDT
+bullish inside bar on BARDUSDT
+bearish engulfing top on AAVEUSDT
+bearish engulfing top on AAVEUSDT
+bullish inside bar on PLUMEUSDT
+bearish engulfing top on SPXUSDT
+bullish inside bar on HOMEUSDT
+bullish inside bar on BICOUSDT
+bullish harami top on SPXUSDT
+bullish inside bar on TRUUSDT
+bullish inside bar on MOVRUSDT
+bearish engulfing top on SWARMSUSDT
+bearish inside bar on PHAUSDT
+bearish engulfing top on MAVIAUSDT
+bullish inside bar on ONDOUSDT
+bullish inside bar on BANANAS31USDT
+bullish inside bar on OXTUSDT
+bullish inside bar on ERAUSDT
+bullish inside bar on STBLUSDT
+bullish inside bar on SCRUSDT
+bullish engulfinfg top on ARUSDT
+bearish engulfing top on CLANKERUSDT
+bullish inside bar on HBARUSDT
+bearish inside bar on BBUSDT
+bullish harami top on SWARMSUSDT
+bullish harami top on MAVIAUSDT
+bullish inside bar on OXTUSDT
+bullish harami top on CLANKERUSDT
+bullish inside bar on CVCUSDT
+bullish inside bar on OXTUSDT
+bullish inside bar on SWARMSUSDT
+checking higher tf 1h for ARUSDT bullish=true
+bullish inside bar on MAVIAUSDT
+bullish inside bar on CVCUSDT
+bullish inside bar on MORPHOUSDT
+bullish inside bar on FORMUSDT
+bearish engulfing top on SSVUSDT
+bullish inside bar on FORMUSDT
+checking higher tf 1h for ERAUSDT bullish=true
+bullish inside bar on CLANKERUSDT
+bearish inside bar on SOPHUSDT
+bullish inside bar on SOPHUSDT
+bullish inside bar on SOPHUSDT
+bullish inside bar on SWARMSUSDT
+bullish inside bar on SPXUSDT
+bullish inside bar on CVCUSDT
+bullish inside bar on SOPHUSDT
+bullish inside bar on GASUSDT
+bullish inside bar on HFTUSDT
+bearish engulfing top on FLOCKUSDT
+checking higher tf 1h for SOPHUSDT bullish=false
+bullish inside bar on MLNUSDT
+bullish inside bar on BROCCOLIF3BUSDT
+bearish engulfing top on SOLVUSDT
+bullish inside bar on OGUSDT
+bullish harami top on SOLVUSDT
+bullish inside bar on SOLVUSDT
+checking higher tf 1h for HFTUSDT bullish=true
+checking higher tf 1h for OGUSDT bullish=true
+bullish inside bar on HFTUSDT
+checking higher tf 1h for MLNUSDT bullish=true
+checking higher tf 1h for SOLVUSDT bullish=true
+checking higher tf 1h for MAVIAUSDT bullish=true
+checking higher tf 1h for TRUUSDT bullish=true
+bullish engulfinfg top on PIXELUSDT
+bearish inside bar on SOLUSDT
+bearish inside bar on HYPEUSDT
+bullish inside bar on PARTIUSDT
+bullish inside bar on ENSOUSDT
+bearish inside bar on BARDUSDT
+bullish inside bar on JOEUSDT
+bullish inside bar on JOEUSDT
+bullish inside bar on GRTUSDT
+bullish inside bar on OXTUSDT
+bearish engulfing top on SCRTUSDT
+bullish harami top on SCRTUSDT
+bullish inside bar on SCRTUSDT
+bullish inside bar on EDENUSDT
+bearish inside bar on BTCUSDT
+bearish inside bar on LITUSDT
+bullish inside bar on SKYAIUSDT
+bearish inside bar on LITUSDT
+bearish inside bar on EIGENUSDT
+bullish inside bar on DODOXUSDT
+bullish inside bar on ELSAUSDT
+bearish inside bar on NEWTUSDT
+bearish inside bar on SAHARAUSDT
+bearish inside bar on MEWUSDT
+bullish inside bar on MBOXUSDT
+bullish inside bar on ASTRUSDT
+bearish engulfing top on SPACEUSDT
+bullish harami top on SPACEUSDT
+bullish inside bar on SPACEUSDT
+bullish inside bar on HOOKUSDT
+bullish inside bar on ROSEUSDT
+bullish inside bar on LRCUSDT
+bullish inside bar on LRCUSDT
+bullish inside bar on MANTRAUSDT
+bullish inside bar on MANTRAUSDT
+bullish inside bar on AEVOUSDT
+bullish inside bar on NFPUSDT
+bullish inside bar on DIAUSDT
+bullish inside bar on ATHUSDT
+bullish inside bar on FOGOUSDT
+bullish inside bar on DIAUSDT
+bullish inside bar on DIAUSDT
+bullish inside bar on DIAUSDT
+bullish inside bar on ARUSDT
+bullish inside bar on PENDLEUSDT
+bullish inside bar on JTOUSDT
+bearish engulfing top on TONUSDT
+bearish inside bar on 1000SHIBUSDT
+bullish engulfinfg top on ENSUSDT
+bullish inside bar on PYTHUSDT
+bullish inside bar on LINEAUSDT
+bullish inside bar on MAGICUSDT
+bearish inside bar on APRUSDT
+bearish inside bar on NAORISUSDT
+bullish inside bar on LUMIAUSDT
+bearish engulfing top on ARCUSDT
+bullish inside bar on MAVUSDT
+bullish inside bar on ONUSDT
+bearish inside bar on FUSDT
+bullish engulfinfg top on ARIAUSDT
+bullish engulfinfg top on B3USDT
+bullish harami top on ARCUSDT
+bullish inside bar on ARCUSDT
+checking higher tf 1h for MAVUSDT bullish=true
+bullish inside bar on SUNUSDT
+bullish inside bar on OXTUSDT
+bullish inside bar on MAVIAUSDT
+bullish inside bar on STGUSDT
+bullish inside bar on STGUSDT
+bearish inside bar on SPACEUSDT
+bearish harami top on JELLYJELLYUSDT
+bearish inside bar on BLUAIUSDT
+bearish inside bar on JELLYJELLYUSDT
+bearish inside bar on STABLEUSDT
+bearish inside bar on BNTUSDT
+checking higher tf 1h for SPACEUSDT bullish=false
+bearish inside bar on JELLYJELLYUSDT
+bearish inside bar on NOTUSDT
+checking higher tf 1h for BNTUSDT bullish=false
+bearish inside bar on SYNUSDT
+checking higher tf 1h for SYNUSDT bullish=false
+bearish engulfing top on SAPIENUSDT
+bearish engulfing top on BREVUSDT
+bullish harami top on BREVUSDT
+bullish inside bar on BREVUSDT
+bearish inside bar on DAMUSDT
+bearish engulfing top on PIXELUSDT
+bullish inside bar on KITEUSDT
+bullish harami top on PIXELUSDT
+bearish inside bar on BABYUSDT
+bullish inside bar on PIXELUSDT
+bullish inside bar on SKYAIUSDT
+bullish inside bar on COLLECTUSDT
+bullish inside bar on LTCUSDT
+bullish inside bar on MOCAUSDT
+bullish inside bar on PARTIUSDT
+bearish inside bar on LITUSDT
+bullish engulfinfg top on MANTAUSDT
+bullish inside bar on AEVOUSDT
+bullish inside bar on TOSHIUSDT
+bullish inside bar on ATUSDT
+bullish inside bar on ALLUSDT
+bullish inside bar on MANTRAUSDT
+bullish inside bar on QNTUSDT
+bullish inside bar on STGUSDT
+bullish inside bar on INXUSDT
+bullish inside bar on AUSDT
+bullish inside bar on JASMYUSDT
+bullish inside bar on PROVEUSDT
+bullish inside bar on SUNUSDT
+bullish inside bar on B2USDT
+bullish inside bar on B2USDT
+bullish inside bar on FORTHUSDT
+bullish inside bar on GMXUSDT
+bearish engulfing top on SYNUSDT
+bullish inside bar on EGLDUSDT
+bullish inside bar on 1000CHEEMSUSDT
+bearish inside bar on BOBUSDT
+bullish inside bar on GOATUSDT
+bearish inside bar on CFXUSDT
+bearish inside bar on ROBOUSDT
+checking higher tf 1h for CFXUSDT bullish=false
+bearish inside bar on FRAXUSDT
+checking higher tf 1h for FRAXUSDT bullish=false
+bearish inside bar on FRAXUSDT
+bullish inside bar on BEAMXUSDT
+bearish inside bar on POWERUSDT
+bullish inside bar on SEIUSDT
+bullish inside bar on BNBUSDT
+bearish inside bar on BANANAS31USDT
+bullish inside bar on SEIUSDT
+bearish inside bar on COAIUSDT
+bearish inside bar on OPNUSDT
+bearish inside bar on AKEUSDT
+bullish inside bar on FLUIDUSDT
+bearish inside bar on APRUSDT
+bullish inside bar on NEWTUSDT
+bullish inside bar on PAXGUSDT
+bullish inside bar on TONUSDT
+bullish inside bar on HBARUSDT
+bullish inside bar on EGLDUSDT
+bullish inside bar on SSVUSDT
+bullish inside bar on ARUSDT
+bullish inside bar on LDOUSDT
+bullish inside bar on NEARUSDT
+bullish inside bar on INJUSDT
+bullish inside bar on NIGHTUSDT
+bullish engulfinfg top on BRETTUSDT
+bearish engulfing top on 1000FLOKIUSDT
+bullish inside bar on TIAUSDT
+bullish inside bar on PAXGUSDT
+bullish inside bar on NEARUSDT
+bullish inside bar on NIGHTUSDT
+bullish inside bar on INJUSDT
+bullish inside bar on TIAUSDT
+bearish engulfing top on APTUSDT
+bullish inside bar on POPCATUSDT
+bullish inside bar on RENDERUSDT
+bullish inside bar on FLUXUSDT
+bullish harami top on APTUSDT
+bullish inside bar on RENDERUSDT
+bullish inside bar on APTUSDT
+bullish inside bar on RUNEUSDT
+bullish inside bar on 1000CATUSDT
+bearish engulfing top on GMXUSDT
+bullish engulfinfg top on MEWUSDT
+bullish harami top on GMXUSDT
+bullish inside bar on GMXUSDT
+bullish inside bar on TREEUSDT
+bullish inside bar on SFPUSDT
+bullish inside bar on SAGAUSDT
+bullish inside bar on CGPTUSDT
+bullish inside bar on AKTUSDT
+bullish inside bar on ARIAUSDT
+bullish inside bar on HIPPOUSDT
+bearish engulfing top on LISTAUSDT
+bullish harami top on LISTAUSDT
+bullish inside bar on LISTAUSDT
+bullish inside bar on BRUSDT
+bearish engulfing top on TNSRUSDT
+bearish engulfing top on TRUSTUSDT
+bearish engulfing top on GLMUSDT
+bullish inside bar on 1000LUNCUSDT
+bullish harami top on GLMUSDT
+bullish inside bar on 1000LUNCUSDT
+checking higher tf 1h for LISTAUSDT bullish=true
+bullish inside bar on GLMUSDT
+checking higher tf 1h for GLMUSDT bullish=true
+bearish inside bar on PIXELUSDT
+bullish inside bar on LUMIAUSDT
+bullish inside bar on KITEUSDT
+bullish inside bar on GUNUSDT
+bullish inside bar on ARIAUSDT
+bearish inside bar on SKYUSDT
+bullish engulfinfg top on SFPUSDT
+checking higher tf 1h for PIXELUSDT bullish=false
+bearish inside bar on PAXGUSDT
+bullish inside bar on GUAUSDT
+bullish inside bar on ENSOUSDT
+bullish inside bar on MANTAUSDT
+checking higher tf 1h for SFPUSDT bullish=true
+bullish inside bar on SCRTUSDT
+bullish inside bar on AINUSDT
+checking higher tf 1h for GUNUSDT bullish=true
+checking higher tf 1h for PAXGUSDT bullish=false
+checking higher tf 1h for SCRTUSDT bullish=true
+bullish inside bar on NEARUSDT
+bullish inside bar on ENJUSDT
+bullish inside bar on CRVUSDT
+bullish inside bar on PUMPBTCUSDT
+bearish engulfing top on EULUSDT
+bullish inside bar on HIVEUSDT
+bullish inside bar on MTLUSDT
+bullish inside bar on CRVUSDT
+bullish harami top on EULUSDT
+bullish inside bar on HIVEUSDT
+bullish inside bar on EULUSDT
+bullish inside bar on KITEUSDT
+bearish harami top on SOPHUSDT
+bearish inside bar on ACUUSDT
+bearish inside bar on SOPHUSDT
+bearish inside bar on ETHUSDT
+bearish inside bar on NAORISUSDT
+bullish inside bar on FUNUSDT
+bearish inside bar on CLOUSDT
+bullish inside bar on SHELLUSDT
+checking higher tf 1h for SHELLUSDT bullish=true
+bearish inside bar on MANTRAUSDT
+checking higher tf 1h for MANTRAUSDT bullish=false
+bearish inside bar on FLOWUSDT
+bearish inside bar on GMXUSDT
+bearish inside bar on GPSUSDT
+checking higher tf 1h for GMXUSDT bullish=false
+bearish inside bar on THEUSDT
+bearish inside bar on POWERUSDT
+bullish inside bar on ENSOUSDT
+bullish inside bar on TAUSDT
+bearish inside bar on ICNTUSDT
+bullish inside bar on TAUSDT
+bearish inside bar on ESPORTSUSDT
+bearish inside bar on ESPORTSUSDT
+bearish inside bar on ESPORTSUSDT
+bullish inside bar on SOLVUSDT
+bullish engulfinfg top on BARDUSDT
+checking higher tf 1h for BARDUSDT bullish=true
+bullish inside bar on HIGHUSDT
+bearish inside bar on OPNUSDT
+bearish inside bar on TONUSDT
+bullish inside bar on AKTUSDT
+checking higher tf 1h for OPNUSDT bullish=false
+checking higher tf 1h for TONUSDT bullish=false
+bearish inside bar on TONUSDT
+bearish inside bar on PAXGUSDT
+bearish harami top on CUSDT
+bearish engulfing top on TAUSDT
+bearish inside bar on KATUSDT
+bearish inside bar on CUSDT
+bearish inside bar on KATUSDT
+bullish inside bar on 1000000BOBUSDT
+bearish inside bar on KSMUSDT
+bullish inside bar on BSVUSDT
+bearish inside bar on 2ZUSDT
+checking higher tf 1h for 2ZUSDT bullish=false
+bullish inside bar on SLPUSDT
+bearish inside bar on LPTUSDT
+bullish inside bar on ONEUSDT
+bearish inside bar on THETAUSDT
+bullish inside bar on ONEUSDT
+checking higher tf 1h for THETAUSDT bullish=false
+bullish inside bar on KITEUSDT
+bearish engulfing top on TAKEUSDT
+bearish inside bar on JTOUSDT
+bearish inside bar on SKYUSDT
+bearish inside bar on BIOUSDT
+bearish inside bar on ENSUSDT
+bearish inside bar on IDUSDT
+bearish inside bar on AWEUSDT
+bearish inside bar on AWEUSDT
+checking higher tf 1h for ENSUSDT bullish=false
+checking higher tf 1h for IDUSDT bullish=false
+bearish inside bar on SUIUSDT
+bearish inside bar on ONDOUSDT
+bearish inside bar on NFPUSDT
+bearish inside bar on BASUSDT
+checking higher tf 1h for ONDOUSDT bullish=false
+bearish inside bar on BOMEUSDT
+bearish inside bar on JASMYUSDT
+bearish inside bar on TREEUSDT
+bearish inside bar on ALPINEUSDT
+bearish inside bar on LINEAUSDT
+bearish inside bar on INXUSDT
+bullish inside bar on INITUSDT
+bearish inside bar on POWERUSDT
+bearish inside bar on JUPUSDT
+bullish inside bar on DOTUSDT
+bearish inside bar on GMXUSDT
+bearish inside bar on RDNTUSDT
+bearish inside bar on AGLDUSDT
+bearish inside bar on MMTUSDT
+bearish engulfing top on ETHUSDT
+bullish inside bar on MOODENGUSDT
+bearish engulfing top on SOLUSDT
+bearish engulfing top on LDOUSDT
+bearish inside bar on RSRUSDT
+bearish engulfing top on BCHUSDT
+bullish inside bar on 1000BONKUSDT
+bullish inside bar on 2ZUSDT
+bearish engulfing top on ENSUSDT
+bearish engulfing top on CAKEUSDT
+bearish engulfing top on BERAUSDT
+bullish inside bar on ACXUSDT
+bearish engulfing top on ADAUSDT
+bearish engulfing top on SANDUSDT
+bearish inside bar on HOMEUSDT
+bullish harami top on ETHUSDT
+bullish harami top on LDOUSDT
+bullish harami top on ENSUSDT
+bullish inside bar on ETHUSDT
+checking higher tf 1h for MMTUSDT bullish=false
+bullish inside bar on LDOUSDT
+bullish inside bar on ENSUSDT
+bearish engulfing top on TONUSDT
+bearish inside bar on SOLVUSDT
+bullish inside bar on RESOLVUSDT
+bearish inside bar on BTCDOMUSDT
+bearish engulfing top on HIGHUSDT
+bearish inside bar on STXUSDT
+bearish engulfing top on SKYAIUSDT
+bearish inside bar on CYSUSDT
+bearish engulfing top on BBUSDT
+bearish inside bar on MMTUSDT
+bullish harami top on TONUSDT
+bullish harami top on HIGHUSDT
+bullish harami top on BBUSDT
+bearish inside bar on MMTUSDT
+bullish inside bar on TONUSDT
+bullish inside bar on INJUSDT
+bullish inside bar on BBUSDT
+bullish inside bar on HIGHUSDT
+bullish inside bar on GASUSDT
+bearish engulfing top on TIAUSDT
+bullish harami top on TIAUSDT
+bullish inside bar on TIAUSDT
+bearish inside bar on MUSDT
+bearish inside bar on SUSDT
+bearish engulfing top on MEWUSDT
+bearish inside bar on NFPUSDT
+bullish harami top on MEWUSDT
+bullish inside bar on MEWUSDT
+bearish inside bar on SAFEUSDT
+bearish engulfing top on IRYSUSDT
+bullish inside bar on TAKEUSDT
+bearish inside bar on OLUSDT
+bearish engulfing top on GLMUSDT
+bearish inside bar on JCTUSDT
+bearish inside bar on SKRUSDT
+bearish inside bar on BNTUSDT
+checking higher tf 1h for SAFEUSDT bullish=false
+bearish inside bar on SAFEUSDT
+checking higher tf 1h for JCTUSDT bullish=false
+bearish inside bar on JCTUSDT
+bullish inside bar on DOTUSDT
+bearish inside bar on THEUSDT
+bearish inside bar on CYBERUSDT
+bullish inside bar on IPUSDT
+bearish inside bar on THEUSDT
+bullish inside bar on OGUSDT
+bullish inside bar on KSMUSDT
+bearish inside bar on KGENUSDT
+bullish inside bar on ESPORTSUSDT
+bullish inside bar on SAPIENUSDT
+bearish inside bar on KGENUSDT
+bearish inside bar on TRUUSDT
+bearish inside bar on QUSDT
+bullish inside bar on STBLUSDT
+bearish inside bar on HOLOUSDT
+bearish inside bar on SYNUSDT
+bullish inside bar on 1000CHEEMSUSDT
+bearish harami top on DEEPUSDT
+bearish inside bar on DEEPUSDT
+checking higher tf 1h for SYNUSDT bullish=false
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+bullish inside bar on KERNELUSDT
+bearish inside bar on MEGAUSDT
+bearish inside bar on EIGENUSDT
+bullish inside bar on ICNTUSDT
+bullish inside bar on RECALLUSDT
+bearish engulfing top on BTCDOMUSDT
+bearish inside bar on RAYSOLUSDT
+bearish inside bar on SKRUSDT
+bullish harami top on BTCDOMUSDT
+bullish inside bar on BTCDOMUSDT
+bullish inside bar on BTCDOMUSDT
+bearish inside bar on HBARUSDT
+bearish inside bar on MTLUSDT
+bearish harami top on THETAUSDT
+bullish inside bar on DOTUSDT
+bearish harami top on POLYXUSDT
+bullish inside bar on SUNUSDT
+bearish inside bar on RDNTUSDT
+bearish inside bar on ASTERUSDT
+bullish inside bar on STRKUSDT
+bullish inside bar on ALTUSDT
+bearish harami top on ATHUSDT
+bullish inside bar on MINAUSDT
+bullish inside bar on LQTYUSDT
+bullish inside bar on INUSDT
+bearish inside bar on SIGNUSDT
+bearish inside bar on HUMAUSDT
+bullish engulfinfg top on SCRTUSDT
+bullish inside bar on PARTIUSDT
+bearish harami top on BLESSUSDT
+bearish engulfing top on KITEUSDT
+bullish inside bar on TAKEUSDT
+bearish inside bar on THETAUSDT
+bullish inside bar on ALLOUSDT
+bearish inside bar on TRXUSDT
+bullish inside bar on BERAUSDT
+bearish inside bar on ATHUSDT
+bearish inside bar on AIOUSDT
+checking higher tf 1h for THETAUSDT bullish=false
+bearish inside bar on BLESSUSDT
+bullish inside bar on SLPUSDT
+bullish inside bar on STRKUSDT
+checking higher tf 1h for SUNUSDT bullish=true
+checking higher tf 1h for ATHUSDT bullish=false
+bullish harami top on KITEUSDT
+bullish inside bar on SUNUSDT
+bullish inside bar on ALLUSDT
+bullish inside bar on KITEUSDT
+bearish inside bar on BIOUSDT
+bearish inside bar on POLYXUSDT
+bullish inside bar on INXUSDT
+checking higher tf 1h for HUMAUSDT bullish=false
+checking higher tf 1h for ASTERUSDT bullish=false
+checking higher tf 1h for TAKEUSDT bullish=true
+checking higher tf 1h for POLYXUSDT bullish=false
+bearish engulfing top on CARVUSDT
+bullish harami top on CARVUSDT
+bullish inside bar on JSTUSDT
+bullish inside bar on CARVUSDT
+checking higher tf 1h for JSTUSDT bullish=true
+bullish inside bar on ONEUSDT
+bullish inside bar on HAEDALUSDT
+bullish inside bar on EGLDUSDT
+bearish harami top on RUNEUSDT
+bullish inside bar on STOUSDT
+bearish inside bar on SANTOSUSDT
+bearish inside bar on HIVEUSDT
+bearish inside bar on LINEAUSDT
+bearish engulfing top on PUFFERUSDT
+bullish inside bar on AUSDT
+bullish inside bar on ETHWUSDT
+bullish inside bar on NMRUSDT
+bearish inside bar on PNUTUSDT
+bullish inside bar on B3USDT
+bearish inside bar on RUNEUSDT
+bullish harami top on PUFFERUSDT
+bullish inside bar on B3USDT
+bullish inside bar on PUFFERUSDT
+checking higher tf 1h for PNUTUSDT bullish=false
+checking higher tf 1h for STOUSDT bullish=true
+checking higher tf 1h for RUNEUSDT bullish=false
+bullish inside bar on NIGHTUSDT
+bearish inside bar on BARDUSDT
+bearish engulfing top on ETCUSDT
+bullish harami top on ETCUSDT
+bullish inside bar on ETCUSDT
+bullish inside bar on EIGENUSDT
+bullish inside bar on ENSUSDT
+bullish inside bar on TONUSDT
+bullish inside bar on BTCUSDT
+bullish inside bar on DRIFTUSDT
+bullish inside bar on BCHUSDT
+checking higher tf 1h for BCHUSDT bullish=true
+bullish inside bar on DRIFTUSDT
+bullish inside bar on DRIFTUSDT
+bullish inside bar on NEOUSDT
+bullish inside bar on NEOUSDT
+bullish inside bar on NEOUSDT
+bullish inside bar on NEOUSDT
+bullish inside bar on BASUSDT
+bearish inside bar on GWEIUSDT
+bullish engulfinfg top on BCHUSDT
+bullish engulfinfg top on PUFFERUSDT
+bullish inside bar on KASUSDT
+bullish inside bar on DOGEUSDT
+bullish inside bar on ASTRUSDT
+bullish inside bar on ARBUSDT
+bullish inside bar on DIAUSDT
+bullish inside bar on AZTECUSDT
+bullish inside bar on SAGAUSDT
+bullish inside bar on CKBUSDT
+bullish inside bar on ARBUSDT
+bullish inside bar on SAGAUSDT
+checking higher tf 1h for ASTRUSDT bullish=true
+bullish inside bar on ARBUSDT
+bullish inside bar on SAGAUSDT
+bearish inside bar on TAOUSDT
+bullish inside bar on AIXBTUSDT
+bearish inside bar on DUSKUSDT
+bullish inside bar on ASTERUSDT
+bullish inside bar on APRUSDT
+bullish inside bar on FRAXUSDT
+bullish engulfinfg top on MINAUSDT
+bullish inside bar on THEUSDT
+bullish inside bar on NMRUSDT
+bullish inside bar on MORPHOUSDT
+bullish inside bar on NMRUSDT
+bullish inside bar on MOVRUSDT
+bullish inside bar on TOSHIUSDT
+bullish inside bar on BANANAUSDT
+bullish inside bar on LQTYUSDT
+bullish inside bar on STBLUSDT
+bullish inside bar on RLSUSDT
+bearish inside bar on ANIMEUSDT
+bearish inside bar on IRUSDT
+bullish inside bar on PROMUSDT
+bullish inside bar on MAGICUSDT
+bullish inside bar on STBLUSDT
+bullish inside bar on RLSUSDT
+bearish inside bar on IRUSDT
+bullish inside bar on LQTYUSDT
+bullish engulfinfg top on TRUMPUSDT
+bullish inside bar on TRUMPUSDT
+bullish inside bar on NAORISUSDT
+bearish engulfing top on INITUSDT
+checking higher tf 1h for TRUMPUSDT bullish=true
+bullish harami top on INITUSDT
+bullish inside bar on INITUSDT
+bullish inside bar on FLUXUSDT
+bullish inside bar on FLUXUSDT
+bearish engulfing top on ATUSDT
+bullish inside bar on CLOUSDT
+bullish inside bar on NIGHTUSDT
+bullish inside bar on CTKUSDT
+bullish inside bar on B2USDT
+bearish engulfing top on CCUSDT
+bullish harami top on CCUSDT
+bullish inside bar on JCTUSDT
+bullish inside bar on CCUSDT
+bullish inside bar on LAUSDT
+bullish inside bar on MEMEUSDT
+bullish inside bar on LAUSDT
+bullish inside bar on SUNUSDT
+bullish inside bar on SUNUSDT
+bullish inside bar on AXLUSDT
+bullish inside bar on API3USDT
+bullish inside bar on MUBARAKUSDT
+bullish inside bar on HANAUSDT
+bullish inside bar on COTIUSDT
+bullish inside bar on PROMPTUSDT
+bullish inside bar on MUBARAKUSDT
+bullish inside bar on RENDERUSDT
+bullish engulfinfg top on SKRUSDT
+bullish inside bar on CHZUSDT
+bullish inside bar on SOLVUSDT
+bullish inside bar on BRETTUSDT
+bullish inside bar on BULLAUSDT
+bearish inside bar on ASTERUSDT
+bullish inside bar on 2ZUSDT
+bullish inside bar on CAKEUSDT
+bullish inside bar on STOUSDT
+bullish inside bar on SUIUSDT
+bullish inside bar on ETHFIUSDT
+bullish inside bar on 1000BONKUSDT
+bullish inside bar on OPUSDT
+bullish inside bar on DOGEUSDT
+bullish inside bar on ONDOUSDT
+bullish inside bar on GIGGLEUSDT
+bullish inside bar on ETHUSDT
+bullish inside bar on PYTHUSDT
+bullish engulfinfg top on JTOUSDT
+bearish inside bar on DUSDT
+bullish inside bar on SPXUSDT
+bearish inside bar on THEUSDT
+bullish inside bar on FFUSDT
+bullish inside bar on GLMUSDT
+bearish engulfing top on BREVUSDT
+bullish inside bar on KAIAUSDT
+bullish inside bar on IDUSDT
+bullish inside bar on 1MBABYDOGEUSDT
+bearish inside bar on AZTECUSDT
+bearish inside bar on DRIFTUSDT
+bullish inside bar on MAGICUSDT
+bullish inside bar on SUSHIUSDT
+bullish inside bar on STXUSDT
+bullish inside bar on METISUSDT
+bullish inside bar on AUSDT
+bullish inside bar on 1000FLOKIUSDT
+bullish inside bar on ESPUSDT
+bullish inside bar on HMSTRUSDT
+bullish inside bar on LUNA2USDT
+bearish harami top on BIRBUSDT
+bullish inside bar on ALGOUSDT
+bullish inside bar on DOGEUSDT
+bullish inside bar on ETHUSDT
+bullish inside bar on SPXUSDT
+bullish harami top on BREVUSDT
+bearish inside bar on THEUSDT
+bullish inside bar on METISUSDT
+bullish inside bar on ALGOUSDT
+bullish inside bar on BREVUSDT
+checking higher tf 1h for AZTECUSDT bullish=false
+bullish inside bar on IOTAUSDT
+bearish inside bar on BIRBUSDT
+bearish engulfing top on EVAAUSDT
+bullish inside bar on MEWUSDT
+bullish inside bar on AKEUSDT
+bullish inside bar on COLLECTUSDT
+bullish inside bar on TNSRUSDT
+bullish inside bar on INXUSDT
+checking higher tf 1h for GLMUSDT bullish=true
+bullish harami top on EVAAUSDT
+bullish inside bar on GLMUSDT
+bullish inside bar on EVAAUSDT
+bearish inside bar on SHELLUSDT
+bearish inside bar on SAGAUSDT
+checking higher tf 1h for EVAAUSDT bullish=true
+bullish inside bar on OLUSDT
+checking higher tf 1h for SAGAUSDT bullish=false
+bearish engulfing top on ARUSDT
+checking higher tf 1h for OLUSDT bullish=true
+bullish harami top on ARUSDT
+bullish inside bar on ARUSDT
+bullish inside bar on IOSTUSDT
+bullish inside bar on MUBARAKUSDT
+bullish inside bar on DIAUSDT
+bearish inside bar on EDENUSDT
+bearish inside bar on SWARMSUSDT
+bullish inside bar on IOSTUSDT
+bullish inside bar on DIAUSDT
+bullish inside bar on DIAUSDT
+checking higher tf 1h for MUBARAKUSDT bullish=true
+checking higher tf 1h for EDENUSDT bullish=false
+bearish inside bar on AUSDT
+bearish inside bar on HIPPOUSDT
+bullish inside bar on SYRUPUSDT
+bullish inside bar on INITUSDT
+bearish inside bar on NEARUSDT
+bearish inside bar on SOLUSDT
+bearish inside bar on SKYUSDT
+bearish inside bar on SKYUSDT
+bearish inside bar on TRBUSDT
+bearish inside bar on BERAUSDT
+bearish inside bar on TOWNSUSDT
+bearish inside bar on LTCUSDT
+bearish inside bar on SAHARAUSDT
+bearish inside bar on LAYERUSDT
+bearish inside bar on MEMEUSDT
+bearish inside bar on CATIUSDT
+bearish inside bar on HAEDALUSDT
+bearish inside bar on ARCUSDT
+bearish inside bar on HAEDALUSDT
+bearish inside bar on LDOUSDT
+bearish inside bar on HUSDT
+bearish inside bar on ROBOUSDT
+bearish inside bar on POLUSDT
+bearish inside bar on BTCUSDT
+bearish inside bar on SCRUSDT
+bearish inside bar on DUSKUSDT
+bearish inside bar on SUSDT
+bearish inside bar on HEIUSDT
+bearish inside bar on AEROUSDT
+checking higher tf 1h for AEROUSDT bullish=false
+bearish inside bar on LISTAUSDT
+checking higher tf 1h for LISTAUSDT bullish=false
+bearish inside bar on POPCATUSDT
+bullish inside bar on SOPHUSDT
+bearish inside bar on MOCAUSDT
+bullish inside bar on OPUSDT
+bullish inside bar on COMPUSDT
+bullish inside bar on ROSEUSDT
+bullish inside bar on ROSEUSDT
+bearish inside bar on KOMAUSDT
+bullish inside bar on KERNELUSDT
+bullish inside bar on SUSHIUSDT
+bullish inside bar on AKTUSDT
+bullish engulfinfg top on MANTAUSDT
+bullish inside bar on DASHUSDT
+bearish inside bar on PAXGUSDT
+bearish engulfing top on 1000000MOGUSDT
+bullish inside bar on MOODENGUSDT
+bearish inside bar on TAKEUSDT
+bullish engulfinfg top on FOGOUSDT
+bullish inside bar on MOODENGUSDT
+checking higher tf 1h for TAKEUSDT bullish=false
+bearish engulfing top on CYBERUSDT
+bearish inside bar on TAKEUSDT
+bullish harami top on CYBERUSDT
+bullish harami top on 1000000MOGUSDT
+bullish inside bar on CYBERUSDT
+bullish inside bar on MASKUSDT
+bearish engulfing top on MEWUSDT
+checking higher tf 1h for CYBERUSDT bullish=true
+bullish inside bar on 1000000MOGUSDT
+checking higher tf 1h for 1000000MOGUSDT bullish=true
+bullish inside bar on ONUSDT
+bullish inside bar on RLCUSDT
+bullish inside bar on OLUSDT
+bullish inside bar on TRUSTUSDT
+bullish inside bar on PHAUSDT
+bullish inside bar on MLNUSDT
+bullish engulfinfg top on STEEMUSDT
+bearish engulfing top on SYNUSDT
+bullish inside bar on COAIUSDT
+bullish inside bar on OLUSDT
+bullish inside bar on 2ZUSDT
+bullish inside bar on SUSDT
+bullish inside bar on ROBOUSDT
+bearish inside bar on TRUUSDT
+bearish inside bar on ATHUSDT
+bullish inside bar on FOLKSUSDT
+bullish inside bar on SPXUSDT
+bullish inside bar on SOLVUSDT
+bearish inside bar on IRYSUSDT
+checking higher tf 1h for IRYSUSDT bullish=false
+bearish inside bar on BOBUSDT
+bullish inside bar on TAKEUSDT
+bearish inside bar on BOMEUSDT
+bullish inside bar on BIRBUSDT
+bearish engulfing top on INITUSDT
+bullish harami top on INITUSDT
+bullish inside bar on INITUSDT
+bullish inside bar on MITOUSDT
+bullish inside bar on 0GUSDT
+bullish inside bar on 0GUSDT
+bullish inside bar on CUSDT
+bearish inside bar on DEGOUSDT
+bullish inside bar on CUSDT
+bullish inside bar on GUSDT
+bullish inside bar on BUSDT
+bullish inside bar on PTBUSDT
+bullish inside bar on NEWTUSDT
+bearish inside bar on PAXGUSDT
+bearish inside bar on PAXGUSDT
+bullish inside bar on SHELLUSDT
+bullish inside bar on PORTALUSDT
+bearish inside bar on ENSOUSDT
+bullish inside bar on LAYERUSDT
+bullish inside bar on 1000000MOGUSDT
+bullish inside bar on DUSKUSDT
+bullish inside bar on SUSHIUSDT
+bullish inside bar on ALTUSDT
+bullish inside bar on BBUSDT
+bullish inside bar on BBUSDT
+bearish inside bar on MEWUSDT
+bullish inside bar on SOLUSDT
+bullish inside bar on APTUSDT
+bearish harami top on 1000LUNCUSDT
+bearish inside bar on 1000LUNCUSDT
+bullish inside bar on IOUSDT
+bullish inside bar on AEROUSDT
+bullish inside bar on AEROUSDT
+bullish inside bar on AEROUSDT
+bullish inside bar on DOGEUSDT
+bullish inside bar on DOGEUSDT
+bullish inside bar on GUAUSDT
+bullish inside bar on KERNELUSDT
+bullish inside bar on GUAUSDT
+bullish inside bar on RAYSOLUSDT
+bullish inside bar on GWEIUSDT
+bearish inside bar on ANIMEUSDT
+bearish inside bar on PUMPUSDT
+bearish inside bar on HOMEUSDT
+bearish inside bar on HIVEUSDT
+bearish inside bar on PUMPUSDT
+bearish inside bar on PUMPUSDT
+bearish inside bar on FARTCOINUSDT
+bearish inside bar on 0GUSDT
+bearish inside bar on SAHARAUSDT
+bullish inside bar on BIRBUSDT
+bearish inside bar on FARTCOINUSDT
+checking higher tf 1h for SAHARAUSDT bullish=false
+bearish inside bar on JASMYUSDT
+bullish inside bar on TAUSDT
+bearish inside bar on DEGENUSDT
+bullish inside bar on BICOUSDT
+bullish inside bar on LUNA2USDT
+bearish engulfing top on THEUSDT
+bearish inside bar on ATHUSDT
+bullish harami top on THEUSDT
+bullish inside bar on THEUSDT
+checking higher tf 1h for THEUSDT bullish=true
+bullish inside bar on THEUSDT
+bullish inside bar on KOMAUSDT
+bearish inside bar on KMNOUSDT
+bearish inside bar on BABYUSDT
+bearish inside bar on NAORISUSDT
+bearish inside bar on TRUUSDT
+bearish inside bar on 1000PEPEUSDT
+bearish inside bar on COSUSDT
+bearish inside bar on CYSUSDT
+bearish inside bar on POLUSDT
+bearish inside bar on FOGOUSDT
+bearish inside bar on AVAAIUSDT
+bearish inside bar on ILVUSDT
+bearish inside bar on ILVUSDT
+bearish inside bar on BNBUSDT
+bearish harami top on 1000BONKUSDT
+bearish inside bar on ETHUSDT
+bearish inside bar on PENGUUSDT
+bearish inside bar on BNBUSDT
+bearish inside bar on BTCUSDT
+bearish harami top on AAVEUSDT
+bearish inside bar on 1000BONKUSDT
+bearish inside bar on SANDUSDT
+bearish inside bar on AAVEUSDT
+bearish inside bar on MEMEUSDT
+bearish inside bar on JUPUSDT
+bearish inside bar on FARTCOINUSDT
+bearish inside bar on LINKUSDT
+bearish inside bar on NIGHTUSDT
+bearish inside bar on JUPUSDT
+bearish inside bar on JUPUSDT
+bearish inside bar on CFXUSDT
+bearish inside bar on 1000SHIBUSDT
+bearish inside bar on ETCUSDT
+bearish inside bar on CFXUSDT
+bearish inside bar on MERLUSDT
+bearish inside bar on ARBUSDT
+bearish inside bar on ARBUSDT
+checking higher tf 1h for MERLUSDT bullish=false
+Pattern  detected on MERLUSDT at 2026-03-16T18:00:00.000Z in 1h
+bearish harami top on ETHFIUSDT
+bearish harami top on TRBUSDT
+bearish inside bar on AUSDT
+bearish inside bar on ETHFIUSDT
+bearish inside bar on AKTUSDT
+bearish inside bar on SSVUSDT
+bearish inside bar on TRBUSDT
+bearish inside bar on SSVUSDT
+bearish inside bar on PIXELUSDT
+bearish inside bar on AVAAIUSDT
+bearish inside bar on SOLUSDT
+bearish inside bar on ETHUSDT
+bearish inside bar on BANKUSDT
+bearish inside bar on BANKUSDT
+bearish inside bar on BRUSDT
+bearish inside bar on BANDUSDT
+bullish engulfinfg top on HANAUSDT
+bearish inside bar on SPACEUSDT
+bearish inside bar on ACHUSDT
+bearish inside bar on AVAAIUSDT
+bullish inside bar on ROBOUSDT
+bullish inside bar on OPNUSDT
+bullish inside bar on PAXGUSDT
+bullish inside bar on RESOLVUSDT
+bearish inside bar on DEXEUSDT
+bullish inside bar on DUSKUSDT
+bearish engulfing top on POWERUSDT
+bearish inside bar on JSTUSDT
+bearish inside bar on FARTCOINUSDT
+checking higher tf 1h for PAXGUSDT bullish=true
+bullish harami top on POWERUSDT
+bullish inside bar on TREEUSDT
+bearish inside bar on CLOUSDT
+bullish inside bar on SAHARAUSDT
+bullish inside bar on PROMPTUSDT
+bullish inside bar on BEAMXUSDT
+checking higher tf 1h for AVAAIUSDT bullish=false
+bullish inside bar on OPUSDT
+bullish inside bar on MAGICUSDT
+bullish inside bar on METISUSDT
+bullish inside bar on BUSDT
+checking higher tf 1h for SAHARAUSDT bullish=true
+bullish inside bar on DIAUSDT
+bullish inside bar on HOLOUSDT
+bullish inside bar on LUNA2USDT
+bullish inside bar on SFPUSDT
+bullish inside bar on SXTUSDT
+bearish inside bar on AVAAIUSDT
+checking higher tf 1h for PROMPTUSDT bullish=true
+checking higher tf 1h for SFPUSDT bullish=true
+bullish inside bar on LUMIAUSDT
+bearish inside bar on LTCUSDT
+bullish engulfinfg top on STABLEUSDT
+bearish inside bar on AEROUSDT
+bearish inside bar on POLUSDT
+bullish inside bar on LITUSDT
+bearish inside bar on HUMAUSDT
+bullish inside bar on SUIUSDT
+bullish inside bar on PUFFERUSDT
+bullish inside bar on 0GUSDT
+bullish inside bar on IMXUSDT
+bullish inside bar on RSRUSDT
+bullish inside bar on ARUSDT
+bullish inside bar on BANANAUSDT
+bearish engulfing top on MEMEUSDT
+bullish inside bar on ETHFIUSDT
+bearish inside bar on INUSDT
+bearish inside bar on MAGICUSDT
+bullish inside bar on ETHFIUSDT
+bullish inside bar on SAHARAUSDT
+bullish engulfinfg top on GLMUSDT
+bullish inside bar on SPXUSDT
+bearish inside bar on DASHUSDT
+bullish inside bar on AVAXUSDT
+bullish inside bar on LINKUSDT
+bullish inside bar on MLNUSDT
+bearish inside bar on ACXUSDT
+bullish inside bar on MIRAUSDT
+bullish inside bar on MIRAUSDT
+bullish inside bar on SPACEUSDT
+bearish inside bar on CFXUSDT
+bullish inside bar on ADAUSDT
+bullish inside bar on STGUSDT
+bearish inside bar on IRUSDT
+bullish engulfinfg top on PAXGUSDT
+bullish inside bar on ASTERUSDT
+checking higher tf 1h for CFXUSDT bullish=false
+bearish inside bar on CFXUSDT
+bullish inside bar on BANANAS31USDT
+bullish inside bar on KMNOUSDT
+bullish inside bar on TRUSTUSDT
+bearish inside bar on COLLECTUSDT
+bullish inside bar on MOODENGUSDT
+bearish inside bar on FIGHTUSDT
+bullish engulfinfg top on EIGENUSDT
+bearish inside bar on METISUSDT
+bearish inside bar on FARTCOINUSDT
+bullish inside bar on BANANAUSDT
+bearish inside bar on PHBUSDT
+bullish inside bar on ARBUSDT
+checking higher tf 1h for PHBUSDT bullish=false
+bullish inside bar on MAVUSDT
+bullish inside bar on MAVUSDT
+bearish inside bar on INUSDT
+bullish inside bar on MBOXUSDT
+bullish inside bar on CAKEUSDT
+bullish inside bar on ETHUSDT
+bullish inside bar on QNTUSDT
+bullish inside bar on OPUSDT
+bullish inside bar on ETHUSDT
+bullish inside bar on 2ZUSDT
+bullish inside bar on SSVUSDT
+bullish inside bar on OPUSDT
+bullish inside bar on ALGOUSDT
+bullish inside bar on RAREUSDT
+bullish inside bar on IMXUSDT
+bullish inside bar on EULUSDT
+bullish inside bar on ROBOUSDT
+bullish inside bar on ALPINEUSDT
+bullish inside bar on JUPUSDT
+bullish inside bar on DYMUSDT
+bullish inside bar on MUBARAKUSDT
+bullish inside bar on PENDLEUSDT
+bearish engulfing top on ENSUSDT
+bullish inside bar on RAREUSDT
+bullish harami top on ENSUSDT
+bullish inside bar on RAREUSDT
+bullish inside bar on ENSUSDT
+bullish inside bar on RAREUSDT
+bullish inside bar on COMPUSDT
+bullish inside bar on LINEAUSDT
+bullish inside bar on AIXBTUSDT
+bullish inside bar on AIXBTUSDT
+bullish inside bar on RPLUSDT
+bullish inside bar on RPLUSDT
+bullish inside bar on DODOXUSDT
+bullish inside bar on SAFEUSDT
+bullish inside bar on AIUSDT
+bearish engulfing top on JSTUSDT
+bullish harami top on JSTUSDT
+bullish inside bar on JSTUSDT
+bearish inside bar on SPORTFUNUSDT
+bullish inside bar on SPXUSDT
+checking higher tf 1h for JSTUSDT bullish=true
+bearish engulfing top on BBUSDT
+bullish inside bar on HUSDT
+bullish inside bar on BIOUSDT
+bullish inside bar on GIGGLEUSDT
+bullish inside bar on BTCUSDT
+bullish inside bar on RUNEUSDT
+bullish inside bar on BNBUSDT
+bullish inside bar on ROBOUSDT
+bullish inside bar on SUIUSDT
+bullish inside bar on HANAUSDT
+bullish inside bar on HIGHUSDT
+bullish inside bar on SAHARAUSDT
+bullish inside bar on ACXUSDT
+bullish inside bar on TOSHIUSDT
+bullish inside bar on DEXEUSDT
+bullish engulfinfg top on B2USDT
+bullish inside bar on SAHARAUSDT
+bullish inside bar on STGUSDT
+bullish inside bar on TRXUSDT
+bullish inside bar on APEUSDT
+bullish inside bar on TRXUSDT
+bullish inside bar on AVAXUSDT
+bullish inside bar on BERAUSDT
+bullish inside bar on 1MBABYDOGEUSDT
+bullish inside bar on BANANAUSDT
+bullish inside bar on MOODENGUSDT
+bullish inside bar on ENSUSDT
+bullish inside bar on SSVUSDT
+bullish inside bar on CFXUSDT
+bullish inside bar on ALTUSDT
+bullish inside bar on NEIROUSDT
+bullish inside bar on AVAAIUSDT
+bullish inside bar on PENDLEUSDT
+bullish inside bar on THETAUSDT
+bullish inside bar on AEROUSDT
+bullish inside bar on NOTUSDT
+bullish inside bar on SANDUSDT
+bullish inside bar on ETHFIUSDT
+bullish inside bar on ANIMEUSDT
+bullish inside bar on GRTUSDT
+bullish inside bar on APTUSDT
+bullish inside bar on FORMUSDT
+bullish inside bar on NEOUSDT
+bullish inside bar on STXUSDT
+bullish inside bar on FORMUSDT
+bullish inside bar on CLANKERUSDT
+bullish inside bar on MANAUSDT
+bullish inside bar on SUIUSDT
+bullish inside bar on SANDUSDT
+bearish inside bar on IDUSDT
+bullish inside bar on COSUSDT
+bullish inside bar on RAYSOLUSDT
+bullish inside bar on INJUSDT
+bullish inside bar on MEGAUSDT
+bullish inside bar on COAIUSDT
+bearish inside bar on JUPUSDT
+bearish inside bar on TLMUSDT
+bullish inside bar on OPNUSDT
+bullish inside bar on MEGAUSDT
+checking higher tf 1h for JUPUSDT bullish=false
+bullish inside bar on ONEUSDT
+bullish inside bar on ONEUSDT
+bullish inside bar on 1000CHEEMSUSDT
+bullish inside bar on BREVUSDT
+bullish inside bar on COWUSDT
+bullish inside bar on SAFEUSDT
+bullish inside bar on MOCAUSDT
+bullish inside bar on SAPIENUSDT
+bullish inside bar on SKRUSDT
+bullish inside bar on STRKUSDT
+bullish inside bar on ONDOUSDT
+bearish inside bar on AGTUSDT
+bullish inside bar on ARKMUSDT
+bullish inside bar on DEEPUSDT
+bearish inside bar on AGTUSDT
+bearish inside bar on OPUSDT
+checking higher tf 1h for OPUSDT bullish=false
+bearish inside bar on OPUSDT
+bearish inside bar on SOLUSDT
+bearish inside bar on HOLOUSDT
+checking higher tf 1h for HOLOUSDT bullish=false
+bullish inside bar on RAREUSDT
+bearish inside bar on ACTUSDT
+bullish inside bar on ROSEUSDT
+bearish inside bar on KERNELUSDT
+bearish inside bar on BANKUSDT
+bearish inside bar on MBOXUSDT
+checking higher tf 1h for BANKUSDT bullish=false
+bearish inside bar on FIGHTUSDT
+bearish inside bar on SQDUSDT
+bullish inside bar on 1000PEPEUSDT
+bullish engulfinfg top on 1000PEPEUSDT
+bullish inside bar on RAREUSDT
+bullish engulfinfg top on RESOLVUSDT
+bullish inside bar on PARTIUSDT
+bullish inside bar on RAREUSDT
+bullish inside bar on ARBUSDT
+bullish inside bar on STRKUSDT
+bullish engulfinfg top on ETCUSDT
+bullish inside bar on BDXNUSDT
+bullish inside bar on BDXNUSDT
+bullish inside bar on PLAYUSDT
+bullish inside bar on DEEPUSDT
+bullish inside bar on COMPUSDT
+bullish inside bar on NOTUSDT
+bullish inside bar on PLUMEUSDT
+bullish inside bar on ETHWUSDT
+bearish inside bar on FIGHTUSDT
+bullish inside bar on FIDAUSDT
+bullish inside bar on MAVUSDT
+bullish inside bar on AGLDUSDT
+bearish inside bar on MORPHOUSDT
+bullish inside bar on AXLUSDT
+bearish inside bar on SKYUSDT
+bullish inside bar on HEIUSDT
+bearish inside bar on SKYUSDT
+bullish inside bar on HEIUSDT
+bullish inside bar on DYMUSDT
+bullish inside bar on IMXUSDT
+bullish inside bar on NFPUSDT
+bullish inside bar on TAIKOUSDT
+bearish engulfing top on CGPTUSDT
+bearish engulfing top on ATUSDT
+bullish inside bar on AKEUSDT
+bullish inside bar on AVAUSDT
+bullish inside bar on MUSDT
+bullish inside bar on KOMAUSDT
+bullish inside bar on 1INCHUSDT
+bullish engulfinfg top on BSVUSDT
+bullish inside bar on SYNUSDT
+bullish inside bar on COOKIEUSDT
+bullish harami top on ATUSDT
+bullish inside bar on BSVUSDT
+bullish inside bar on ATUSDT
+bearish inside bar on POWERUSDT
+bullish engulfinfg top on SOLVUSDT
+bearish inside bar on BARDUSDT
+bullish inside bar on MOODENGUSDT
+bullish inside bar on ESPORTSUSDT
+bullish engulfinfg top on POPCATUSDT
+bullish inside bar on 0GUSDT
+checking higher tf 1h for POWERUSDT bullish=false
+bullish inside bar on SKRUSDT
+bullish engulfinfg top on ICPUSDT
+bearish engulfing top on LTCUSDT
+bearish engulfing top on RDNTUSDT
+bearish inside bar on KOMAUSDT
+bearish inside bar on MAGMAUSDT
+checking higher tf 1h for MAGMAUSDT bullish=false
+bearish inside bar on MAGMAUSDT
+bearish inside bar on DEGENUSDT
+bearish inside bar on BEATUSDT
+bearish inside bar on BUSDT
+bullish engulfinfg top on SPXUSDT
+bearish inside bar on BANANAS31USDT
+bullish inside bar on SPXUSDT
+bullish inside bar on HUSDT
+bearish engulfing top on GWEIUSDT
+bullish harami top on GWEIUSDT
+bullish inside bar on GWEIUSDT
+bullish inside bar on ELSAUSDT
+bullish inside bar on B3USDT
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+bullish inside bar on RESOLVUSDT
+bearish inside bar on TRUMPUSDT
+bearish inside bar on KERNELUSDT
+bearish inside bar on AIOTUSDT
+bearish inside bar on ARCUSDT
+bearish inside bar on DUSDT
+bearish inside bar on SYRUPUSDT
+bearish inside bar on ARCUSDT
+bearish inside bar on KERNELUSDT
+bearish inside bar on IMXUSDT
+bearish inside bar on HIPPOUSDT
+bullish inside bar on AZTECUSDT
+bullish inside bar on FIOUSDT
+bullish inside bar on MEUSDT
+bullish inside bar on HUSDT
+bullish inside bar on 2ZUSDT
+bearish inside bar on AVAAIUSDT
+bearish inside bar on SHELLUSDT
+bearish inside bar on SAGAUSDT
+bearish engulfing top on ROBOUSDT
+bullish harami top on ROBOUSDT
+bullish inside bar on ROBOUSDT
+bearish inside bar on KMNOUSDT
+bearish inside bar on KMNOUSDT
+bearish inside bar on SOLUSDT
+bearish inside bar on TAOUSDT
+bullish inside bar on ASTRUSDT
+bearish inside bar on NAORISUSDT
+checking higher tf 1h for ASTRUSDT bullish=true
+bearish inside bar on SKYAIUSDT
+bearish inside bar on SENTUSDT
+bearish inside bar on PAXGUSDT
+bearish inside bar on SKYAIUSDT
+bullish inside bar on QNTUSDT
+bearish inside bar on RLSUSDT
+bearish inside bar on AVAXUSDT
+bearish inside bar on BANANAUSDT
+bearish inside bar on ELSAUSDT
+bullish inside bar on THEUSDT
+bearish inside bar on ENAUSDT
+bearish inside bar on FLUXUSDT
+bullish inside bar on LABUSDT
+bearish inside bar on JSTUSDT
+bullish inside bar on SXTUSDT
+checking higher tf 1h for LABUSDT bullish=true
+bullish inside bar on LABUSDT
+bearish inside bar on DUSKUSDT
+bearish engulfing top on BANUSDT
+bearish inside bar on DEXEUSDT
+bullish inside bar on OPNUSDT
+bearish inside bar on ALPINEUSDT
+bullish harami top on BANUSDT
+bearish inside bar on 1000LUNCUSDT
+bullish inside bar on BANUSDT
+bearish inside bar on JUPUSDT
+bearish inside bar on IDOLUSDT
+bearish inside bar on BBUSDT
+bearish inside bar on ILVUSDT
+bearish inside bar on BTCUSDT
+bearish inside bar on RUNEUSDT
+bullish inside bar on KASUSDT
+bearish inside bar on TONUSDT
+bearish inside bar on LRCUSDT
+bearish inside bar on ENSUSDT
+bearish inside bar on NTRNUSDT
+bearish inside bar on LRCUSDT
+bullish inside bar on AWEUSDT
+bearish inside bar on NTRNUSDT
+bullish inside bar on COLLECTUSDT
+bearish inside bar on FIGHTUSDT
+bearish inside bar on CYSUSDT
+checking higher tf 1h for AWEUSDT bullish=true
+bearish inside bar on QUSDT
+bearish inside bar on CCUSDT
+bearish inside bar on SOONUSDT
+checking higher tf 1h for CCUSDT bullish=false
+bullish inside bar on LISTAUSDT
+bearish inside bar on LAUSDT
+checking higher tf 1h for SOONUSDT bullish=false
+bearish inside bar on STGUSDT
+bullish inside bar on A2ZUSDT
+bullish inside bar on LQTYUSDT
+bearish inside bar on CROSSUSDT
+bearish inside bar on REZUSDT
+bearish inside bar on MBOXUSDT
+bearish inside bar on INUSDT
+bearish inside bar on MBOXUSDT
+bearish inside bar on MBOXUSDT
+bearish inside bar on MBOXUSDT
+bearish inside bar on 1000CHEEMSUSDT
+bearish inside bar on DAMUSDT
+bearish inside bar on FIGHTUSDT
+bearish inside bar on AAVEUSDT
+bearish inside bar on ATHUSDT
+bearish engulfing top on ESPUSDT
+bearish inside bar on PLUMEUSDT
+bearish engulfing top on 1000LUNCUSDT
+bullish harami top on ESPUSDT
+bearish engulfing top on 4USDT
+bullish inside bar on ESPUSDT
+bearish inside bar on TRUMPUSDT
+bearish inside bar on LINKUSDT
+bearish harami top on SYRUPUSDT
+bearish inside bar on SYRUPUSDT
+bearish inside bar on TAUSDT
+bullish inside bar on AVAXUSDT
+bullish inside bar on LUNA2USDT
+bullish inside bar on MINAUSDT
+bullish inside bar on NILUSDT
+bearish inside bar on POWERUSDT
+bullish inside bar on SOPHUSDT
+bullish inside bar on RESOLVUSDT
+bearish inside bar on KMNOUSDT
+bearish inside bar on SOLUSDT
+bearish inside bar on HYPEUSDT
+bearish inside bar on LINKUSDT
+bearish inside bar on REZUSDT
+bullish inside bar on ACXUSDT
+bearish inside bar on PAXGUSDT
+bullish inside bar on SKRUSDT
+checking higher tf 1h for SOLUSDT bullish=false
+bullish inside bar on DYMUSDT
+bearish inside bar on BABYUSDT
+checking higher tf 1h for LINKUSDT bullish=false
+checking higher tf 1h for REZUSDT bullish=false
+bearish inside bar on AIAUSDT
+checking higher tf 1h for HYPEUSDT bullish=false
+bullish inside bar on BUSDT
+bearish inside bar on SKYAIUSDT
+bearish inside bar on STABLEUSDT
+bullish inside bar on DEEPUSDT
+bearish inside bar on REZUSDT
+bullish inside bar on AKEUSDT
+bearish engulfing top on SAPIENUSDT
+bullish inside bar on AINUSDT
+bullish inside bar on HUSDT
+checking higher tf 1h for DYMUSDT bullish=true
+checking higher tf 1h for SKRUSDT bullish=true
+bearish inside bar on LTCUSDT
+bullish inside bar on NEOUSDT
+bullish inside bar on AKEUSDT
+bullish harami top on SAPIENUSDT
+bullish inside bar on HUSDT
+checking higher tf 1h for SKYAIUSDT bullish=false
+bullish inside bar on RUNEUSDT
+bullish inside bar on ESPORTSUSDT
+bullish inside bar on SAPIENUSDT
+bullish inside bar on ALCHUSDT
+bullish inside bar on SAPIENUSDT
+checking higher tf 1h for ESPORTSUSDT bullish=true
+bearish harami top on ORDERUSDT
+bullish inside bar on SCRUSDT
+bearish inside bar on ORDERUSDT
+bullish inside bar on DRIFTUSDT
+bullish inside bar on JASMYUSDT
+bullish inside bar on COWUSDT
+bullish inside bar on LABUSDT
+bullish inside bar on 1000CHEEMSUSDT
+bullish inside bar on RONINUSDT
+bearish inside bar on LPTUSDT
+bullish inside bar on GRIFFAINUSDT
+bearish inside bar on AVAAIUSDT
+bearish inside bar on DAMUSDT
+bullish inside bar on ALLUSDT
+bullish inside bar on DRIFTUSDT
+checking higher tf 1h for ORDERUSDT bullish=false
+bullish inside bar on GRIFFAINUSDT
+checking higher tf 1h for AVAAIUSDT bullish=false
+bearish inside bar on HANAUSDT
+bullish inside bar on NXPCUSDT
+bullish inside bar on OPUSDT
+bullish inside bar on OPUSDT
+bullish inside bar on EULUSDT
+bullish inside bar on AVAXUSDT
+bullish inside bar on SUIUSDT
+bullish inside bar on EGLDUSDT
+bullish inside bar on LINKUSDT
+bullish inside bar on SOLUSDT
+bullish inside bar on RECALLUSDT
+bullish inside bar on ARBUSDT
+bullish inside bar on 1000BONKUSDT
+bullish inside bar on SOLUSDT
+bullish inside bar on NEARUSDT
+bullish inside bar on ASTRUSDT
+bullish inside bar on RECALLUSDT
+bullish inside bar on BNBUSDT
+bullish inside bar on COSUSDT
+bullish inside bar on RAYSOLUSDT
+bullish inside bar on SPXUSDT
+bullish inside bar on MOVRUSDT
+bullish inside bar on BANANAUSDT
+bullish inside bar on ORDIUSDT
+bullish inside bar on BOMEUSDT
+bullish inside bar on 1000RATSUSDT
+bullish inside bar on PENGUUSDT
+bullish inside bar on ADAUSDT
+bullish inside bar on DOTUSDT
+checking higher tf 1h for MOVRUSDT bullish=true
+bullish inside bar on 1000RATSUSDT
+bullish inside bar on MOVRUSDT
+bullish inside bar on ENAUSDT
+bullish inside bar on MOVRUSDT
+bullish inside bar on CAKEUSDT
+bullish inside bar on AIOTUSDT
+bullish inside bar on ATOMUSDT
+bullish inside bar on APEUSDT
+bullish inside bar on AKTUSDT
+bullish inside bar on ORDERUSDT
+bullish inside bar on APEUSDT
+bullish inside bar on NOTUSDT
+bullish inside bar on BMTUSDT
+bullish inside bar on JTOUSDT
+bullish inside bar on STXUSDT
+bullish inside bar on TONUSDT
+bullish inside bar on BARDUSDT
+bullish inside bar on BEAMXUSDT
+bullish inside bar on TRBUSDT
+bullish inside bar on 1MBABYDOGEUSDT
+bullish inside bar on SHELLUSDT
+bullish inside bar on STEEMUSDT
+bullish inside bar on CHZUSDT
+bullish inside bar on FOLKSUSDT
+bullish inside bar on SKRUSDT
+bullish inside bar on CTKUSDT
+bullish inside bar on POLUSDT
+bullish inside bar on ILVUSDT
+bullish inside bar on MAGICUSDT
+bullish inside bar on SYRUPUSDT
+checking higher tf 1h for POLUSDT bullish=true
+bullish inside bar on CCUSDT
+bullish inside bar on MIRAUSDT
+bearish inside bar on CYBERUSDT
+bullish inside bar on BANANAS31USDT
+bullish inside bar on MORPHOUSDT
+bullish inside bar on REZUSDT
+bullish inside bar on TAKEUSDT
+bullish inside bar on TAKEUSDT
+bearish inside bar on ANKRUSDT
+checking higher tf 1h for ANKRUSDT bullish=false
+bullish inside bar on NEARUSDT
+bullish engulfinfg top on MORPHOUSDT
+bearish inside bar on TRXUSDT
+bearish inside bar on AEVOUSDT
+bullish inside bar on ESPUSDT
+bullish inside bar on MORPHOUSDT
+bullish inside bar on SIGNUSDT
+bullish inside bar on RAREUSDT
+bullish engulfinfg top on CFXUSDT
+bullish inside bar on CFXUSDT
+bullish inside bar on SPKUSDT
+checking higher tf 1h for CFXUSDT bullish=true
+bearish engulfing top on ARCUSDT
+bullish inside bar on ONGUSDT
+bearish inside bar on MEGAUSDT
+bullish inside bar on FFUSDT
+bearish inside bar on SYSUSDT
+bearish inside bar on FLOWUSDT
+bullish inside bar on A2ZUSDT
+bullish inside bar on SOLUSDT
+bearish engulfing top on BTCUSDT
+bullish harami top on BTCUSDT
+bullish inside bar on SANDUSDT
+bullish inside bar on BTCUSDT
+bullish inside bar on AKEUSDT
+bearish engulfing top on PAXGUSDT
+bullish inside bar on FLUXUSDT
+bullish inside bar on FLUXUSDT
+bullish inside bar on JASMYUSDT
+bearish inside bar on DUSKUSDT
+bullish inside bar on AXLUSDT
+bullish inside bar on NFPUSDT
+bullish inside bar on NFPUSDT
+bullish inside bar on LAYERUSDT
+bearish inside bar on IDOLUSDT
+bullish inside bar on AIUSDT
+bullish inside bar on AIAUSDT
+bullish inside bar on AIUSDT
+bullish inside bar on AIUSDT
+bullish inside bar on REZUSDT
+bullish inside bar on LISTAUSDT
+bullish inside bar on ALLOUSDT
+bullish inside bar on POPCATUSDT
+bullish inside bar on METISUSDT
+bullish inside bar on SIGNUSDT
+bearish inside bar on EULUSDT
+bullish inside bar on 1000BONKUSDT
+bullish inside bar on CAKEUSDT
+bullish inside bar on COMPUSDT
+bullish inside bar on GPSUSDT
+bullish inside bar on 1000BONKUSDT
+bullish inside bar on PARTIUSDT
+bullish inside bar on SUSDT
+bullish inside bar on BLESSUSDT
+bearish engulfing top on 1000PEPEUSDT
+bullish inside bar on 1000BONKUSDT
+bullish inside bar on HUSDT
+bullish inside bar on SOPHUSDT
+bullish inside bar on PROMPTUSDT
+bullish harami top on 1000PEPEUSDT
+bullish inside bar on PARTIUSDT
+bullish inside bar on ACUUSDT
+bullish inside bar on PROMPTUSDT
+bearish inside bar on IDUSDT
+bullish engulfinfg top on ENSOUSDT
+bullish inside bar on HIPPOUSDT
+bullish inside bar on HUMAUSDT
+bullish inside bar on CVCUSDT
+bullish inside bar on FORMUSDT
+bullish inside bar on ACUUSDT
+checking higher tf 1h for ENSOUSDT bullish=true
+checking higher tf 1h for HIPPOUSDT bullish=true
+bullish inside bar on JUPUSDT
+bearish engulfing top on SUIUSDT
+bearish engulfing top on BERAUSDT
+bullish inside bar on TAUSDT
+bullish inside bar on JUPUSDT
+bullish harami top on SUIUSDT
+bullish inside bar on RESOLVUSDT
+bullish engulfinfg top on SPKUSDT
+bullish inside bar on ATUSDT
+bearish engulfing top on BEAMXUSDT
+bullish inside bar on SHELLUSDT
+bearish engulfing top on STXUSDT
+bullish engulfinfg top on DOODUSDT
+bullish inside bar on BMTUSDT
+bullish inside bar on AIOTUSDT
+bullish engulfinfg top on KAITOUSDT
+bullish harami top on BEAMXUSDT
+bullish harami top on STXUSDT
+bullish inside bar on ATUSDT
+bullish inside bar on AIOTUSDT
+checking higher tf 1h for SHELLUSDT bullish=true
+bullish inside bar on BEAMXUSDT
+bullish inside bar on STXUSDT
+bearish inside bar on ROBOUSDT
+bullish inside bar on BUSDT
+checking higher tf 1h for ROBOUSDT bullish=false
+bearish inside bar on ESPUSDT
+bullish inside bar on 2ZUSDT
+bullish inside bar on GRIFFAINUSDT
+bullish inside bar on CUSDT
+bullish inside bar on 1000CHEEMSUSDT
+bearish inside bar on CLANKERUSDT
+bearish inside bar on EIGENUSDT
+bearish inside bar on ASTRUSDT
+bearish inside bar on TRADOORUSDT
+bullish engulfinfg top on DOGEUSDT
+bearish inside bar on LIGHTUSDT
+bearish inside bar on TRADOORUSDT
+bullish inside bar on ROBOUSDT
+bullish inside bar on TAUSDT
+bullish engulfinfg top on SPACEUSDT
+bearish inside bar on MERLUSDT
+bullish engulfinfg top on KAIAUSDT
+bullish inside bar on MOVEUSDT
+bullish inside bar on BTCUSDT
+bearish inside bar on GWEIUSDT
+bullish inside bar on NFPUSDT
+bearish engulfing top on ACHUSDT
+bullish inside bar on FLOWUSDT
+bullish inside bar on JASMYUSDT
+bullish inside bar on SPXUSDT
+bullish harami top on ACHUSDT
+bullish inside bar on BERAUSDT
+bullish inside bar on 2ZUSDT
+bearish inside bar on PENDLEUSDT
+bullish engulfinfg top on METISUSDT
+bullish inside bar on ACHUSDT
+checking higher tf 1h for FLOWUSDT bullish=true
+bearish inside bar on THEUSDT
+bullish inside bar on LAUSDT
+bullish inside bar on GPSUSDT
+bullish inside bar on HUSDT
+bullish inside bar on AZTECUSDT
+bullish inside bar on GASUSDT
+bearish inside bar on CYSUSDT
+bearish inside bar on FRAXUSDT
+bearish inside bar on AEVOUSDT
+bearish inside bar on CYSUSDT
+bullish inside bar on ASTERUSDT
+bearish inside bar on SKYUSDT
+bullish inside bar on AKTUSDT
+bullish engulfinfg top on BNBUSDT
+bullish inside bar on LRCUSDT
+bearish inside bar on BOMEUSDT
+bearish inside bar on KERNELUSDT
+bullish inside bar on PUMPUSDT
+bullish inside bar on AVAAIUSDT
+bearish inside bar on RAVEUSDT
+bullish inside bar on BANKUSDT
+bullish inside bar on AVAAIUSDT
+bullish inside bar on BANKUSDT
+bullish inside bar on AVAAIUSDT
+bullish inside bar on SAHARAUSDT
+bearish inside bar on SAGAUSDT
+bearish inside bar on TRUSTUSDT
+bullish inside bar on ARCUSDT
+bullish inside bar on TRXUSDT
+bullish inside bar on OPUSDT
+bullish inside bar on THEUSDT
+bullish inside bar on TREEUSDT
+bullish inside bar on TREEUSDT
+bullish inside bar on PAXGUSDT
+Client connecting: QPE-8VmCrbvhbtQKAAAV with accountId: default
+[32m[Nest] 77032  - [39m03/16/2026, 10:49:07 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MjgwNTMyNywiZXhwIjoxNzc2MjYxMzI3fQ.KtOLGxWQLpHN_vtIeZXvNfBQvPkr0XNqoRlvTHD8oGo[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 77032  - [39m03/16/2026, 10:49:08 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: QPE-8VmCrbvhbtQKAAAV[39m
+Client connecting: fwBuBU5Ox0dFCkndAAAX with accountId: default
+[32m[Nest] 77032  - [39m03/16/2026, 10:49:08 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MjgwNTMyNywiZXhwIjoxNzc2MjYxMzI3fQ.KtOLGxWQLpHN_vtIeZXvNfBQvPkr0XNqoRlvTHD8oGo[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 77032  - [39m03/16/2026, 10:49:20 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: fwBuBU5Ox0dFCkndAAAX[39m
+bullish engulfinfg top on TAOUSDT
+bullish inside bar on PUFFERUSDT
+bullish inside bar on CUSDT
+bullish engulfinfg top on TAUSDT
+bullish inside bar on IRYSUSDT
+checking higher tf 1h for IRYSUSDT bullish=true
+bullish engulfinfg top on HEIUSDT
+bullish inside bar on SAHARAUSDT
+bullish inside bar on CETUSUSDT
+bearish inside bar on MITOUSDT
+bullish engulfinfg top on HAEDALUSDT
+bearish inside bar on MITOUSDT
+bullish inside bar on CGPTUSDT
+bullish inside bar on GUNUSDT
+bullish inside bar on BABYUSDT
+bullish inside bar on GUNUSDT
+bearish harami top on ALTUSDT
+bearish inside bar on ALTUSDT
+bearish inside bar on INXUSDT
+bearish engulfing top on AKTUSDT
+bullish inside bar on TRADOORUSDT
+bullish harami top on AKTUSDT
+bullish inside bar on AKTUSDT
+bearish inside bar on STABLEUSDT
+bearish inside bar on BBUSDT
+bearish inside bar on SAGAUSDT
+bearish inside bar on CYSUSDT
+bullish inside bar on TAOUSDT
+bearish inside bar on HUMAUSDT
+bearish inside bar on FRAXUSDT
+bearish inside bar on TAGUSDT
+bearish inside bar on BULLAUSDT
+bullish inside bar on LTCUSDT
+bullish inside bar on NIGHTUSDT
+bullish inside bar on POLUSDT
+bullish inside bar on CATIUSDT
+bullish inside bar on PENDLEUSDT
+bullish inside bar on CATIUSDT
+bullish inside bar on CATIUSDT
+bullish inside bar on CATIUSDT
+bullish inside bar on ELSAUSDT
+bearish inside bar on HUMAUSDT
+bullish inside bar on ELSAUSDT
+bearish inside bar on ALCHUSDT
+bearish inside bar on BERAUSDT
+bearish inside bar on AIAUSDT

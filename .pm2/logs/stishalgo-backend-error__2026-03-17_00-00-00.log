@@ -1,0 +1,332 @@
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:603:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:603:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:603:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:866:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)
+Error: ENTRY BLOCKED: Max 20 entries/day reached
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1793:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:922:17)

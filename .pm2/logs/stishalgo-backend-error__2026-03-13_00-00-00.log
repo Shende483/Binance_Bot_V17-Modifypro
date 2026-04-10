@@ -1,0 +1,2252 @@
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 00:44:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '46',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 25b0581f55c9bc23ece1b989f01118bc.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'lFTZcLXM0ZBnSEq46awDfKfNrMYntELTlf4QQofY_9K-otEndMFeyQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=HEIUSDT&leverage=20&timestamp=1773276241452&recvWindow=5000&signature=5efd22d014ea20b08c3fc082b19396d3bb8eee3ceb3f4b1dccf5766b7246eeb7',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 00:44:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '46',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 25b0581f55c9bc23ece1b989f01118bc.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'lFTZcLXM0ZBnSEq46awDfKfNrMYntELTlf4QQofY_9K-otEndMFeyQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=HEIUSDT&leverage=20&timestamp=1773276241452&recvWindow=5000&signature=5efd22d014ea20b08c3fc082b19396d3bb8eee3ceb3f4b1dccf5766b7246eeb7',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1784:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:921:17)
+Error: Wait 20 min for same symbol
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1795:62)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:865:17)
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 01:37:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 474a987f2cb8373a0505e9e4aad940fc.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'WI3nxmbWLoi5HR8HQXPV3inowaYnVFIEUx-SutdJYa2w7fw9OsFKUw=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=EVAAUSDT&leverage=20&timestamp=1773279421213&recvWindow=5000&signature=5890adc501fb6fdfb501646c7f476735bc72eac93d98a30a9b83e19f165cdd2d',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 01:37:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 474a987f2cb8373a0505e9e4aad940fc.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'WI3nxmbWLoi5HR8HQXPV3inowaYnVFIEUx-SutdJYa2w7fw9OsFKUw=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=EVAAUSDT&leverage=20&timestamp=1773279421213&recvWindow=5000&signature=5890adc501fb6fdfb501646c7f476735bc72eac93d98a30a9b83e19f165cdd2d',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 01:41:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 6cf45c264be57f5ba791594592c4a026.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': '5I5jRWfqxXwsbAyD7klOfPopxInr6aisp76Q9lYYF2EOYvOfa4J-KQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=TRUUSDT&leverage=20&timestamp=1773279663808&recvWindow=5000&signature=be3e786c274f9281d9db597830cfe3448c131c6bb66082b1427f3d15c232495b',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 01:41:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 6cf45c264be57f5ba791594592c4a026.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': '5I5jRWfqxXwsbAyD7klOfPopxInr6aisp76Q9lYYF2EOYvOfa4J-KQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=TRUUSDT&leverage=20&timestamp=1773279663808&recvWindow=5000&signature=be3e786c274f9281d9db597830cfe3448c131c6bb66082b1427f3d15c232495b',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 02:33:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '38',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 ce86679de463c6d70747326a379667da.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'OfkV3Ow-BvmV33E4OrDzKqjgmyr5trEebJSO7bL00romlHJk_xJt0A=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=TRUUSDT&leverage=20&timestamp=1773282781502&recvWindow=5000&signature=ffe8a21f2c13a33614842b7b02f39ad3c1b329e4032b26820029211310008f51',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 02:33:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '38',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 ce86679de463c6d70747326a379667da.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'OfkV3Ow-BvmV33E4OrDzKqjgmyr5trEebJSO7bL00romlHJk_xJt0A=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=TRUUSDT&leverage=20&timestamp=1773282781502&recvWindow=5000&signature=ffe8a21f2c13a33614842b7b02f39ad3c1b329e4032b26820029211310008f51',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 02:39:01 GMT',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 23c7c0fcb7588dda47ad1ecde462c110.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'Ge2n-gVI4gvZyTB2ZKuY4j5qMqE0rKc9Censt422i_8-a3R4VHvRAA=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=TAUSDT&leverage=20&timestamp=1773283141514&recvWindow=5000&signature=801682559314e8cd70f199b8d352269915a60dab45715a206dbcbfb45e3bb6ce',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 02:39:01 GMT',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 23c7c0fcb7588dda47ad1ecde462c110.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'Ge2n-gVI4gvZyTB2ZKuY4j5qMqE0rKc9Censt422i_8-a3R4VHvRAA=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=TAUSDT&leverage=20&timestamp=1773283141514&recvWindow=5000&signature=801682559314e8cd70f199b8d352269915a60dab45715a206dbcbfb45e3bb6ce',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 02:56:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 454b32bcd03313aac0059742dd0f3d74.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'wOiDvyPBCDDpLfuy26vBQqsDc517TtgUEQ9xNU3HUtwNsqRCOvkLhA=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=HANAUSDT&leverage=20&timestamp=1773284161190&recvWindow=5000&signature=e5fee1512cd943f966184393d8e798ed18006e78de39cb51f47c80e2c75b150e',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 02:56:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 454b32bcd03313aac0059742dd0f3d74.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'wOiDvyPBCDDpLfuy26vBQqsDc517TtgUEQ9xNU3HUtwNsqRCOvkLhA=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=HANAUSDT&leverage=20&timestamp=1773284161190&recvWindow=5000&signature=e5fee1512cd943f966184393d8e798ed18006e78de39cb51f47c80e2c75b150e',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 04:00:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '46',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 814a3a374ba48e9f7a44669fa317654c.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'a_l_WWER94eczu4ssEmz9Xga6Orjm-8vqo_KatI-SD6Cj_qnPQli7A=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=EVAAUSDT&leverage=20&timestamp=1773288003295&recvWindow=5000&signature=581af2aa01ddac6568311e639c37f72f88451c0cc04c971272ab8160a0457af1',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 04:00:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '46',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 814a3a374ba48e9f7a44669fa317654c.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'a_l_WWER94eczu4ssEmz9Xga6Orjm-8vqo_KatI-SD6Cj_qnPQli7A=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=EVAAUSDT&leverage=20&timestamp=1773288003295&recvWindow=5000&signature=581af2aa01ddac6568311e639c37f72f88451c0cc04c971272ab8160a0457af1',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1784:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:865:17)
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 05:01:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '2ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 c5a0a24cc78ac7f23bacbcb884836c66.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'ToX-Oruthkru0wh_6mULnjV81Xn3dslHvTihoQAJZdD5iLLTUolzRQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=HEIUSDT&leverage=20&timestamp=1773291661169&recvWindow=5000&signature=414e24a79bf85f27bcd09c1fe1268479d22267256d9371ce39c2b6ff3a43f8e1',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 05:01:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '2ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 c5a0a24cc78ac7f23bacbcb884836c66.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'ToX-Oruthkru0wh_6mULnjV81Xn3dslHvTihoQAJZdD5iLLTUolzRQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=HEIUSDT&leverage=20&timestamp=1773291661169&recvWindow=5000&signature=414e24a79bf85f27bcd09c1fe1268479d22267256d9371ce39c2b6ff3a43f8e1',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 05:07:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '38',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 814a3a374ba48e9f7a44669fa317654c.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'QHvfxku2acVhxhoUz2TLpV3Zt7UhOpRfvds51f4tW4s7pqDGqgYInA=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=ALPINEUSDT&leverage=20&timestamp=1773292023673&recvWindow=5000&signature=94af22807490e8acf4e879a629c99a5c44dd835843aaf2070d14a20f62971aa2',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 05:07:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '38',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 814a3a374ba48e9f7a44669fa317654c.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'QHvfxku2acVhxhoUz2TLpV3Zt7UhOpRfvds51f4tW4s7pqDGqgYInA=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=ALPINEUSDT&leverage=20&timestamp=1773292023673&recvWindow=5000&signature=94af22807490e8acf4e879a629c99a5c44dd835843aaf2070d14a20f62971aa2',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 05:27:02 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '28',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 1bcfde0e9a5967a480dbfe7b3cf03b1e.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'wrC_bq2VwoIWT8_UPciKzaLZ5erggVwHfONQPR95UGJLahRD-lPkpQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=HANAUSDT&leverage=20&timestamp=1773293221957&recvWindow=5000&signature=277f1a236978edd3e0a04bae2ae9c291f40cf51b5857b3175145cdc892d25f94',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 05:27:02 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '28',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 1bcfde0e9a5967a480dbfe7b3cf03b1e.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'wrC_bq2VwoIWT8_UPciKzaLZ5erggVwHfONQPR95UGJLahRD-lPkpQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=HANAUSDT&leverage=20&timestamp=1773293221957&recvWindow=5000&signature=277f1a236978edd3e0a04bae2ae9c291f40cf51b5857b3175145cdc892d25f94',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 05:28:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '2ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 454b32bcd03313aac0059742dd0f3d74.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'EDpCuvb4pSib9Lw-b2QlkW2A7emUTy7Dyxe6jHi_Zmr6K-FvN3qE4g=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=EVAAUSDT&leverage=20&timestamp=1773293283213&recvWindow=5000&signature=2ffa7d604f6e6853639feb6531321ee435c92e6931595918a4ed98a9c699a9fb',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 05:28:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '2ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 454b32bcd03313aac0059742dd0f3d74.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'EDpCuvb4pSib9Lw-b2QlkW2A7emUTy7Dyxe6jHi_Zmr6K-FvN3qE4g=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=EVAAUSDT&leverage=20&timestamp=1773293283213&recvWindow=5000&signature=2ffa7d604f6e6853639feb6531321ee435c92e6931595918a4ed98a9c699a9fb',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 05:42:02 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '58',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 aa663c59e815808acadb622a22b73fae.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'yZwDvMoR1yeldiru_8KgGvXiGF2Ji2n1e1H1Ni4UkJnMIypvf7q2Sg=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=COSUSDT&leverage=20&timestamp=1773294122458&recvWindow=5000&signature=9dc0e5ac9dde9bbfcc88afa5bdecf2127867aa5f121588d190f7ef2d3abf4172',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 05:42:02 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '58',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 aa663c59e815808acadb622a22b73fae.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'yZwDvMoR1yeldiru_8KgGvXiGF2Ji2n1e1H1Ni4UkJnMIypvf7q2Sg=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=COSUSDT&leverage=20&timestamp=1773294122458&recvWindow=5000&signature=9dc0e5ac9dde9bbfcc88afa5bdecf2127867aa5f121588d190f7ef2d3abf4172',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 06:04:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 25b0581f55c9bc23ece1b989f01118bc.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'jxvUfs0Ktw6P1UrI31hr5dnBl6zPlhs6WnN4n8EpxKm42DqqHnpbUw=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=EVAAUSDT&leverage=20&timestamp=1773295441269&recvWindow=5000&signature=d32dcda39a7b62b69b128d431423f3064cb8b5196bcce6759f4d6e1d282ba4ce',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 06:04:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 25b0581f55c9bc23ece1b989f01118bc.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'jxvUfs0Ktw6P1UrI31hr5dnBl6zPlhs6WnN4n8EpxKm42DqqHnpbUw=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=EVAAUSDT&leverage=20&timestamp=1773295441269&recvWindow=5000&signature=d32dcda39a7b62b69b128d431423f3064cb8b5196bcce6759f4d6e1d282ba4ce',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 06:51:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '37',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 4ae51cc91f2174df230b12d29ebf4622.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'CFL73kQmIwEVv2cNYpeajTXx8T3Qa_yqUX_pm46JrgdiwS_eroPXOA=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=A2ZUSDT&leverage=20&timestamp=1773298261213&recvWindow=5000&signature=5171b16480052abf60cb5afc7ba72d7ae024929a0a7b4121e4636188a4029d18',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 06:51:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '37',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 4ae51cc91f2174df230b12d29ebf4622.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'CFL73kQmIwEVv2cNYpeajTXx8T3Qa_yqUX_pm46JrgdiwS_eroPXOA=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=A2ZUSDT&leverage=20&timestamp=1773298261213&recvWindow=5000&signature=5171b16480052abf60cb5afc7ba72d7ae024929a0a7b4121e4636188a4029d18',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 07:03:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '68',
+    'x-response-time': '4ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 b9318779635a2a5a5b372a08d908a35a.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'bulElQg20wPeFUDrcDuxsrfDqAg41nfPfcDb1nGdkjhH599CQQEOGw=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=A2ZUSDT&leverage=20&timestamp=1773298981207&recvWindow=5000&signature=1632b4083772cdea72fa5acab3df1600b13c0ec0bf3ebd6cb1815125ea9279bb',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 07:03:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '68',
+    'x-response-time': '4ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 b9318779635a2a5a5b372a08d908a35a.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'bulElQg20wPeFUDrcDuxsrfDqAg41nfPfcDb1nGdkjhH599CQQEOGw=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=A2ZUSDT&leverage=20&timestamp=1773298981207&recvWindow=5000&signature=1632b4083772cdea72fa5acab3df1600b13c0ec0bf3ebd6cb1815125ea9279bb',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 07:08:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '2ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 e4dad8517f8b396b91a41158b44e938c.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'Y4SCaW5QgCeye5WhEDsyHYlq3njjpJ9VpY_ngVNa0NPsYKCdMSFWJQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=MITOUSDT&leverage=20&timestamp=1773299281285&recvWindow=5000&signature=7ed4cefef1c95c53398a280eb4fc10506a90acca1cb44e3f03f2ac9c4182f779',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 07:08:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '2ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 e4dad8517f8b396b91a41158b44e938c.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'Y4SCaW5QgCeye5WhEDsyHYlq3njjpJ9VpY_ngVNa0NPsYKCdMSFWJQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=MITOUSDT&leverage=20&timestamp=1773299281285&recvWindow=5000&signature=7ed4cefef1c95c53398a280eb4fc10506a90acca1cb44e3f03f2ac9c4182f779',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 07:11:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '58',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 b9318779635a2a5a5b372a08d908a35a.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'KmZupVJmGvUo42PcHveG7tjJ_7rUtNQ8MdcDwT0dggrMuaxvjYyR-w=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=SCRUSDT&leverage=20&timestamp=1773299463684&recvWindow=5000&signature=4d8d3970406f03999a51791aa781122cc87ea683fef6fcb97d7c39f121b20f31',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 07:11:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '58',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 b9318779635a2a5a5b372a08d908a35a.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'KmZupVJmGvUo42PcHveG7tjJ_7rUtNQ8MdcDwT0dggrMuaxvjYyR-w=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=SCRUSDT&leverage=20&timestamp=1773299463684&recvWindow=5000&signature=4d8d3970406f03999a51791aa781122cc87ea683fef6fcb97d7c39f121b20f31',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1784:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:865:17)
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 07:36:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '38',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 25b0581f55c9bc23ece1b989f01118bc.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'BdVWiCJAcoKNJOfh8oghJz_t9C7aOGWqrNIfG2kMiW9d2Y6ZB-Y2Cw=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=AGTUSDT&leverage=20&timestamp=1773300963687&recvWindow=5000&signature=8084e0b12c20bea148ef002118d40e48381c44dbe255bb2241ee835257b1d123',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 07:36:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '38',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 25b0581f55c9bc23ece1b989f01118bc.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'BdVWiCJAcoKNJOfh8oghJz_t9C7aOGWqrNIfG2kMiW9d2Y6ZB-Y2Cw=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=AGTUSDT&leverage=20&timestamp=1773300963687&recvWindow=5000&signature=8084e0b12c20bea148ef002118d40e48381c44dbe255bb2241ee835257b1d123',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1784:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:921:17)
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 07:37:02 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '157',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 b9318779635a2a5a5b372a08d908a35a.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'KxoynuPP65fW86te1ayVdFuAnrfov_mmG_3uAPPaFPpnQtU0U1A9nQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=COAIUSDT&leverage=20&timestamp=1773301022669&recvWindow=5000&signature=847431a13323446ee6c4d02e251d413539ac9794af4ea728990833a747a5abf8',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 07:37:02 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '157',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 b9318779635a2a5a5b372a08d908a35a.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'KxoynuPP65fW86te1ayVdFuAnrfov_mmG_3uAPPaFPpnQtU0U1A9nQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=COAIUSDT&leverage=20&timestamp=1773301022669&recvWindow=5000&signature=847431a13323446ee6c4d02e251d413539ac9794af4ea728990833a747a5abf8',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 07:49:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '28',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 5c9c30690fb483d6e08bfdd6137f633c.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'NvTHHK26jRPakfHaRwJbDGhHrzl-c1nYLKA36HaJXrNOViogOEWuCQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=TOWNSUSDT&leverage=20&timestamp=1773301741241&recvWindow=5000&signature=903fc01171e5aabb09c2dfc47dfeb52a529c2745dbdaf542681ded8db049dab2',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 07:49:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '28',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 5c9c30690fb483d6e08bfdd6137f633c.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'NvTHHK26jRPakfHaRwJbDGhHrzl-c1nYLKA36HaJXrNOViogOEWuCQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=TOWNSUSDT&leverage=20&timestamp=1773301741241&recvWindow=5000&signature=903fc01171e5aabb09c2dfc47dfeb52a529c2745dbdaf542681ded8db049dab2',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 08:16:00 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '28',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 450c7de382a90d91aaef3998b5bbf7ec.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'M53g3CWzza5NSLUcohANbc-9Xk4ZiitpNh-W4OqIWmXJ40Kg08CK0g=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=ALPINEUSDT&leverage=20&timestamp=1773303360757&recvWindow=5000&signature=54e22d6cdba3095b04c520727e443f9a7ec3797eb74f7a7063c0f39d9bfa68ac',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 08:16:00 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '28',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 450c7de382a90d91aaef3998b5bbf7ec.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'M53g3CWzza5NSLUcohANbc-9Xk4ZiitpNh-W4OqIWmXJ40Kg08CK0g=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=ALPINEUSDT&leverage=20&timestamp=1773303360757&recvWindow=5000&signature=54e22d6cdba3095b04c520727e443f9a7ec3797eb74f7a7063c0f39d9bfa68ac',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1784:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:865:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1784:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:865:17)
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 08:39:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '74',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 aa663c59e815808acadb622a22b73fae.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'eKDytdFxW29jQMBWIHwPsyAs61lXsetGzF8N0YFOtT9E_C58lKdYdw=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=HIPPOUSDT&leverage=20&timestamp=1773304743677&recvWindow=5000&signature=f71e9c0391e8737f57f6b4900a2a58c90cf9d977a942213fd402d6e38b846809',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 08:39:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '74',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 aa663c59e815808acadb622a22b73fae.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'eKDytdFxW29jQMBWIHwPsyAs61lXsetGzF8N0YFOtT9E_C58lKdYdw=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=HIPPOUSDT&leverage=20&timestamp=1773304743677&recvWindow=5000&signature=f71e9c0391e8737f57f6b4900a2a58c90cf9d977a942213fd402d6e38b846809',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1784:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:865:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1784:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:865:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1784:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:921:17)
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 14:06:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '28',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 661bcc54793e924a343279145352d2b6.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'Eo-ho31_1v3zlTTDnM4ltOVVSLjXeuLxWmLzDTShbig4XKZnQZnHUQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=SHELLUSDT&leverage=20&timestamp=1773324363018&recvWindow=5000&signature=51638accd4d93f2cea69fd1074ae50af8f2545fbfe4866512c8acddaf8a32604',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 14:06:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '28',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 661bcc54793e924a343279145352d2b6.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'Eo-ho31_1v3zlTTDnM4ltOVVSLjXeuLxWmLzDTShbig4XKZnQZnHUQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=SHELLUSDT&leverage=20&timestamp=1773324363018&recvWindow=5000&signature=51638accd4d93f2cea69fd1074ae50af8f2545fbfe4866512c8acddaf8a32604',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 14:36:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '45',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 873bbee48f85ace664837b914c08ee30.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'M5dzysIMUEbXoXLAxfBogG89U-aHUlMsJOMCZtyyAIdHVtUKCDhr6g=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=SCRUSDT&leverage=20&timestamp=1773326161221&recvWindow=5000&signature=88ad87592063de32933ed2e1516618106c59b245eb2975a84ae3e555c2f70615',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 14:36:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '45',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 873bbee48f85ace664837b914c08ee30.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'M5dzysIMUEbXoXLAxfBogG89U-aHUlMsJOMCZtyyAIdHVtUKCDhr6g=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=SCRUSDT&leverage=20&timestamp=1773326161221&recvWindow=5000&signature=88ad87592063de32933ed2e1516618106c59b245eb2975a84ae3e555c2f70615',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 15:48:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 f5d291884be1fdb8d3b9a9bc600e9fe2.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'z_kKbfUOk1Lr1Fq0uy6bJKAH-2pcvHlgy4-XbdlACSoJRByV2rb1ig=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=PUMPBTCUSDT&leverage=20&timestamp=1773330481221&recvWindow=5000&signature=5a029b9973549fa4e334155fe3cfbf8106476e706e491573bf9aadd6585973fb',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 15:48:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 f5d291884be1fdb8d3b9a9bc600e9fe2.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'z_kKbfUOk1Lr1Fq0uy6bJKAH-2pcvHlgy4-XbdlACSoJRByV2rb1ig=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=PUMPBTCUSDT&leverage=20&timestamp=1773330481221&recvWindow=5000&signature=5a029b9973549fa4e334155fe3cfbf8106476e706e491573bf9aadd6585973fb',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 17:24:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '54',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 f5d291884be1fdb8d3b9a9bc600e9fe2.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'hmPT_pt8l3gYPFEfPF8ez-j-QyGOaYxVqO74pSjImKhr6dhIr59XkQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=PUMPBTCUSDT&leverage=20&timestamp=1773336241762&recvWindow=5000&signature=bf611ac2cc306428b6cae9da22bbb0940e9a35fc781eff7fb042b6d4ce166463',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 17:24:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '54',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 f5d291884be1fdb8d3b9a9bc600e9fe2.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'hmPT_pt8l3gYPFEfPF8ez-j-QyGOaYxVqO74pSjImKhr6dhIr59XkQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=PUMPBTCUSDT&leverage=20&timestamp=1773336241762&recvWindow=5000&signature=bf611ac2cc306428b6cae9da22bbb0940e9a35fc781eff7fb042b6d4ce166463',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 18:04:00 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 1dd6f08fb93545a8d6cac36f521d0678.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': '6rlVumOdbTGhy0GpI2dSqg42Xy7xtQKS8gFUZX1zXrZBY2XvZZHR1A=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=HEIUSDT&leverage=20&timestamp=1773338640767&recvWindow=5000&signature=a2bc24bfff408a0a7b86a6dcd45c31c3a8af98c387bd3685bbfce5c3085b9378',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 18:04:00 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 1dd6f08fb93545a8d6cac36f521d0678.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': '6rlVumOdbTGhy0GpI2dSqg42Xy7xtQKS8gFUZX1zXrZBY2XvZZHR1A=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=HEIUSDT&leverage=20&timestamp=1773338640767&recvWindow=5000&signature=a2bc24bfff408a0a7b86a6dcd45c31c3a8af98c387bd3685bbfce5c3085b9378',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 19:35:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '28',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 1dd6f08fb93545a8d6cac36f521d0678.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': '-CtZfmLs5Ne0L5HDG4jEAnbiE03cD8UuPM4fBuUDDNo6j2i6FwbCtA=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=HEIUSDT&leverage=20&timestamp=1773344103686&recvWindow=5000&signature=451565098617ca18da28e521ef127d602c2d78e66a7f552e3cccb1e261f3dfe4',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 19:35:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '28',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 1dd6f08fb93545a8d6cac36f521d0678.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': '-CtZfmLs5Ne0L5HDG4jEAnbiE03cD8UuPM4fBuUDDNo6j2i6FwbCtA=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=HEIUSDT&leverage=20&timestamp=1773344103686&recvWindow=5000&signature=451565098617ca18da28e521ef127d602c2d78e66a7f552e3cccb1e261f3dfe4',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 20:07:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '2ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 f1a20d11fc3f57b0809feb8054bbddbe.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': '_-XaxE3reIIPH_6Z4XnMz9mk5kVcUt3o5c6oYZgr_gWVShnT0LwvWg=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=TAUSDT&leverage=20&timestamp=1773346021209&recvWindow=5000&signature=1768f7962fd62df34e61651c2bab29402e8638a962b2f7da9e65ed34d1401343',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 20:07:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '2ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 f1a20d11fc3f57b0809feb8054bbddbe.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': '_-XaxE3reIIPH_6Z4XnMz9mk5kVcUt3o5c6oYZgr_gWVShnT0LwvWg=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=TAUSDT&leverage=20&timestamp=1773346021209&recvWindow=5000&signature=1768f7962fd62df34e61651c2bab29402e8638a962b2f7da9e65ed34d1401343',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 20:20:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '28',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 98c9368cb227360fac1917b8664fa356.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'IrHB8gwOkS2p_H5tYncRkmCOYvqveQ4Iz0gSw4ZtsUWZ5CCQBlONgg=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=PUMPBTCUSDT&leverage=20&timestamp=1773346801565&recvWindow=5000&signature=46f37722abf3076f71a99e3c95730c4aeb8024343e93b25a1c0aee0c02c76d16',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 20:20:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '28',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 98c9368cb227360fac1917b8664fa356.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'IrHB8gwOkS2p_H5tYncRkmCOYvqveQ4Iz0gSw4ZtsUWZ5CCQBlONgg=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=PUMPBTCUSDT&leverage=20&timestamp=1773346801565&recvWindow=5000&signature=46f37722abf3076f71a99e3c95730c4aeb8024343e93b25a1c0aee0c02c76d16',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 21:05:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '28',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 53435acfdf55e029e1a3d0175cb1d5c2.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': '3ZWyyNgWSPtI0bcvrRXje4r6jqdihLWUcPszeg__FJgGT0aRXhjkHw=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=HEIUSDT&leverage=20&timestamp=1773349503699&recvWindow=5000&signature=977d54fbb0398c20032cde6985ff49a3161d59e198be69d3560d1f46e6ab1872',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 21:05:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '28',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 53435acfdf55e029e1a3d0175cb1d5c2.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': '3ZWyyNgWSPtI0bcvrRXje4r6jqdihLWUcPszeg__FJgGT0aRXhjkHw=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=HEIUSDT&leverage=20&timestamp=1773349503699&recvWindow=5000&signature=977d54fbb0398c20032cde6985ff49a3161d59e198be69d3560d1f46e6ab1872',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 21:11:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '28',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 1bcfde0e9a5967a480dbfe7b3cf03b1e.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'i7weC3tvQCUXpqZVzSH2PLvPFNKHglMQsU26ynQCRp7dqYkeriRZoQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=TAUSDT&leverage=20&timestamp=1773349863682&recvWindow=5000&signature=0c3c6d1d57f6716b2d79be66d3cea50393c5352aed9f13d9f15b6462951e5115',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 21:11:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '28',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 1bcfde0e9a5967a480dbfe7b3cf03b1e.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'i7weC3tvQCUXpqZVzSH2PLvPFNKHglMQsU26ynQCRp7dqYkeriRZoQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=TAUSDT&leverage=20&timestamp=1773349863682&recvWindow=5000&signature=0c3c6d1d57f6716b2d79be66d3cea50393c5352aed9f13d9f15b6462951e5115',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    date: 'Thu, 12 Mar 2026 21:18:03 GMT',
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS'
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=TAUSDT&leverage=20&timestamp=1773350283273&recvWindow=5000&signature=793ef3615532189c365ed92f06c8ac420b2e663ad55a1ef7fc8d2bdedb02d429',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    date: 'Thu, 12 Mar 2026 21:18:03 GMT',
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS'
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=TAUSDT&leverage=20&timestamp=1773350283273&recvWindow=5000&signature=793ef3615532189c365ed92f06c8ac420b2e663ad55a1ef7fc8d2bdedb02d429',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 21:58:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '28',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 23c7c0fcb7588dda47ad1ecde462c110.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'RN7wc3hE2kulM44TORXfS2hh2lXnWgYug_b_lBLZY9SrghY_C45RxQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=TAUSDT&leverage=20&timestamp=1773352683738&recvWindow=5000&signature=3a5d2217faea367d7e31e88fe1192c582aef8080829a0761968b136a70aaee13',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 21:58:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '28',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 23c7c0fcb7588dda47ad1ecde462c110.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'RN7wc3hE2kulM44TORXfS2hh2lXnWgYug_b_lBLZY9SrghY_C45RxQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=TAUSDT&leverage=20&timestamp=1773352683738&recvWindow=5000&signature=3a5d2217faea367d7e31e88fe1192c582aef8080829a0761968b136a70aaee13',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 22:06:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '2ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 cacfb1ce067101dc87fc13e9ede49e48.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P7',
+    'x-amz-cf-id': 't1HMlfy100kUwq_OUMbNamvhDwR0bbD1vsPCIpKUZD2XzBEhviqZPw=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=DAMUSDT&leverage=20&timestamp=1773353161433&recvWindow=5000&signature=ebf5228f368fe16696b485f6221de6db898cb9e4852d8c06c2f8049044b16c3b',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 22:06:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '2ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 cacfb1ce067101dc87fc13e9ede49e48.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P7',
+    'x-amz-cf-id': 't1HMlfy100kUwq_OUMbNamvhDwR0bbD1vsPCIpKUZD2XzBEhviqZPw=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=DAMUSDT&leverage=20&timestamp=1773353161433&recvWindow=5000&signature=ebf5228f368fe16696b485f6221de6db898cb9e4852d8c06c2f8049044b16c3b',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 22:25:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 0261a45edf9fa8a52158083448fcb032.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P4',
+    'x-amz-cf-id': 'h4wzQCbSbZ0vzFdcdSUSVYqcRK2f0grhD9-cPyGfYrC05kYmLA376A=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=HEIUSDT&leverage=20&timestamp=1773354303696&recvWindow=5000&signature=870e213da4f71d8871f3b16c129600ba31a71b18a9137d121675d82c37c20fd2',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 22:25:03 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 0261a45edf9fa8a52158083448fcb032.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P4',
+    'x-amz-cf-id': 'h4wzQCbSbZ0vzFdcdSUSVYqcRK2f0grhD9-cPyGfYrC05kYmLA376A=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=HEIUSDT&leverage=20&timestamp=1773354303696&recvWindow=5000&signature=870e213da4f71d8871f3b16c129600ba31a71b18a9137d121675d82c37c20fd2',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 23:33:00 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 661bcc54793e924a343279145352d2b6.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'YoQ0d2HC-yrRWWwJsTU38L0nTuC2fdSu0spszletARRzoPozOhSyKQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=BULLAUSDT&leverage=20&timestamp=1773358380757&recvWindow=5000&signature=47a22f9ce5bd73189a3366dc6e66f3b1039575bde170159466e43c9ecd3dbb18',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Thu, 12 Mar 2026 23:33:00 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 661bcc54793e924a343279145352d2b6.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'YoQ0d2HC-yrRWWwJsTU38L0nTuC2fdSu0spszletARRzoPozOhSyKQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=BULLAUSDT&leverage=20&timestamp=1773358380757&recvWindow=5000&signature=47a22f9ce5bd73189a3366dc6e66f3b1039575bde170159466e43c9ecd3dbb18',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}

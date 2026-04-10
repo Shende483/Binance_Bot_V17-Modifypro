@@ -1,0 +1,24 @@
+Error: Notional <5: Entry=0.52697362, SL=0.5296, TP=-0.5530999999999698
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/GIT-ACTION-PIPELINE-TERMINAL-RS/backend/src/modules/tradingBotModule/trading-bot.service.ts:2236:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/GIT-ACTION-PIPELINE-TERMINAL-RS/backend/src/modules/tradingBotModule/trading-bot.service.ts:896:19)
+Error: Notional <5: Entry=0.2264, SL=0.2273, TP=-0.13360000000000477
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/GIT-ACTION-PIPELINE-TERMINAL-RS/backend/src/modules/tradingBotModule/trading-bot.service.ts:2236:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/GIT-ACTION-PIPELINE-TERMINAL-RS/backend/src/modules/tradingBotModule/trading-bot.service.ts:896:19)
+Error: Notional <5: Entry=0.11570866, SL=0.11641, TP=-0.17230999999999935
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/GIT-ACTION-PIPELINE-TERMINAL-RS/backend/src/modules/tradingBotModule/trading-bot.service.ts:2236:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/GIT-ACTION-PIPELINE-TERMINAL-RS/backend/src/modules/tradingBotModule/trading-bot.service.ts:896:19)
+Error: Notional <5: Entry=0.00371009, SL=0.003718, TP=0.00010900000000004266
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/GIT-ACTION-PIPELINE-TERMINAL-RS/backend/src/modules/tradingBotModule/trading-bot.service.ts:2236:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/GIT-ACTION-PIPELINE-TERMINAL-RS/backend/src/modules/tradingBotModule/trading-bot.service.ts:896:19)
+Error: ENTRY BLOCKED: Wait 13 min
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/GIT-ACTION-PIPELINE-TERMINAL-RS/backend/src/modules/tradingBotModule/trading-bot.service.ts:2212:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/GIT-ACTION-PIPELINE-TERMINAL-RS/backend/src/modules/tradingBotModule/trading-bot.service.ts:833:19)
+Error: ENTRY BLOCKED: Wait 7 min
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/GIT-ACTION-PIPELINE-TERMINAL-RS/backend/src/modules/tradingBotModule/trading-bot.service.ts:2212:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/GIT-ACTION-PIPELINE-TERMINAL-RS/backend/src/modules/tradingBotModule/trading-bot.service.ts:833:19)

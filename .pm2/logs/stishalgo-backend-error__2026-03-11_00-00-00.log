@@ -1,0 +1,1636 @@
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.000355, SL=0.0003565, TP=-0.0002449999999999929
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.09882321, SL=0.0993, TP=-0.10120000000000018
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.03545, SL=0.03564, TP=-0.04054999999999829
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.36429249, SL=0.3666, TP=-0.595799999999983
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.162, SL=0.1602, TP=0.8819999999999985
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:827:17)
+Error: Notional <5: Entry=2.9049392, SL=2.92, TP=-2.693999999999916
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.23631174, SL=0.2371, TP=-0.16390000000000035
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.01516, SL=0.01508, TP=0.047160000000000084
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.1471, SL=0.1459, TP=0.6271000000000027
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.08843867, SL=0.0878, TP=0.32840000000000136
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.16255222, SL=0.161, TP=0.7223999999999938
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.01524104, SL=0.01508, TP=0.07924000000000017
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Tue, 10 Mar 2026 00:38:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 f5d291884be1fdb8d3b9a9bc600e9fe2.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'Wih56HbZQwudawASG5eBpyzKS-4wZ6psWAA_pTZdMmD6nUN1nNQudQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=AKEUSDT&leverage=20&timestamp=1773103081218&recvWindow=5000&signature=f941ab06c787eecccc1aa7b37a6c75384452ede4d29b95757b8df69c5844deb2',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Tue, 10 Mar 2026 00:38:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 f5d291884be1fdb8d3b9a9bc600e9fe2.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'Wih56HbZQwudawASG5eBpyzKS-4wZ6psWAA_pTZdMmD6nUN1nNQudQ=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=AKEUSDT&leverage=20&timestamp=1773103081218&recvWindow=5000&signature=f941ab06c787eecccc1aa7b37a6c75384452ede4d29b95757b8df69c5844deb2',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+Error: Notional <5: Entry=0.3684, SL=0.3698, TP=-0.19160000000000493
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=1.88422975, SL=1.84, TP=19.884999999999973
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.03824042, SL=0.03847, TP=-0.053759999999997636
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.30236292, SL=0.30319, TP=-0.029639999999998945
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.02904833, SL=0.02912, TP=-0.002960000000000084
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=2.48441875, SL=2.494, TP=-1.1150000000001365
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.05767957, SL=0.05791, TP=-0.03432000000000041
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.07657, SL=0.07682, TP=-0.015409999999997634
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.03588, SL=0.03605, TP=-0.048160000000000744
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.02904114, SL=0.02911, TP=0.001039999999999753
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.1518327, SL=0.1521, TP=0.03580999999999501
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.07654, SL=0.07675, TP=-0.007460000000000744
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.00749406, SL=0.007524, TP=-0.0021000000000002336
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=2.92736707, SL=2.934, TP=0.9289999999998648
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.05777067, SL=0.05787, TP=0.01777000000000163
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.01297845, SL=0.01304, TP=-0.015029999999999552
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.0005361, SL=0.0005375, TP=-0.000023900000000013646
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.2576, SL=0.2582, TP=0.05769999999999981
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.01523, SL=0.01531, TP=-0.016770000000000083
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.4651, SL=0.4664, TP=-0.054899999999987126
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.05754, SL=0.05787, TP=-0.07445999999999878
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Tue, 10 Mar 2026 01:28:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '28',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 0d2ad4561bb4e136a34c46b3b2fbd06c.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'g1QynRm--ERKhC8CHygAOyUhMqK0MQ1S0qKyXFpElKjPJyto9Rtq0A=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=AKEUSDT&leverage=20&timestamp=1773106081076&recvWindow=5000&signature=b3fe2dccab8597018e1b8d4e3e4a1aa8793bc7b83d8d19ea44427059d4ec5b95',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Tue, 10 Mar 2026 01:28:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '28',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 0d2ad4561bb4e136a34c46b3b2fbd06c.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'g1QynRm--ERKhC8CHygAOyUhMqK0MQ1S0qKyXFpElKjPJyto9Rtq0A=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=AKEUSDT&leverage=20&timestamp=1773106081076&recvWindow=5000&signature=b3fe2dccab8597018e1b8d4e3e4a1aa8793bc7b83d8d19ea44427059d4ec5b95',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+Error: Notional <5: Entry=0.2571, SL=0.2577, TP=0.017100000000004223
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.1787, SL=0.1796, TP=-0.18130000000000476
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.112, SL=0.1127, TP=-0.16799999999999693
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Tue, 10 Mar 2026 01:50:02 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '66',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 925da6731bc24b2ab4b14e088855fb5a.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'LNGvVquA4kizwoW30P0HeO1U6Z52SFD6E0xaXvl2aJdKtoTU_wLd7w=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=AKEUSDT&leverage=20&timestamp=1773107402201&recvWindow=5000&signature=e5e0da43ac5438d7724a29c1d4bfde478355141fb8ad4428b76d66a711ad3d82',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Tue, 10 Mar 2026 01:50:02 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '66',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 925da6731bc24b2ab4b14e088855fb5a.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'LNGvVquA4kizwoW30P0HeO1U6Z52SFD6E0xaXvl2aJdKtoTU_wLd7w=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=AKEUSDT&leverage=20&timestamp=1773107402201&recvWindow=5000&signature=e5e0da43ac5438d7724a29c1d4bfde478355141fb8ad4428b76d66a711ad3d82',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+Error: Notional <5: Entry=0.2087, SL=0.2098, TP=-0.23129999999999595
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.099, SL=0.098, TP=0.49900000000000033
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.000355, SL=0.0003565, TP=-0.00028509999999999387
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.258, SL=0.2562, TP=0.9780000000000095
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.08920089, SL=0.0885, TP=0.36920000000000247
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.17874413, SL=0.1777, TP=0.5787000000000003
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=2.486725, SL=2.494, TP=-0.7140000000000026
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=1.49494588, SL=1.5084, TP=-3.8649999999999425
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.01523, SL=0.01529, TP=-0.008769999999999716
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.0984, SL=0.0993, TP=-0.30170000000000036
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Tue, 10 Mar 2026 02:11:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 0d2ad4561bb4e136a34c46b3b2fbd06c.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'QcsCLL00H5e-2XjCFFy5TVcXqWvTp5vO70P-h4Eh9cUf8pMAs4yGkg=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=AKEUSDT&leverage=20&timestamp=1773108660942&recvWindow=5000&signature=18b7020a4d7c06570f22dabd574d049982c517d21d5688d652c8fc0be7075e8c',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Tue, 10 Mar 2026 02:11:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 0d2ad4561bb4e136a34c46b3b2fbd06c.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'QcsCLL00H5e-2XjCFFy5TVcXqWvTp5vO70P-h4Eh9cUf8pMAs4yGkg=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=AKEUSDT&leverage=20&timestamp=1773108660942&recvWindow=5000&signature=18b7020a4d7c06570f22dabd574d049982c517d21d5688d652c8fc0be7075e8c',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+Error: Notional <5: Entry=0.235, SL=0.2357, TP=-0.04500000000000248
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.02529548, SL=0.0255, TP=-0.05068999999999968
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.00035309, SL=0.0003543, TP=-0.0003674999999999958
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.20988134, SL=0.2085, TP=0.7699000000000049
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:827:17)
+Error: Wait 20 min for same symbol
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2020:62)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.09087844, SL=0.09136, TP=-0.10111999999999773
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.10257222, SL=0.10103, TP=0.7225800000000039
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.0897, SL=0.089, TP=0.36970000000000247
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=2.9475, SL=2.957, TP=-1.0529999999999147
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.11275, SL=0.1118, TP=0.47269999999999923
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.10047063, SL=0.0997, TP=0.42050000000000365
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.0152, SL=0.01531, TP=-0.02880000000000029
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.04997916, SL=0.050118, TP=-0.01123500000000014
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.262, SL=0.2634, TP=-0.3381000000000005
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.02918624, SL=0.0293, TP=-0.022829999999999268
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.0998, SL=0.1007, TP=-0.2601999999999992
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.05804, SL=0.05833, TP=-0.05395000000000099
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=2.51, SL=2.522, TP=-2.2900000000000045
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.07740614, SL=0.07768, TP=-0.04261999999999788
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.20849309, SL=0.2095, TP=-0.19150000000000036
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.36874794, SL=0.3741, TP=-1.7912999999999841
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.02916862, SL=0.02925, TP=-0.00684000000000131
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.03865, SL=0.03893, TP=-0.073350000000001
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.1158, SL=0.1161, TP=-0.004199999999997886
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.30169, SL=0.30379, TP=-0.5383099999999963
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.20829434, SL=0.2104, TP=-0.5916000000000007
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.00754556, SL=0.00759, TP=-0.010054000000000254
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Tue, 10 Mar 2026 03:27:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 474a987f2cb8373a0505e9e4aad940fc.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 't4f4sqbvh_VnknebVRycvefa-tavSNoBjvAoy9FScUXZ3-KVLM-jqw=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=AKEUSDT&leverage=20&timestamp=1773113221212&recvWindow=5000&signature=10e4c8e0182b98096bf949e3b993a527050a6b2bdb6a4cd8dd331dd261139ab3',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Tue, 10 Mar 2026 03:27:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 474a987f2cb8373a0505e9e4aad940fc.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 't4f4sqbvh_VnknebVRycvefa-tavSNoBjvAoy9FScUXZ3-KVLM-jqw=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=AKEUSDT&leverage=20&timestamp=1773113221212&recvWindow=5000&signature=10e4c8e0182b98096bf949e3b993a527050a6b2bdb6a4cd8dd331dd261139ab3',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+Error: Notional <5: Entry=0.06849, SL=0.06885, TP=-0.07550999999999969
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=1.4473, SL=1.4581, TP=-2.872699999999968
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.01319, SL=0.01327, TP=-0.018810000000000084
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=2.94, SL=2.952, TP=-1.8600000000000043
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.19265018, SL=0.1915, TP=0.6325999999999959
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.0003607, SL=0.0003641, TP=-0.0009993000000000113
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.23681152, SL=0.238, TP=-0.24319999999999153
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Wait 20 min for same symbol
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2020:62)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.02912, SL=0.0292, TP=-0.002880000000000084
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Wait 20 min for same symbol
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2020:62)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Wait 20 min for same symbol
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2020:62)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.050155, SL=0.04981, TP=0.18815499999999924
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:827:17)
+Error: Wait 20 min for same symbol
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2020:62)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Wait 20 min for same symbol
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2020:62)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.000362, SL=0.0003584, TP=0.0016015000000000085
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.47745311, SL=0.4781, TP=0.11719999999999525
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.01332037, SL=0.01319, TP=0.0693299999999998
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.30157814, SL=0.30222, TP=0.08568000000000603
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.2677, SL=0.2695, TP=-0.45230000000000953
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.007609, SL=0.007654, TP=-0.01039099999999996
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=1.46621081, SL=1.4769, TP=-2.212300000000039
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.16091, SL=0.1634, TP=-0.82707
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.03829914, SL=0.0386, TP=-0.09373000000000156
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.03949225, SL=0.03964, TP=-0.024520000000000167
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.01525867, SL=0.01558, TP=-0.11675000000000017
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=2.504, SL=2.536, TP=-10.296000000000012
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.01502116, SL=0.01522, TP=-0.06497999999999951
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.05738095, SL=0.05791, TP=-0.1586300000000023
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=2.925, SL=2.945, TP=-5.075000000000007
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.15091078, SL=0.1516, TP=-0.12910000000000246
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.09894209, SL=0.1008, TP=-0.6610999999999996
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.029, SL=0.02927, TP=-0.07899999999999976
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.23463131, SL=0.2379, TP=-1.085399999999999
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.049837, SL=0.05016, TP=-0.07936300000000154
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.0005497, SL=0.0005589, TP=-0.0031303000000000025
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.11243275, SL=0.114, TP=-0.5276000000000016
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.36660431, SL=0.3708, TP=-1.3134000000000148
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.0970086, SL=0.0983, TP=-0.3828999999999971
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.049835, SL=0.050075, TP=-0.04536300000000084
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.1186, SL=0.1199, TP=-0.4014000000000038
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.15533354, SL=0.1544, TP=0.5152999999999937
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.15475902, SL=0.1555, TP=-0.20540000000000477
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.00036245, SL=0.000357, TP=0.0026426999999999905
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=1.77, SL=1.805, TP=-12.229999999999968
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.15151998, SL=0.1502, TP=0.6714999999999982
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.09970398, SL=0.1, TP=-0.02030000000000344
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.02520541, SL=0.02504, TP=0.08920000000000017
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.0969, SL=0.0975, TP=-0.14310000000000134
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.00035851, SL=0.0003599, TP=-0.00016140000000001265
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.20359518, SL=0.2023, TP=0.6834999999999916
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.03778794, SL=0.03834, TP=-0.1982500000000001
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.06365, SL=0.06393, TP=-0.04835000000000099
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=1.4865, SL=1.4927, TP=-1.1137999999999801
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Tue, 10 Mar 2026 19:20:00 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '10',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 f1a20d11fc3f57b0809feb8054bbddbe.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'n9u7OcrGW0fiCzMd51ND-Zzu4KRf-Rw3noXetjxCRoUqmf8CGG0lJA=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=AKEUSDT&leverage=20&timestamp=1773170400839&recvWindow=5000&signature=dfa2275f90c1e0a30d37adef865f654a976b7b033c8d0dc2ec3565d9e8bb3703',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Tue, 10 Mar 2026 19:20:00 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '10',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 f1a20d11fc3f57b0809feb8054bbddbe.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'n9u7OcrGW0fiCzMd51ND-Zzu4KRf-Rw3noXetjxCRoUqmf8CGG0lJA=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=AKEUSDT&leverage=20&timestamp=1773170400839&recvWindow=5000&signature=dfa2275f90c1e0a30d37adef865f654a976b7b033c8d0dc2ec3565d9e8bb3703',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+Error: Notional <5: Entry=0.1499, SL=0.1508, TP=-0.21009999999999365
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.01489779, SL=0.01503, TP=-0.037099999999999966
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.3639, SL=0.3651, TP=-0.1962999999999827
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.007485, SL=0.00752, TP=-0.006514999999999776
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.13315972, SL=0.13165, TP=0.7291400000000077
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.36516412, SL=0.3632, TP=1.0849999999999873
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Tue, 10 Mar 2026 19:28:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '38',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 51a23a5bfb22bea55e5338cd48cc200a.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'NCIABvAkSR9qQO--XDr1GGi4o7ll-puEFOK5WItSTkKqZzC6zUrp9g=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=AKEUSDT&leverage=20&timestamp=1773170881869&recvWindow=5000&signature=3be38b827da804f1a0a8b1856d4752776ce2ef1fd702feef7807c4e88d73d7a4',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Tue, 10 Mar 2026 19:28:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '38',
+    'x-response-time': '0ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 51a23a5bfb22bea55e5338cd48cc200a.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'NCIABvAkSR9qQO--XDr1GGi4o7ll-puEFOK5WItSTkKqZzC6zUrp9g=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=AKEUSDT&leverage=20&timestamp=1773170881869&recvWindow=5000&signature=3be38b827da804f1a0a8b1856d4752776ce2ef1fd702feef7807c4e88d73d7a4',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+Error: Notional <5: Entry=0.00035822, SL=0.0003618, TP=-0.0011219000000000142
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.16045, SL=0.16111, TP=-0.10354999999999756
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.09599175, SL=0.0964, TP=-0.10410000000000018
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.02875, SL=0.0288, TP=0.008750000000000816
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.007511, SL=0.007447, TP=0.03311100000000028
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.02886717, SL=0.02868, TP=0.09284000000000017
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=2.8646076, SL=2.837, TP=13.26299999999992
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Wait 20 min for same symbol
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2020:62)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Wait 20 min for same symbol
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2020:62)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Wait 20 min for same symbol
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2020:62)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.01484371, SL=0.01471, TP=0.06683999999999997
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.007523, SL=0.007557, TP=-0.00607700000000007
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.1862, SL=0.1885, TP=-0.7739000000000054
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.1862, SL=0.1885, TP=-0.7739000000000054
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.15394197, SL=0.153, TP=0.5139000000000048
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.3668, SL=0.3691, TP=-0.6334000000000009
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=2.8691535, SL=2.847, TP=11.669000000000096
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.0003637, SL=0.0003664, TP=-0.0007163000000000046
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.09177673, SL=0.092, TP=0.023829999999998602
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.09824617, SL=0.0976, TP=0.3381999999999958
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.03686, SL=0.03698, TP=-0.011140000000000823
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.2033915, SL=0.2038, TP=0.083499999999991
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.00755264, SL=0.007579, TP=-0.0028469999999999928
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.04978809, SL=0.049869, TP=0.0165860000000001
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.23575118, SL=0.2364, TP=-0.044300000000002476
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: No USDT available
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2024:29)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:827:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.1536, SL=0.1541, TP=-0.04640000000000019
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.03685447, SL=0.03701, TP=-0.027150000000000167
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.04977773, SL=0.049881, TP=0.0033649999999980015
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.0402764, SL=0.04076, TP=-0.15171999999999772
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.18661333, SL=0.1854, TP=0.6665999999999915
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.02475333, SL=0.0249, TP=-0.03925999999999878
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.2353, SL=0.2362, TP=-0.12469999999999365
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.06433967, SL=0.0649, TP=-0.13159000000000173
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Wait 20 min for same symbol
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2020:62)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.0366, SL=0.0368, TP=-0.043399999999999515
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.03993937, SL=0.0396, TP=0.1639099999999991
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:827:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=2.476, SL=2.486, TP=-1.5240000000000924
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.20225227, SL=0.2027, TP=0.002199999999999813
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.01517194, SL=0.01532, TP=-0.04483000000000033
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.01299, SL=0.01308, TP=-0.02300999999999992
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.01506, SL=0.01498, TP=0.04706000000000009
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=1.48665665, SL=1.4961, TP=-1.4312000000000338
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.09182, SL=0.09247, TP=-0.1681799999999991
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.00036223, SL=0.0003657, TP=-0.0009976999999999896
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.06425, SL=0.06454, TP=-0.051749999999999435
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.03623, SL=0.03635, TP=-0.019790000000000495
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.01515, SL=0.01522, TP=-0.012849999999999553
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.0975, SL=0.098, TP=-0.10250000000000017
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.15942, SL=0.15996, TP=-0.05657999999999397
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.02450471, SL=0.02459, TP=-0.015509999999999757
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.09504912, SL=0.0956, TP=-0.14500000000000132
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.1489, SL=0.1494, TP=-0.09120000000000689
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.06518, SL=0.06538, TP=-0.014819999999996739
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.09302329, SL=0.094, TP=-0.3070000000000004
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.05644, SL=0.05654, TP=0.01643999999999885
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.04007, SL=0.03972, TP=0.18809000000000092
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=1.4718, SL=1.4786, TP=-1.248199999999967
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.154, SL=0.1523, TP=0.8340000000000029
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.2618, SL=0.2626, TP=-0.05820000000000919
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.0003662, SL=0.0003623, TP=0.0019261999999999947
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.0982, SL=0.0971, TP=0.5381999999999959
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.09523421, SL=0.0943, TP=0.45520000000000477
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.09204, SL=0.0915, TP=0.30803999999999954
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.0003662, SL=0.0003632, TP=0.0015662000000000076
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.09775464, SL=0.0966, TP=0.537699999999996
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.1122497, SL=0.1114, TP=0.43219999999999803
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:827:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.02907084, SL=0.02914, TP=0.0010699999999997517
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.04009366, SL=0.04019, TP=0.004100000000000076
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.00845327, SL=0.008469, TP=0.0028549999999999513
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=2.842, SL=2.85, TP=-0.35800000000000276
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.05703, SL=0.05718, TP=-0.0029700000000017213
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.04029042, SL=0.03997, TP=0.17230000000000156
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.1846, SL=0.1865, TP=-0.5754000000000051
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=0.0003659, SL=0.0003637, TP=0.0012458999999999997
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1090:17)
+Error: Notional <5: Entry=0.30971995, SL=0.31044, TP=0.08587999999999801
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: ENTRY BLOCKED: Max 2 entries per symbol-side reached (current: 2)
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2009:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:827:17)
+Error: Notional <5: Entry=0.0402, SL=0.04035, TP=-0.015789999999997716
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+Error: Notional <5: Entry=2.482, SL=2.489, TP=-0.31799999999986905
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:2042:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/1hr-volume-trading-v1/Downloads/1hr-volume trading-v1/backend/src/modules/tradingBotModule/trading-bot.service.ts:1146:17)
+[68d3f007099f9de77119b413] Setup failed: {
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Tue, 10 Mar 2026 23:56:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 5e293851b64b146aeeed683fba2a5520.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'qkQb2284Fm-ikVQ4AGcEjptu3mrzahFrjdVk6zyYMVmPPAJULbhzvg=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=AKEUSDT&leverage=20&timestamp=1773186961174&recvWindow=5000&signature=57e0f3719dd4cc40fbe942ba42f3dd4180b90362cd4748767141d05ddf3ffead',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}
+{
+  code: -4028,
+  message: 'Leverage 20 is not valid',
+  body: { code: -4028, msg: 'Leverage 20 is not valid' },
+  headers: Object [AxiosHeaders] {
+    'content-type': 'application/json',
+    'content-length': '47',
+    connection: 'keep-alive',
+    date: 'Tue, 10 Mar 2026 23:56:01 GMT',
+    'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS',
+    server: 'Tengine',
+    'x-mbx-used-weight-1m': '18',
+    'x-response-time': '1ms',
+    'access-control-allow-origin': '*',
+    'x-cache': 'Error from cloudfront',
+    via: '1.1 5e293851b64b146aeeed683fba2a5520.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'BOM78-P3',
+    'x-amz-cf-id': 'qkQb2284Fm-ikVQ4AGcEjptu3mrzahFrjdVk6zyYMVmPPAJULbhzvg=='
+  },
+  requestUrl: 'https://fapi.binance.com/fapi/v1/leverage?symbol=AKEUSDT&leverage=20&timestamp=1773186961174&recvWindow=5000&signature=57e0f3719dd4cc40fbe942ba42f3dd4180b90362cd4748767141d05ddf3ffead',
+  requestBody: undefined,
+  requestOptions: {
+    recvWindow: 5000,
+    syncIntervalMs: 3600000,
+    strictParamValidation: false,
+    disableTimeSync: true,
+    api_key: undefined,
+    api_secret: undefined
+  }
+}

@@ -1,0 +1,2291 @@
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+Client connecting: NKA9lSoqGBLNcT6FAAB5 with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 12:09:54 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 12:09:55 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: NKA9lSoqGBLNcT6FAAB5[39m
+Client connecting: FasFUOUUA9PxvaHTAAB7 with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 12:09:55 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 12:10:07 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: FasFUOUUA9PxvaHTAAB7[39m
+[68d3f007099f9de77119b413] UNWANTED ENTRY → BTCDOMUSDT undefined x-15PC4ZJy_Xcdr_sl-2c98d919eeb54e → KILLING
+[68d3f007099f9de77119b413] BTCDOMUSDT SHORT | Position: -0.03 | Valid Bot PAIR Qty: 0.03
+[68d3f007099f9de77119b413] CANCEL USER GHOST SL/TP → x-15PC4ZJy_Xcdr_tp-2c98d919eeb54e (TAKE_PROFIT_MARKET) Qty:0.02
+[68d3f007099f9de77119b413] No excess qty on BTCDOMUSDT SHORT, only cleaned ghost orders
+[68d3f007099f9de77119b413] UNWANTED ENTRY → BTCDOMUSDT undefined x-15PC4ZJy_Xcdr_sl-84321fc2783143 → KILLING
+[68d3f007099f9de77119b413] BTCDOMUSDT SHORT | Position: -0.012 | Valid Bot PAIR Qty: 0.012
+[68d3f007099f9de77119b413] CANCEL USER GHOST SL/TP → x-15PC4ZJy_Xcdr_tp-84321fc2783143 (TAKE_PROFIT_MARKET) Qty:0.018
+[68d3f007099f9de77119b413] No excess qty on BTCDOMUSDT SHORT, only cleaned ghost orders
+[68d3f007099f9de77119b413] UNWANTED ENTRY → BTCDOMUSDT undefined x-15PC4ZJy_Xcdr_sl-598fcd72ee3240 → KILLING
+Client connecting: RPaYoYFuZnsRkXedAAB9 with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 12:40:25 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 12:40:25 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: RPaYoYFuZnsRkXedAAB9[39m
+Client connecting: FEDX4SoI2Y-jQcwnAAB_ with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 12:40:25 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 12:40:32 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: FEDX4SoI2Y-jQcwnAAB_[39m
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+Client connecting: -PsuVWnyLhjvn_VfAACB with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 1:15:19 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 1:15:20 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: -PsuVWnyLhjvn_VfAACB[39m
+Client connecting: hPCicBjcW6xHYuIxAACD with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 1:15:20 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 1:15:27 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: hPCicBjcW6xHYuIxAACD[39m
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+we recieve signal to trail: 68d3f007099f9de77119b413-SUNUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-2bbd319f321249-x-15PC4ZJy_Xcdr_tp-2bbd319f321249 0.01818667 {
+  side: 'BUY',
+  symbol: 'SUNUSDT',
+  positionSide: 'LONG',
+  currentSL: 0.0176528,
+  currentTP: 0.0286056,
+  qty: '2695',
+  trailCount: 1,
+  isScalping: true,
+  nextTriggerPrice: 0.0181824,
+  nextSL: 0.0178293,
+  nextTP: 0.0288917,
+  bigMoveTriggerPrice: 0.022,
+  bigMoveNextSL: 0.020768,
+  bigMoveNextTP: 0.0336536,
+  slClientId: 'x-15PC4ZJy_Xcdr_sl-2bbd319f321249',
+  tpClientId: 'x-15PC4ZJy_Xcdr_tp-2bbd319f321249'
+}
+68d3f007099f9de77119b413-SUNUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-2bbd319f321249-x-15PC4ZJy_Xcdr_tp-2bbd319f321249 SUNUSDT LONG 2695 BUY
+Client connecting: dvhxFrN-Hgedsnx4AACF with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 1:52:33 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 1:52:33 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: dvhxFrN-Hgedsnx4AACF[39m
+Client connecting: J4yJ2cD3kx046uv0AACH with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 1:52:34 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 1:53:20 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: J4yJ2cD3kx046uv0AACH[39m
+Client connecting: 1ga-tTeKs14lHEi_AACJ with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 1:53:27 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 1:53:28 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 1ga-tTeKs14lHEi_AACJ[39m
+Client connecting: JhPVHWyQ7muzW_qgAACL with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 1:53:28 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 1:53:32 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: JhPVHWyQ7muzW_qgAACL[39m
+Client connecting: _tSWYpYuUm6PnvI4AACN with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 1:56:23 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 1:56:24 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: _tSWYpYuUm6PnvI4AACN[39m
+Client connecting: B2u5ZqaXBTuhrnizAACP with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 1:56:25 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+we recieve signal to trail: 68d3f007099f9de77119b413-SUNUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-856dcc79b02b4c-x-15PC4ZJy_Xcdr_tp-856dcc79b02b4c 0.01820081 {
+  side: 'BUY',
+  symbol: 'SUNUSDT',
+  positionSide: 'LONG',
+  currentSL: 0.0176628,
+  currentTP: 0.0255625,
+  qty: '2991',
+  trailCount: 1,
+  isScalping: true,
+  nextTriggerPrice: 0.0181927,
+  nextSL: 0.0178394,
+  nextTP: 0.0258181,
+  bigMoveTriggerPrice: 0.0220125,
+  bigMoveNextSL: 0.0207798,
+  bigMoveNextTP: 0.0300735,
+  slClientId: 'x-15PC4ZJy_Xcdr_sl-856dcc79b02b4c',
+  tpClientId: 'x-15PC4ZJy_Xcdr_tp-856dcc79b02b4c'
+}
+68d3f007099f9de77119b413-SUNUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-856dcc79b02b4c-x-15PC4ZJy_Xcdr_tp-856dcc79b02b4c SUNUSDT LONG 2991 BUY
+Client connecting: JhwOnLSvhzjE0KdWAACR with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:00:44 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:00:45 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: JhwOnLSvhzjE0KdWAACR[39m
+Client connecting: ox5XIyciFVBWpEpjAACT with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:00:45 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[68d3f007099f9de77119b413] TRAILING STARTED → TONUSDT LONG | SL:1.221 TP:2 Map(4) {
+  '68d3f007099f9de77119b413-SUNUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-2c59a85dd9c84e-x-15PC4ZJy_Xcdr_tp-2c59a85dd9c84e' => {
+    side: 'BUY',
+    symbol: 'SUNUSDT',
+    positionSide: 'LONG',
+    currentSL: 0.017703,
+    currentTP: 0.0209146,
+    qty: '8768',
+    trailCount: 1,
+    isScalping: true,
+    nextTriggerPrice: 0.0182341,
+    nextSL: 0.01788,
+    nextTP: 0.0211237,
+    bigMoveTriggerPrice: 0.0220625,
+    bigMoveNextSL: 0.020827,
+    bigMoveNextTP: 0.0246054,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-2c59a85dd9c84e',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-2c59a85dd9c84e'
+  },
+  '68d3f007099f9de77119b413-SUNUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-4776a5c2dde847-x-15PC4ZJy_Xcdr_tp-4776a5c2dde847' => {
+    side: 'BUY',
+    symbol: 'SUNUSDT',
+    positionSide: 'LONG',
+    currentSL: 0.0178293,
+    currentTP: 0.0288917,
+    qty: '2695',
+    trailCount: 2,
+    isScalping: true,
+    nextTriggerPrice: 0.0183642,
+    nextSL: 0.0180076,
+    nextTP: 0.0291806,
+    bigMoveTriggerPrice: 0.022,
+    bigMoveNextSL: 0.020768,
+    bigMoveNextTP: 0.0336536,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-4776a5c2dde847',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-4776a5c2dde847'
+  },
+  '68d3f007099f9de77119b413-SUNUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-b2619c6d824e4b-x-15PC4ZJy_Xcdr_tp-b2619c6d824e4b' => {
+    side: 'BUY',
+    symbol: 'SUNUSDT',
+    positionSide: 'LONG',
+    currentSL: 0.0178394,
+    currentTP: 0.0258181,
+    qty: '2991',
+    trailCount: 2,
+    isScalping: true,
+    nextTriggerPrice: 0.0183746,
+    nextSL: 0.0180178,
+    nextTP: 0.0260763,
+    bigMoveTriggerPrice: 0.0220125,
+    bigMoveNextSL: 0.0207798,
+    bigMoveNextTP: 0.0300735,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-b2619c6d824e4b',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-b2619c6d824e4b'
+  },
+  '68d3f007099f9de77119b413-TONUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-18885e7a7caf4c-x-15PC4ZJy_Xcdr_tp-18885e7a7caf4c' => {
+    side: 'BUY',
+    symbol: 'TONUSDT',
+    positionSide: 'LONG',
+    currentSL: 1.221,
+    currentTP: 2,
+    qty: '80',
+    trailCount: 0,
+    isScalping: true,
+    nextTriggerPrice: 1.24542,
+    nextSL: 1.224663,
+    nextTP: 2.006,
+    bigMoveTriggerPrice: 1.52625,
+    bigMoveNextSL: 1.44078,
+    bigMoveNextTP: 2.36,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-18885e7a7caf4c',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-18885e7a7caf4c'
+  }
+}
+we recieve signal to trail: 68d3f007099f9de77119b413-SUNUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-2c59a85dd9c84e-x-15PC4ZJy_Xcdr_tp-2c59a85dd9c84e 0.018239 {
+  side: 'BUY',
+  symbol: 'SUNUSDT',
+  positionSide: 'LONG',
+  currentSL: 0.017703,
+  currentTP: 0.0209146,
+  qty: '8768',
+  trailCount: 1,
+  isScalping: true,
+  nextTriggerPrice: 0.0182341,
+  nextSL: 0.01788,
+  nextTP: 0.0211237,
+  bigMoveTriggerPrice: 0.0220625,
+  bigMoveNextSL: 0.020827,
+  bigMoveNextTP: 0.0246054,
+  slClientId: 'x-15PC4ZJy_Xcdr_sl-2c59a85dd9c84e',
+  tpClientId: 'x-15PC4ZJy_Xcdr_tp-2c59a85dd9c84e'
+}
+68d3f007099f9de77119b413-SUNUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-2c59a85dd9c84e-x-15PC4ZJy_Xcdr_tp-2c59a85dd9c84e SUNUSDT LONG 8768 BUY
+[32m[Nest] 156723  - [39m04/02/2026, 2:02:28 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: ox5XIyciFVBWpEpjAACT[39m
+[68d3f007099f9de77119b413] UNWANTED ENTRY → TONUSDT undefined x-15PC4ZJy_Xcdr_sl-18885e7a7caf4c → KILLING
+Client connecting: odp2sXJkHFk40iC-AACV with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:26:35 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:26:35 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: odp2sXJkHFk40iC-AACV[39m
+Client connecting: Lbzm8vdtu8juIGQbAACX with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:26:35 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:27:01 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: Lbzm8vdtu8juIGQbAACX[39m
+Client connecting: JNN8-b_rskpx04KsAACZ with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:32:05 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:32:05 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: JNN8-b_rskpx04KsAACZ[39m
+Client connecting: etHW2M-F161mEn7FAACb with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:32:05 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:32:10 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: etHW2M-F161mEn7FAACb[39m
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+Client connecting: sXAI-Y5wnMZ2NPgeAACd with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:38:09 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:38:09 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: sXAI-Y5wnMZ2NPgeAACd[39m
+Client connecting: 8_7vcot1pVPEMOvBAACf with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:38:09 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:38:26 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 8_7vcot1pVPEMOvBAACf[39m
+Client connecting: x_WWp0mu0ZZAVqmiAACh with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:41:38 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:41:38 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: x_WWp0mu0ZZAVqmiAACh[39m
+Client connecting: cwBcTMYOdaBpnbnkAACj with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:41:38 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:41:49 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: cwBcTMYOdaBpnbnkAACj[39m
+Client connecting: 23cVTu043Aao9AoXAACl with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:52:59 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:52:59 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 23cVTu043Aao9AoXAACl[39m
+Client connecting: WgXzZ1JdNMIIHEaoAACn with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:53:01 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:53:08 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: WgXzZ1JdNMIIHEaoAACn[39m
+Client connecting: Xk46nvmaIlrrX90WAACp with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:55:57 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:55:57 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: Xk46nvmaIlrrX90WAACp[39m
+Client connecting: j9haw39u4euET70JAACr with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:55:57 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 2:56:53 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: j9haw39u4euET70JAACr[39m
+[32m[Nest] 156723  - [39m04/02/2026, 2:58:52 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: B2u5ZqaXBTuhrnizAACP[39m
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+Client connecting: Q29bpmV-oceYlUCeAACt with accountId: default
+Client connecting: qTc-J9grsTwYLEnZAACv with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 3:42:03 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 3:42:04 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: qTc-J9grsTwYLEnZAACv[39m
+Client connecting: Zv7fVEZBUZy9TocrAACx with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 3:42:04 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[68d3f007099f9de77119b413] TRAILING STARTED → TONUSDT LONG | SL:1.209 TP:1.25 Map(4) {
+  '68d3f007099f9de77119b413-SUNUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-4776a5c2dde847-x-15PC4ZJy_Xcdr_tp-4776a5c2dde847' => {
+    side: 'BUY',
+    symbol: 'SUNUSDT',
+    positionSide: 'LONG',
+    currentSL: 0.0178293,
+    currentTP: 0.0288917,
+    qty: '2695',
+    trailCount: 2,
+    isScalping: true,
+    nextTriggerPrice: 0.0183642,
+    nextSL: 0.0180076,
+    nextTP: 0.0291806,
+    bigMoveTriggerPrice: 0.022,
+    bigMoveNextSL: 0.020768,
+    bigMoveNextTP: 0.0336536,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-4776a5c2dde847',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-4776a5c2dde847'
+  },
+  '68d3f007099f9de77119b413-SUNUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-b2619c6d824e4b-x-15PC4ZJy_Xcdr_tp-b2619c6d824e4b' => {
+    side: 'BUY',
+    symbol: 'SUNUSDT',
+    positionSide: 'LONG',
+    currentSL: 0.0178394,
+    currentTP: 0.0258181,
+    qty: '2991',
+    trailCount: 2,
+    isScalping: true,
+    nextTriggerPrice: 0.0183746,
+    nextSL: 0.0180178,
+    nextTP: 0.0260763,
+    bigMoveTriggerPrice: 0.0220125,
+    bigMoveNextSL: 0.0207798,
+    bigMoveNextTP: 0.0300735,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-b2619c6d824e4b',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-b2619c6d824e4b'
+  },
+  '68d3f007099f9de77119b413-SUNUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-48cc088525b744-x-15PC4ZJy_Xcdr_tp-48cc088525b744' => {
+    side: 'BUY',
+    symbol: 'SUNUSDT',
+    positionSide: 'LONG',
+    currentSL: 0.01788,
+    currentTP: 0.0211237,
+    qty: '8768',
+    trailCount: 2,
+    isScalping: true,
+    nextTriggerPrice: 0.0184164,
+    nextSL: 0.0180588,
+    nextTP: 0.0213349,
+    bigMoveTriggerPrice: 0.0220625,
+    bigMoveNextSL: 0.020827,
+    bigMoveNextTP: 0.0246054,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-48cc088525b744',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-48cc088525b744'
+  },
+  '68d3f007099f9de77119b413-TONUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-07e1bbde4c2542-x-15PC4ZJy_Xcdr_tp-07e1bbde4c2542' => {
+    side: 'BUY',
+    symbol: 'TONUSDT',
+    positionSide: 'LONG',
+    currentSL: 1.209,
+    currentTP: 1.25,
+    qty: '89',
+    trailCount: 0,
+    isScalping: false,
+    nextTriggerPrice: 1.24527,
+    nextSL: 1.213836,
+    nextTP: 1.255,
+    bigMoveTriggerPrice: 1.62006,
+    bigMoveNextSL: 1.51125,
+    bigMoveNextTP: 1.5625,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-07e1bbde4c2542',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-07e1bbde4c2542'
+  }
+}
+[68d3f007099f9de77119b413] UNWANTED ENTRY → TONUSDT undefined x-15PC4ZJy_Xcdr_sl-07e1bbde4c2542 → KILLING
+Client connecting: 7YuC_l0lbvHe7Hd7AACz with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 3:44:33 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 3:44:33 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 7YuC_l0lbvHe7Hd7AACz[39m
+Client connecting: f8vtt5H2zMTov46gAAC1 with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 3:44:33 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+Client connecting: o5Bd1TiQazkBvhF2AAC3 with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 3:46:14 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: f8vtt5H2zMTov46gAAC1[39m
+[32m[Nest] 156723  - [39m04/02/2026, 3:46:15 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: Zv7fVEZBUZy9TocrAACx[39m
+Client connecting: 2YT60UDbAgiWhq2hAAC5 with accountId: default
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+[68d3f007099f9de77119b413] UNWANTED ENTRY → SUNUSDT undefined x-15PC4ZJy_Xcdr_sl-48cc088525b744 → KILLING
+AUTO MARGIN ADDED → SUNUSDT LONG | +1.44)
+[68d3f007099f9de77119b413] SUNUSDT LONG | Position: 5686 | Valid Bot PAIR Qty: 5686
+[68d3f007099f9de77119b413] CANCEL USER GHOST SL/TP → x-15PC4ZJy_Xcdr_tp-48cc088525b744 (TAKE_PROFIT_MARKET) Qty:8768.0
+[68d3f007099f9de77119b413] No excess qty on SUNUSDT LONG, only cleaned ghost orders
+[68d3f007099f9de77119b413] UNWANTED ENTRY → SUNUSDT undefined x-15PC4ZJy_Xcdr_sl-b2619c6d824e4b → KILLING
+[68d3f007099f9de77119b413] UNWANTED ENTRY → SUNUSDT undefined x-15PC4ZJy_Xcdr_sl-4776a5c2dde847 → KILLING
+Client connecting: iZQXSk-zMDOTf-I4AAC7 with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 4:47:54 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 4:47:54 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: iZQXSk-zMDOTf-I4AAC7[39m
+Client connecting: Fkjxc1BkG7ZeVkRPAAC9 with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 4:47:55 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 4:48:00 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: Fkjxc1BkG7ZeVkRPAAC9[39m
+Client connecting: VsSIq8XPwyZLXunWAAC_ with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 4:48:01 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 4:48:02 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: VsSIq8XPwyZLXunWAAC_[39m
+Client connecting: F7U2C8PyE9m9v6zZAADB with accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 4:48:02 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 156723  - [39m04/02/2026, 4:49:37 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: F7U2C8PyE9m9v6zZAADB[39m
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +23ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTradingBotModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mDiscoveryModule dependencies initialized[39m[38;5;3m +0ms[39m
+✅ Successfully connected to MongoDB Atlas
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mJwtModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mJwtModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mScheduleModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mWebsocketModule dependencies initialized[39m[38;5;3m +13ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseCoreModule dependencies initialized[39m[38;5;3m +168ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAuthModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "refresh-data" message[39m[38;5;3m +11ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "order-preflight" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "place-full-order" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "close-position" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "set-block-status" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "add-margin" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "activate-burst" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "deactivate-burst" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "get-symbols" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "modify-order" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAuthController {/auth}:[39m[38;5;3m +2ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/signup, POST} route[39m[38;5;3m +2ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/login, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:47 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/verify-token, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 160755  - [39m04/02/2026, 5:31:48 AM [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +191ms[39m
+✅ Server running on 3020 
+[ 'Websocket connected', { category: 'binance-ws', wsKey: 'usdm' } ]
+[68d3f007099f9de77119b413] WS opened
+[
+  'Websocket connected',
+  {
+    category: 'binance-ws',
+    wsKey: 'usdm_userData__ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI_usdm'
+  }
+]
+[68d3f007099f9de77119b413] WS opened
+[
+  'Websocket connected',
+  {
+    category: 'binance-ws',
+    wsKey: 'usdm_userData__rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51_usdm'
+  }
+]
+[sub1-68d3f007099f9de77119b413] WS opened
+[68d3f007099f9de77119b413] Bot state fully restored — trailing active on all positions
+[sub1-68d3f007099f9de77119b413] Bot state fully restored — trailing active on all positions
+Client connecting: fp6_W0fV4Uc8R4WrAAAB with accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 5:34:16 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 5:34:16 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: fp6_W0fV4Uc8R4WrAAAB[39m
+Client connecting: r5z8XuSvBTKswoXYAAAD with accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 5:34:16 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[68d3f007099f9de77119b413] TRAILING STARTED → BTCDOMUSDT SHORT | SL:5116.5 TP:4085 Map(1) {
+  '68d3f007099f9de77119b413-BTCDOMUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-0bb1bdfb664641-x-15PC4ZJy_Xcdr_tp-0bb1bdfb664641' => {
+    side: 'SELL',
+    symbol: 'BTCDOMUSDT',
+    positionSide: 'SHORT',
+    currentSL: 5116.5,
+    currentTP: 4085,
+    qty: '0.027',
+    trailCount: 0,
+    isScalping: true,
+    nextTriggerPrice: 5016.2,
+    nextSL: 5101.2,
+    nextTP: 4072.8,
+    bigMoveTriggerPrice: 4093.2,
+    bigMoveNextSL: 4336,
+    bigMoveNextTP: 3461.9,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-0bb1bdfb664641',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-0bb1bdfb664641'
+  }
+}
+[32m[Nest] 160755  - [39m04/02/2026, 5:37:32 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: r5z8XuSvBTKswoXYAAAD[39m
+Client connecting: 2H_Y5M040SobMPK3AAAF with accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 5:39:47 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 5:39:47 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 2H_Y5M040SobMPK3AAAF[39m
+Client connecting: 94_jap6-zV5JwFhZAAAH with accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 5:39:48 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 5:39:54 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 94_jap6-zV5JwFhZAAAH[39m
+Client connecting: Jk1cBzMSb3A0qOZwAAAJ with accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 5:39:55 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 5:39:56 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: Jk1cBzMSb3A0qOZwAAAJ[39m
+Client connecting: TnVaYm6gSYBiVyNuAAAL with accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 5:39:56 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 5:41:10 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: TnVaYm6gSYBiVyNuAAAL[39m
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+Client connecting: DsY15_ootHnvOTC8AAAN with accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 7:02:08 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 7:02:08 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: DsY15_ootHnvOTC8AAAN[39m
+Client connecting: htMMyK6KVGBVzPhaAAAP with accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 7:02:08 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[68d3f007099f9de77119b413] TRAILING STARTED → TRUMPUSDT LONG | SL:2.87 TP:3 Map(2) {
+  '68d3f007099f9de77119b413-BTCDOMUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-0bb1bdfb664641-x-15PC4ZJy_Xcdr_tp-0bb1bdfb664641' => {
+    side: 'SELL',
+    symbol: 'BTCDOMUSDT',
+    positionSide: 'SHORT',
+    currentSL: 5116.5,
+    currentTP: 4085,
+    qty: '0.027',
+    trailCount: 0,
+    isScalping: true,
+    nextTriggerPrice: 5016.2,
+    nextSL: 5101.2,
+    nextTP: 4072.8,
+    bigMoveTriggerPrice: 4093.2,
+    bigMoveNextSL: 4336,
+    bigMoveNextTP: 3461.9,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-0bb1bdfb664641',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-0bb1bdfb664641'
+  },
+  '68d3f007099f9de77119b413-TRUMPUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-4e7e35b76f6349-x-15PC4ZJy_Xcdr_tp-4e7e35b76f6349' => {
+    side: 'BUY',
+    symbol: 'TRUMPUSDT',
+    positionSide: 'LONG',
+    currentSL: 2.87,
+    currentTP: 3,
+    qty: '39',
+    trailCount: 0,
+    isScalping: false,
+    nextTriggerPrice: 2.9561,
+    nextSL: 2.88148,
+    nextTP: 3.012,
+    bigMoveTriggerPrice: 3.8458,
+    bigMoveNextSL: 3.5875,
+    bigMoveNextTP: 3.75,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-4e7e35b76f6349',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-4e7e35b76f6349'
+  }
+}
+[32m[Nest] 160755  - [39m04/02/2026, 7:09:35 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: htMMyK6KVGBVzPhaAAAP[39m
+[68d3f007099f9de77119b413] UNWANTED ENTRY → TRUMPUSDT undefined x-15PC4ZJy_Xcdr_sl-4e7e35b76f6349 → KILLING
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+Client connecting: D4StH40H__5xOhfjAAAR with accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 7:28:53 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 7:28:54 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: D4StH40H__5xOhfjAAAR[39m
+Client connecting: bm3qQeW4lpYd01ZFAAAT with accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 7:28:54 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 7:29:04 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: bm3qQeW4lpYd01ZFAAAT[39m
+Client connecting: WVr600he4XaDentYAAAV with accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 7:43:40 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 7:43:40 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: WVr600he4XaDentYAAAV[39m
+Client connecting: yD_gZh2cuGbeUUQEAAAX with accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 7:43:40 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 7:43:46 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: yD_gZh2cuGbeUUQEAAAX[39m
+Client connecting: kO_FkNJoMJONa4MEAAAZ with accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 7:58:37 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 7:58:38 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: kO_FkNJoMJONa4MEAAAZ[39m
+Client connecting: _uK0wljaWlb7iRWgAAAb with accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 7:58:38 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+Client connecting: kcFmnMYs-VvZjNBsAAAd with accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 7:59:33 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 7:59:33 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: kcFmnMYs-VvZjNBsAAAd[39m
+Client connecting: Pk70yYEOvCXq9ka1AAAf with accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 7:59:33 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 8:01:34 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: Pk70yYEOvCXq9ka1AAAf[39m
+[68d3f007099f9de77119b413] UNWANTED ENTRY → BTCDOMUSDT undefined x-15PC4ZJy_Xcdr_sl-0bb1bdfb664641 → KILLING
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+Client connecting: hxUHcDkHGH64SFlpAAAh with accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 8:12:09 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: _uK0wljaWlb7iRWgAAAb[39m
+Client connecting: h_jVsAbXNU7W3T1EAAAj with accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 8:12:11 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 8:12:11 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: h_jVsAbXNU7W3T1EAAAj[39m
+Client connecting: KDvJAeKP86Z-PM36AAAl with accountId: default
+[32m[Nest] 160755  - [39m04/02/2026, 8:12:11 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +29ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTradingBotModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mDiscoveryModule dependencies initialized[39m[38;5;3m +0ms[39m
+✅ Successfully connected to MongoDB Atlas
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mJwtModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mJwtModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mScheduleModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mWebsocketModule dependencies initialized[39m[38;5;3m +12ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseCoreModule dependencies initialized[39m[38;5;3m +173ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAuthModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "refresh-data" message[39m[38;5;3m +11ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "order-preflight" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "place-full-order" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "close-position" message[39m[38;5;3m +1ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "set-block-status" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "add-margin" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "activate-burst" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "deactivate-burst" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "get-symbols" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "modify-order" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAuthController {/auth}:[39m[38;5;3m +2ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/signup, POST} route[39m[38;5;3m +3ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/login, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/verify-token, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:45 AM [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +190ms[39m
+✅ Server running on 3020 
+[ 'Websocket connected', { category: 'binance-ws', wsKey: 'usdm' } ]
+[68d3f007099f9de77119b413] WS opened
+[
+  'Websocket connected',
+  {
+    category: 'binance-ws',
+    wsKey: 'usdm_userData__ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI_usdm'
+  }
+]
+[68d3f007099f9de77119b413] WS opened
+[
+  'Websocket connected',
+  {
+    category: 'binance-ws',
+    wsKey: 'usdm_userData__rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51_usdm'
+  }
+]
+[sub1-68d3f007099f9de77119b413] WS opened
+Client connecting: RgVk4Iw3tQWBS34EAAAB with accountId: default
+[68d3f007099f9de77119b413] Bot state fully restored — trailing active on all positions
+[sub1-68d3f007099f9de77119b413] Bot state fully restored — trailing active on all positions
+Client connecting: 65-NMxGl2a9tcQSDAAAD with accountId: default
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:58 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:58 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 65-NMxGl2a9tcQSDAAAD[39m
+Client connecting: q1LmDOhDben-cE2NAAAF with accountId: default
+[32m[Nest] 162224  - [39m04/02/2026, 8:12:58 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+Client connecting: n9ODBNxlqRXohuC8AAAH with accountId: default
+[32m[Nest] 162224  - [39m04/02/2026, 8:17:18 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162224  - [39m04/02/2026, 8:17:18 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: n9ODBNxlqRXohuC8AAAH[39m
+Client connecting: 7e4mlYzNi0FO6H8CAAAJ with accountId: default
+[32m[Nest] 162224  - [39m04/02/2026, 8:17:19 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[68d3f007099f9de77119b413] TRAILING STARTED → IRYSUSDT LONG | SL:0.01825 TP:0.02 Map(1) {
+  '68d3f007099f9de77119b413-IRYSUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-7e26fdec874645-x-15PC4ZJy_Xcdr_tp-7e26fdec874645' => {
+    side: 'BUY',
+    symbol: 'IRYSUSDT',
+    positionSide: 'LONG',
+    currentSL: 0.01825,
+    currentTP: 0.02,
+    qty: '3327',
+    trailCount: 0,
+    isScalping: true,
+    nextTriggerPrice: 0.018615,
+    nextSL: 0.0183047,
+    nextTP: 0.02006,
+    bigMoveTriggerPrice: 0.0228125,
+    bigMoveNextSL: 0.021535,
+    bigMoveNextTP: 0.0236,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-7e26fdec874645',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-7e26fdec874645'
+  }
+}
+[68d3f007099f9de77119b413] TRAILING STARTED → IRYSUSDT LONG | SL:0.01825 TP:0.0195 Map(2) {
+  '68d3f007099f9de77119b413-IRYSUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-7e26fdec874645-x-15PC4ZJy_Xcdr_tp-7e26fdec874645' => {
+    side: 'BUY',
+    symbol: 'IRYSUSDT',
+    positionSide: 'LONG',
+    currentSL: 0.01825,
+    currentTP: 0.02,
+    qty: '3327',
+    trailCount: 0,
+    isScalping: true,
+    nextTriggerPrice: 0.018615,
+    nextSL: 0.0183047,
+    nextTP: 0.02006,
+    bigMoveTriggerPrice: 0.0228125,
+    bigMoveNextSL: 0.021535,
+    bigMoveNextTP: 0.0236,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-7e26fdec874645',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-7e26fdec874645'
+  },
+  '68d3f007099f9de77119b413-IRYSUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-93f9bcac72a64e-x-15PC4ZJy_Xcdr_tp-93f9bcac72a64e' => {
+    side: 'BUY',
+    symbol: 'IRYSUSDT',
+    positionSide: 'LONG',
+    currentSL: 0.01825,
+    currentTP: 0.0195,
+    qty: '2909',
+    trailCount: 0,
+    isScalping: false,
+    nextTriggerPrice: 0.0187975,
+    nextSL: 0.018323,
+    nextTP: 0.019578,
+    bigMoveTriggerPrice: 0.024455,
+    bigMoveNextSL: 0.0228125,
+    bigMoveNextTP: 0.024375,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-93f9bcac72a64e',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-93f9bcac72a64e'
+  }
+}
+[68d3f007099f9de77119b413] TRAILING STARTED → IRYSUSDT LONG | SL:0.01824 TP:0.019585 Map(3) {
+  '68d3f007099f9de77119b413-IRYSUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-7e26fdec874645-x-15PC4ZJy_Xcdr_tp-7e26fdec874645' => {
+    side: 'BUY',
+    symbol: 'IRYSUSDT',
+    positionSide: 'LONG',
+    currentSL: 0.01825,
+    currentTP: 0.02,
+    qty: '3327',
+    trailCount: 0,
+    isScalping: true,
+    nextTriggerPrice: 0.018615,
+    nextSL: 0.0183047,
+    nextTP: 0.02006,
+    bigMoveTriggerPrice: 0.0228125,
+    bigMoveNextSL: 0.021535,
+    bigMoveNextTP: 0.0236,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-7e26fdec874645',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-7e26fdec874645'
+  },
+  '68d3f007099f9de77119b413-IRYSUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-93f9bcac72a64e-x-15PC4ZJy_Xcdr_tp-93f9bcac72a64e' => {
+    side: 'BUY',
+    symbol: 'IRYSUSDT',
+    positionSide: 'LONG',
+    currentSL: 0.01825,
+    currentTP: 0.0195,
+    qty: '2909',
+    trailCount: 0,
+    isScalping: false,
+    nextTriggerPrice: 0.0187975,
+    nextSL: 0.018323,
+    nextTP: 0.019578,
+    bigMoveTriggerPrice: 0.024455,
+    bigMoveNextSL: 0.0228125,
+    bigMoveNextTP: 0.024375,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-93f9bcac72a64e',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-93f9bcac72a64e'
+  },
+  '68d3f007099f9de77119b413-IRYSUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-92efa5baf1e148-x-15PC4ZJy_Xcdr_tp-92efa5baf1e148' => {
+    side: 'BUY',
+    symbol: 'IRYSUSDT',
+    positionSide: 'LONG',
+    currentSL: 0.01824,
+    currentTP: 0.019585,
+    qty: '2638',
+    trailCount: 0,
+    isScalping: false,
+    nextTriggerPrice: 0.0187872,
+    nextSL: 0.018313,
+    nextTP: 0.0196633,
+    bigMoveTriggerPrice: 0.0244416,
+    bigMoveNextSL: 0.0228,
+    bigMoveNextTP: 0.0244813,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-92efa5baf1e148',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-92efa5baf1e148'
+  }
+}
+[32m[Nest] 162224  - [39m04/02/2026, 8:22:42 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 7e4mlYzNi0FO6H8CAAAJ[39m
+[68d3f007099f9de77119b413] UNWANTED ENTRY → IRYSUSDT undefined x-15PC4ZJy_Xcdr_sl-7e26fdec874645 → KILLING
+[68d3f007099f9de77119b413] UNWANTED ENTRY → IRYSUSDT undefined x-15PC4ZJy_Xcdr_sl-93f9bcac72a64e → KILLING
+AUTO MARGIN ADDED → IRYSUSDT LONG | +0.34)
+AUTO MARGIN ADDED → IRYSUSDT LONG | +0.32)
+[68d3f007099f9de77119b413] IRYSUSDT LONG | Position: 2638 | Valid Bot PAIR Qty: 2638
+[68d3f007099f9de77119b413] CANCEL USER GHOST SL/TP → x-15PC4ZJy_Xcdr_tp-93f9bcac72a64e (TAKE_PROFIT_MARKET) Qty:2909.0
+[68d3f007099f9de77119b413] IRYSUSDT LONG | Position: 2638 | Valid Bot PAIR Qty: 2638
+[68d3f007099f9de77119b413] CANCEL USER GHOST SL/TP → x-15PC4ZJy_Xcdr_tp-93f9bcac72a64e (TAKE_PROFIT_MARKET) Qty:2909.0
+[68d3f007099f9de77119b413] CANCEL USER GHOST SL/TP → x-15PC4ZJy_Xcdr_tp-7e26fdec874645 (TAKE_PROFIT_MARKET) Qty:3327.0
+[68d3f007099f9de77119b413] CANCEL USER GHOST SL/TP → x-15PC4ZJy_Xcdr_tp-7e26fdec874645 (TAKE_PROFIT_MARKET) Qty:3327.0
+[68d3f007099f9de77119b413] No excess qty on IRYSUSDT LONG, only cleaned ghost orders
+[68d3f007099f9de77119b413] No excess qty on IRYSUSDT LONG, only cleaned ghost orders
+[68d3f007099f9de77119b413] UNWANTED ENTRY → IRYSUSDT undefined x-15PC4ZJy_Xcdr_sl-92efa5baf1e148 → KILLING
+[32m[Nest] 162224  - [39m04/02/2026, 8:38:14 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: q1LmDOhDben-cE2NAAAF[39m
+Client connecting: 1pnk8RnEGJMQnNjSAAAL with accountId: default
+[32m[Nest] 162224  - [39m04/02/2026, 8:38:15 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162224  - [39m04/02/2026, 8:38:16 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 1pnk8RnEGJMQnNjSAAAL[39m
+Client connecting: W1Om8GZTpbaTflAuAAAN with accountId: default
+[32m[Nest] 162224  - [39m04/02/2026, 8:38:16 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +29ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTradingBotModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mDiscoveryModule dependencies initialized[39m[38;5;3m +1ms[39m
+✅ Successfully connected to MongoDB Atlas
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mJwtModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mJwtModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mScheduleModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mWebsocketModule dependencies initialized[39m[38;5;3m +12ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseCoreModule dependencies initialized[39m[38;5;3m +168ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAuthModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "refresh-data" message[39m[38;5;3m +11ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "order-preflight" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "place-full-order" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "close-position" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "set-block-status" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "add-margin" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "activate-burst" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "deactivate-burst" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "get-symbols" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "modify-order" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAuthController {/auth}:[39m[38;5;3m +2ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/signup, POST} route[39m[38;5;3m +2ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/login, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:40 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/verify-token, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 162587  - [39m04/02/2026, 8:41:41 AM [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +191ms[39m
+✅ Server running on 3020 
+[ 'Websocket connected', { category: 'binance-ws', wsKey: 'usdm' } ]
+[68d3f007099f9de77119b413] WS opened
+[
+  'Websocket connected',
+  {
+    category: 'binance-ws',
+    wsKey: 'usdm_userData__ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI_usdm'
+  }
+]
+[68d3f007099f9de77119b413] WS opened
+[
+  'Websocket connected',
+  {
+    category: 'binance-ws',
+    wsKey: 'usdm_userData__rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51_usdm'
+  }
+]
+[sub1-68d3f007099f9de77119b413] WS opened
+Client connecting: 9NUFtM5kwszU-f8IAAAB with accountId: default
+[68d3f007099f9de77119b413] Bot state fully restored — trailing active on all positions
+[sub1-68d3f007099f9de77119b413] Bot state fully restored — trailing active on all positions
+Client connecting: 6pFiIEV02TODFiP4AAAD with accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 8:42:14 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 8:42:15 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 6pFiIEV02TODFiP4AAAD[39m
+Client connecting: ItYJG3j1AKQK6PRbAAAF with accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 8:42:15 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[68d3f007099f9de77119b413] TRAILING STARTED → BTCDOMUSDT SHORT | SL:5118.5 TP:5017 Map(1) {
+  '68d3f007099f9de77119b413-BTCDOMUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-567610fd9ed042-x-15PC4ZJy_Xcdr_tp-567610fd9ed042' => {
+    side: 'SELL',
+    symbol: 'BTCDOMUSDT',
+    positionSide: 'SHORT',
+    currentSL: 5118.5,
+    currentTP: 5017,
+    qty: '0.025',
+    trailCount: 0,
+    isScalping: false,
+    nextTriggerPrice: 4969.4,
+    nextSL: 5098.1,
+    nextTP: 4997,
+    bigMoveTriggerPrice: 3819.8,
+    bigMoveNextSL: 4094.8,
+    bigMoveNextTP: 4013.6,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-567610fd9ed042',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-567610fd9ed042'
+  }
+}
+[68d3f007099f9de77119b413] TRAILING STARTED → BTCDOMUSDT SHORT | SL:5118.5 TP:4854 Map(2) {
+  '68d3f007099f9de77119b413-BTCDOMUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-567610fd9ed042-x-15PC4ZJy_Xcdr_tp-567610fd9ed042' => {
+    side: 'SELL',
+    symbol: 'BTCDOMUSDT',
+    positionSide: 'SHORT',
+    currentSL: 5118.5,
+    currentTP: 5017,
+    qty: '0.025',
+    trailCount: 0,
+    isScalping: false,
+    nextTriggerPrice: 4969.4,
+    nextSL: 5098.1,
+    nextTP: 4997,
+    bigMoveTriggerPrice: 3819.8,
+    bigMoveNextSL: 4094.8,
+    bigMoveNextTP: 4013.6,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-567610fd9ed042',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-567610fd9ed042'
+  },
+  '68d3f007099f9de77119b413-BTCDOMUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-86f06cf195c84c-x-15PC4ZJy_Xcdr_tp-86f06cf195c84c' => {
+    side: 'SELL',
+    symbol: 'BTCDOMUSDT',
+    positionSide: 'SHORT',
+    currentSL: 5118.5,
+    currentTP: 4854,
+    qty: '0.02',
+    trailCount: 0,
+    isScalping: false,
+    nextTriggerPrice: 4969.4,
+    nextSL: 5098.1,
+    nextTP: 4834.7,
+    bigMoveTriggerPrice: 3819.8,
+    bigMoveNextSL: 4094.8,
+    bigMoveNextTP: 3883.2,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-86f06cf195c84c',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-86f06cf195c84c'
+  }
+}
+[68d3f007099f9de77119b413] TRAILING STARTED → BTCDOMUSDT SHORT | SL:5118.8 TP:4852 Map(3) {
+  '68d3f007099f9de77119b413-BTCDOMUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-567610fd9ed042-x-15PC4ZJy_Xcdr_tp-567610fd9ed042' => {
+    side: 'SELL',
+    symbol: 'BTCDOMUSDT',
+    positionSide: 'SHORT',
+    currentSL: 5118.5,
+    currentTP: 5017,
+    qty: '0.025',
+    trailCount: 0,
+    isScalping: false,
+    nextTriggerPrice: 4969.4,
+    nextSL: 5098.1,
+    nextTP: 4997,
+    bigMoveTriggerPrice: 3819.8,
+    bigMoveNextSL: 4094.8,
+    bigMoveNextTP: 4013.6,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-567610fd9ed042',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-567610fd9ed042'
+  },
+  '68d3f007099f9de77119b413-BTCDOMUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-86f06cf195c84c-x-15PC4ZJy_Xcdr_tp-86f06cf195c84c' => {
+    side: 'SELL',
+    symbol: 'BTCDOMUSDT',
+    positionSide: 'SHORT',
+    currentSL: 5118.5,
+    currentTP: 4854,
+    qty: '0.02',
+    trailCount: 0,
+    isScalping: false,
+    nextTriggerPrice: 4969.4,
+    nextSL: 5098.1,
+    nextTP: 4834.7,
+    bigMoveTriggerPrice: 3819.8,
+    bigMoveNextSL: 4094.8,
+    bigMoveNextTP: 3883.2,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-86f06cf195c84c',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-86f06cf195c84c'
+  },
+  '68d3f007099f9de77119b413-BTCDOMUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-edcb7473e7a34c-x-15PC4ZJy_Xcdr_tp-edcb7473e7a34c' => {
+    side: 'SELL',
+    symbol: 'BTCDOMUSDT',
+    positionSide: 'SHORT',
+    currentSL: 5118.8,
+    currentTP: 4852,
+    qty: '0.017',
+    trailCount: 0,
+    isScalping: false,
+    nextTriggerPrice: 4969.7,
+    nextSL: 5098.4,
+    nextTP: 4832.7,
+    bigMoveTriggerPrice: 3820,
+    bigMoveNextSL: 4095,
+    bigMoveNextTP: 3881.6,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-edcb7473e7a34c',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-edcb7473e7a34c'
+  }
+}
+[32m[Nest] 162587  - [39m04/02/2026, 8:47:36 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: ItYJG3j1AKQK6PRbAAAF[39m
+Client connecting: kvbrmjYGkNVlUMZsAAAH with accountId: default
+Client connecting: xRLTrQLW6VY3fJPmAAAJ with accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 9:10:16 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 9:10:16 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: xRLTrQLW6VY3fJPmAAAJ[39m
+Client connecting: g6ECcORwhcYn-w5JAAAL with accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 9:10:17 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 9:10:24 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: g6ECcORwhcYn-w5JAAAL[39m
+Client connecting: JxjEVs7i8M_C9x4-AAAN with accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 9:24:46 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 9:24:47 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: JxjEVs7i8M_C9x4-AAAN[39m
+Client connecting: HxGgM5ZUQa24jCPeAAAP with accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 9:24:47 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 9:24:52 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: HxGgM5ZUQa24jCPeAAAP[39m
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+Client connecting: H6moAKVdHPSvoLhRAAAR with accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 9:55:22 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 9:55:23 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: H6moAKVdHPSvoLhRAAAR[39m
+Client connecting: eGk1dAmGuQr29WcXAAAT with accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 9:55:23 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 9:55:26 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: eGk1dAmGuQr29WcXAAAT[39m
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+Client connecting: gSid4gHjlxri_JA0AAAV with accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 10:22:13 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 10:22:13 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: gSid4gHjlxri_JA0AAAV[39m
+Client connecting: aQ1ZT-caMMsihsduAAAX with accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 10:22:13 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 10:22:28 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: aQ1ZT-caMMsihsduAAAX[39m
+Client connecting: sgX5kibWjM_s2BjoAAAZ with accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 10:28:17 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 10:28:18 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: sgX5kibWjM_s2BjoAAAZ[39m
+Client connecting: E6mNOczyos_yMByyAAAb with accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 10:28:18 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+Client connecting: VzeG7vbttHZs4nPUAAAd with accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 10:30:03 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 10:30:03 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: VzeG7vbttHZs4nPUAAAd[39m
+Client connecting: SiameBOWr80QBuGrAAAf with accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 10:30:03 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 10:31:39 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: SiameBOWr80QBuGrAAAf[39m
+Client connecting: D7ySw-0UQTaT9I2oAAAh with accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 10:33:11 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 10:33:12 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: D7ySw-0UQTaT9I2oAAAh[39m
+Client connecting: NmTWoPA-eqAh3vTsAAAj with accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 10:33:12 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 10:33:15 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: NmTWoPA-eqAh3vTsAAAj[39m
+Client connecting: VpbfllDrts8b21HSAAAl with accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 10:33:18 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 10:33:18 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: VpbfllDrts8b21HSAAAl[39m
+Client connecting: _QLUjySzwxI4LdvVAAAn with accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 10:33:18 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[68d3f007099f9de77119b413] UNWANTED ENTRY → BTCDOMUSDT undefined x-15PC4ZJy_Xcdr_sl-567610fd9ed042 → KILLING
+[68d3f007099f9de77119b413] UNWANTED ENTRY → BTCDOMUSDT undefined x-15PC4ZJy_Xcdr_sl-86f06cf195c84c → KILLING
+[68d3f007099f9de77119b413] BTCDOMUSDT SHORT | Position: -0.017 | Valid Bot PAIR Qty: 0.017
+[68d3f007099f9de77119b413] CANCEL USER GHOST SL/TP → x-15PC4ZJy_Xcdr_tp-86f06cf195c84c (TAKE_PROFIT_MARKET) Qty:0.02
+[68d3f007099f9de77119b413] BTCDOMUSDT SHORT | Position: -0.017 | Valid Bot PAIR Qty: 0.017
+[68d3f007099f9de77119b413] CANCEL USER GHOST SL/TP → x-15PC4ZJy_Xcdr_tp-86f06cf195c84c (TAKE_PROFIT_MARKET) Qty:0.02
+[68d3f007099f9de77119b413] CANCEL USER GHOST SL/TP → x-15PC4ZJy_Xcdr_tp-567610fd9ed042 (TAKE_PROFIT_MARKET) Qty:0.025
+[68d3f007099f9de77119b413] CANCEL USER GHOST SL/TP → x-15PC4ZJy_Xcdr_tp-567610fd9ed042 (TAKE_PROFIT_MARKET) Qty:0.025
+[68d3f007099f9de77119b413] No excess qty on BTCDOMUSDT SHORT, only cleaned ghost orders
+[68d3f007099f9de77119b413] No excess qty on BTCDOMUSDT SHORT, only cleaned ghost orders
+[68d3f007099f9de77119b413] UNWANTED ENTRY → BTCDOMUSDT undefined x-15PC4ZJy_Xcdr_sl-edcb7473e7a34c → KILLING
+[32m[Nest] 162587  - [39m04/02/2026, 10:34:08 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: E6mNOczyos_yMByyAAAb[39m
+Client connecting: oXxLvlT8bKW0jq8GAAAp with accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 10:34:10 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 10:34:10 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: oXxLvlT8bKW0jq8GAAAp[39m
+Client connecting: LpliDF2sgGVi5f2cAAAr with accountId: default
+[32m[Nest] 162587  - [39m04/02/2026, 10:34:11 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +28ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTradingBotModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mDiscoveryModule dependencies initialized[39m[38;5;3m +0ms[39m
+✅ Successfully connected to MongoDB Atlas
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mJwtModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mJwtModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mScheduleModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mWebsocketModule dependencies initialized[39m[38;5;3m +13ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseCoreModule dependencies initialized[39m[38;5;3m +168ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAuthModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "refresh-data" message[39m[38;5;3m +11ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "order-preflight" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "place-full-order" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "close-position" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "set-block-status" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "add-margin" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "activate-burst" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "deactivate-burst" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "get-symbols" message[39m[38;5;3m +1ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "modify-order" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAuthController {/auth}:[39m[38;5;3m +1ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/signup, POST} route[39m[38;5;3m +2ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/login, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:33 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/verify-token, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 162948  - [39m04/02/2026, 10:34:34 AM [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +195ms[39m
+✅ Server running on 3020 
+Client connecting: esqdgQU0xjSZ2T77AAAB with accountId: default
+[ 'Websocket connected', { category: 'binance-ws', wsKey: 'usdm' } ]
+[68d3f007099f9de77119b413] WS opened
+[
+  'Websocket connected',
+  {
+    category: 'binance-ws',
+    wsKey: 'usdm_userData__rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51_usdm'
+  }
+]
+[sub1-68d3f007099f9de77119b413] WS opened
+[
+  'Websocket connected',
+  {
+    category: 'binance-ws',
+    wsKey: 'usdm_userData__ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI_usdm'
+  }
+]
+[68d3f007099f9de77119b413] WS opened
+Client connecting: 5e73RIdM796a3n7CAAAD with accountId: default
+[68d3f007099f9de77119b413] Bot state fully restored — trailing active on all positions
+[sub1-68d3f007099f9de77119b413] Bot state fully restored — trailing active on all positions
+Client connecting: UVooassJr-gr_i-ZAAAF with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:39:47 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:39:47 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: UVooassJr-gr_i-ZAAAF[39m
+Client connecting: jZkiqgjavkmYoDCoAAAH with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:39:48 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:39:51 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: jZkiqgjavkmYoDCoAAAH[39m
+Client connecting: 579NczEbIA655P0RAAAJ with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:46:41 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:46:41 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 579NczEbIA655P0RAAAJ[39m
+Client connecting: 3mtkfddk02ZaQcMBAAAL with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:46:41 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[68d3f007099f9de77119b413] TRAILING STARTED → TAKEUSDT SHORT | SL:0.01798 TP:0.01739 Map(1) {
+  '68d3f007099f9de77119b413-TAKEUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-714ef82e325a47-x-15PC4ZJy_Xcdr_tp-714ef82e325a47' => {
+    side: 'SELL',
+    symbol: 'TAKEUSDT',
+    positionSide: 'SHORT',
+    currentSL: 0.01798,
+    currentTP: 0.01739,
+    qty: '3123',
+    trailCount: 0,
+    isScalping: false,
+    nextTriggerPrice: 0.0174563,
+    nextSL: 0.0179084,
+    nextTP: 0.0173207,
+    bigMoveTriggerPrice: 0.0134179,
+    bigMoveNextSL: 0.014384,
+    bigMoveNextTP: 0.013912,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-714ef82e325a47',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-714ef82e325a47'
+  }
+}
+[32m[Nest] 162948  - [39m04/02/2026, 10:48:46 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 3mtkfddk02ZaQcMBAAAL[39m
+Client connecting: -MBewv1_rBnwkN_gAAAN with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:48:48 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:48:48 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: -MBewv1_rBnwkN_gAAAN[39m
+Client connecting: WxKir_UZMI6ZB4daAAAP with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:48:49 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[68d3f007099f9de77119b413] TRAILING STARTED → TAKEUSDT SHORT | SL:0.018 TP:0.0169 Map(2) {
+  '68d3f007099f9de77119b413-TAKEUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-714ef82e325a47-x-15PC4ZJy_Xcdr_tp-714ef82e325a47' => {
+    side: 'SELL',
+    symbol: 'TAKEUSDT',
+    positionSide: 'SHORT',
+    currentSL: 0.01798,
+    currentTP: 0.01739,
+    qty: '3123',
+    trailCount: 0,
+    isScalping: false,
+    nextTriggerPrice: 0.0174563,
+    nextSL: 0.0179084,
+    nextTP: 0.0173207,
+    bigMoveTriggerPrice: 0.0134179,
+    bigMoveNextSL: 0.014384,
+    bigMoveNextTP: 0.013912,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-714ef82e325a47',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-714ef82e325a47'
+  },
+  '68d3f007099f9de77119b413-TAKEUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-188007632a1642-x-15PC4ZJy_Xcdr_tp-188007632a1642' => {
+    side: 'SELL',
+    symbol: 'TAKEUSDT',
+    positionSide: 'SHORT',
+    currentSL: 0.018,
+    currentTP: 0.0169,
+    qty: '1361',
+    trailCount: 0,
+    isScalping: false,
+    nextTriggerPrice: 0.0174757,
+    nextSL: 0.0179283,
+    nextTP: 0.0168327,
+    bigMoveTriggerPrice: 0.0134328,
+    bigMoveNextSL: 0.0144,
+    bigMoveNextTP: 0.01352,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-188007632a1642',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-188007632a1642'
+  }
+}
+[32m[Nest] 162948  - [39m04/02/2026, 10:49:37 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: WxKir_UZMI6ZB4daAAAP[39m
+Client connecting: eczMlsOKScaPJhRjAAAR with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:49:39 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:49:39 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: eczMlsOKScaPJhRjAAAR[39m
+Client connecting: 4WWODu13634Y72QCAAAT with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:49:39 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:52:54 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 4WWODu13634Y72QCAAAT[39m
+Client connecting: vEPkzrCPzcGVkZMfAAAV with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:52:56 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:52:56 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: vEPkzrCPzcGVkZMfAAAV[39m
+Client connecting: 12IkJz4kZF1Foqd-AAAX with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:52:56 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:55:46 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 12IkJz4kZF1Foqd-AAAX[39m
+Client connecting: uVihavQPN3le-pCZAAAZ with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:58:21 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:58:21 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: uVihavQPN3le-pCZAAAZ[39m
+Client connecting: rbfyhAZG_NfMqjiIAAAb with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:58:22 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+Client connecting: mzQy-EMfs_eXp23dAAAd with accountId: default
+Client connecting: GTZBnTdzEIvBYlfMAAAf with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:59:23 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:59:24 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: GTZBnTdzEIvBYlfMAAAf[39m
+Client connecting: A6F79nPMGfVkfu2zAAAh with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 10:59:24 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[68d3f007099f9de77119b413] TRAILING STARTED → ESPORTSUSDT SHORT | SL:0.3721 TP:0.367 Map(3) {
+  '68d3f007099f9de77119b413-TAKEUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-714ef82e325a47-x-15PC4ZJy_Xcdr_tp-714ef82e325a47' => {
+    side: 'SELL',
+    symbol: 'TAKEUSDT',
+    positionSide: 'SHORT',
+    currentSL: 0.01798,
+    currentTP: 0.01739,
+    qty: '3123',
+    trailCount: 0,
+    isScalping: false,
+    nextTriggerPrice: 0.0174563,
+    nextSL: 0.0179084,
+    nextTP: 0.0173207,
+    bigMoveTriggerPrice: 0.0134179,
+    bigMoveNextSL: 0.014384,
+    bigMoveNextTP: 0.013912,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-714ef82e325a47',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-714ef82e325a47'
+  },
+  '68d3f007099f9de77119b413-TAKEUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-188007632a1642-x-15PC4ZJy_Xcdr_tp-188007632a1642' => {
+    side: 'SELL',
+    symbol: 'TAKEUSDT',
+    positionSide: 'SHORT',
+    currentSL: 0.018,
+    currentTP: 0.0169,
+    qty: '1361',
+    trailCount: 0,
+    isScalping: false,
+    nextTriggerPrice: 0.0174757,
+    nextSL: 0.0179283,
+    nextTP: 0.0168327,
+    bigMoveTriggerPrice: 0.0134328,
+    bigMoveNextSL: 0.0144,
+    bigMoveNextTP: 0.01352,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-188007632a1642',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-188007632a1642'
+  },
+  '68d3f007099f9de77119b413-ESPORTSUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-cf15d169d3b04b-x-15PC4ZJy_Xcdr_tp-cf15d169d3b04b' => {
+    side: 'SELL',
+    symbol: 'ESPORTSUSDT',
+    positionSide: 'SHORT',
+    currentSL: 0.3721,
+    currentTP: 0.367,
+    qty: '210',
+    trailCount: 0,
+    isScalping: false,
+    nextTriggerPrice: 0.3612621,
+    nextSL: 0.3706175,
+    nextTP: 0.3655378,
+    bigMoveTriggerPrice: 0.2776866,
+    bigMoveNextSL: 0.29768,
+    bigMoveNextTP: 0.2936,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-cf15d169d3b04b',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-cf15d169d3b04b'
+  }
+}
+[32m[Nest] 162948  - [39m04/02/2026, 11:00:17 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: A6F79nPMGfVkfu2zAAAh[39m
+[32m[Nest] 162948  - [39m04/02/2026, 11:00:27 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: rbfyhAZG_NfMqjiIAAAb[39m
+we recieve signal to trail: 68d3f007099f9de77119b413-TAKEUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-714ef82e325a47-x-15PC4ZJy_Xcdr_tp-714ef82e325a47 0.01743 {
+  side: 'SELL',
+  symbol: 'TAKEUSDT',
+  positionSide: 'SHORT',
+  currentSL: 0.01798,
+  currentTP: 0.01739,
+  qty: '3123',
+  trailCount: 0,
+  isScalping: false,
+  nextTriggerPrice: 0.0174563,
+  nextSL: 0.0179084,
+  nextTP: 0.0173207,
+  bigMoveTriggerPrice: 0.0134179,
+  bigMoveNextSL: 0.014384,
+  bigMoveNextTP: 0.013912,
+  slClientId: 'x-15PC4ZJy_Xcdr_sl-714ef82e325a47',
+  tpClientId: 'x-15PC4ZJy_Xcdr_tp-714ef82e325a47'
+}
+68d3f007099f9de77119b413-TAKEUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-714ef82e325a47-x-15PC4ZJy_Xcdr_tp-714ef82e325a47 TAKEUSDT SHORT 3123 SELL
+we recieve signal to trail: 68d3f007099f9de77119b413-TAKEUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-188007632a1642-x-15PC4ZJy_Xcdr_tp-188007632a1642 0.01743 {
+  side: 'SELL',
+  symbol: 'TAKEUSDT',
+  positionSide: 'SHORT',
+  currentSL: 0.018,
+  currentTP: 0.0169,
+  qty: '1361',
+  trailCount: 0,
+  isScalping: false,
+  nextTriggerPrice: 0.0174757,
+  nextSL: 0.0179283,
+  nextTP: 0.0168327,
+  bigMoveTriggerPrice: 0.0134328,
+  bigMoveNextSL: 0.0144,
+  bigMoveNextTP: 0.01352,
+  slClientId: 'x-15PC4ZJy_Xcdr_sl-188007632a1642',
+  tpClientId: 'x-15PC4ZJy_Xcdr_tp-188007632a1642'
+}
+68d3f007099f9de77119b413-TAKEUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-188007632a1642-x-15PC4ZJy_Xcdr_tp-188007632a1642 TAKEUSDT SHORT 1361 SELL
+[68d3f007099f9de77119b413] UNWANTED ENTRY → TAKEUSDT undefined x-15PC4ZJy_Xcdr_tp-6baa7b09446a41 → KILLING
+AUTO MARGIN ADDED → TAKEUSDT SHORT | +1.70)
+[68d3f007099f9de77119b413] TAKEUSDT SHORT | Position: -1361 | Valid Bot PAIR Qty: 1361
+[68d3f007099f9de77119b413] CANCEL USER GHOST SL/TP → x-15PC4ZJy_Xcdr_sl-6baa7b09446a41 (STOP_MARKET) Qty:3123.0
+[68d3f007099f9de77119b413] No excess qty on TAKEUSDT SHORT, only cleaned ghost orders
+Client connecting: qGF8qkOxtuP5DClMAAAj with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 11:21:28 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 11:21:29 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: qGF8qkOxtuP5DClMAAAj[39m
+Client connecting: g_Ea8lXrPKoObHvMAAAl with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 11:21:29 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[68d3f007099f9de77119b413] UNWANTED ENTRY → ESPORTSUSDT undefined x-15PC4ZJy_Xcdr_sl-cf15d169d3b04b → KILLING
+[32m[Nest] 162948  - [39m04/02/2026, 11:23:18 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: g_Ea8lXrPKoObHvMAAAl[39m
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+Client connecting: bIXTfqOhhFkB5iJVAAAn with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 11:40:34 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 11:40:34 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: bIXTfqOhhFkB5iJVAAAn[39m
+Client connecting: 9vLrWb_kLN4aswr5AAAp with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 11:40:35 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 11:40:55 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 9vLrWb_kLN4aswr5AAAp[39m
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+Client connecting: htTqhO6ZZGnbSqvyAAAr with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 12:20:35 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 12:20:36 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: htTqhO6ZZGnbSqvyAAAr[39m
+Client connecting: _t3PXk4qcsoec48cAAAt with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 12:20:37 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 12:23:11 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: _t3PXk4qcsoec48cAAAt[39m
+Client connecting: lujChBpaeXKO6wv9AAAv with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 12:33:00 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 12:33:00 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: lujChBpaeXKO6wv9AAAv[39m
+Client connecting: mjdJhO2u6K5BV2JcAAAx with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 12:33:01 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 12:34:11 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: mjdJhO2u6K5BV2JcAAAx[39m
+Client connecting: ula0nbddxolpqdOhAAAz with accountId: default
+Client connecting: ldjD4V5q3J0RM9j2AAA1 with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 12:39:47 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 12:40:01 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: ldjD4V5q3J0RM9j2AAA1[39m
+Client connecting: p1yOcre2q9tM8Z_bAAA3 with accountId: default
+Client connecting: bBnygsYeAwUfCN_gAAA5 with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 1:02:48 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 1:02:48 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: bBnygsYeAwUfCN_gAAA5[39m
+Client connecting: SqmpHWxxpyY-mAE1AAA7 with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 1:02:48 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 1:03:53 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: SqmpHWxxpyY-mAE1AAA7[39m
+Client connecting: oszCXlUqb2m0gzDnAAA9 with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 1:03:54 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 1:03:55 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: oszCXlUqb2m0gzDnAAA9[39m
+Client connecting: r7NfNVE7l2FG5sakAAA_ with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 1:03:55 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+[32m[Nest] 162948  - [39m04/02/2026, 1:05:11 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: r7NfNVE7l2FG5sakAAA_[39m
+Client connecting: JB3onhNaDWPJP7fpAABB with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 1:05:12 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 1:05:13 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: JB3onhNaDWPJP7fpAABB[39m
+Client connecting: 2hzCTHInViOUFBqsAABD with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 1:05:13 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[68d3f007099f9de77119b413] UNWANTED ENTRY → TAKEUSDT undefined x-15PC4ZJy_Xcdr_tp-02b0b51c0b0649 → KILLING
+Client connecting: Vtjh2Aj7X_puMXsfAABF with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 1:09:54 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 1:09:55 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: Vtjh2Aj7X_puMXsfAABF[39m
+Client connecting: lDwLIKfhOkpvHrkqAABH with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 1:09:55 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 1:10:04 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: lDwLIKfhOkpvHrkqAABH[39m
+[32m[Nest] 162948  - [39m04/02/2026, 1:11:24 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 2hzCTHInViOUFBqsAABD[39m
+Client connecting: V9COEdCK3Df2FKp2AABJ with accountId: default
+Client connecting: pPR-YW6ZLW5l9_xRAABL with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 1:18:34 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 1:18:34 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: pPR-YW6ZLW5l9_xRAABL[39m
+Client connecting: mG6A4o39f4EmWCMlAABN with accountId: default
+[32m[Nest] 162948  - [39m04/02/2026, 1:18:34 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:07 PM [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:07 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +23ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:07 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTradingBotModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:07 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:07 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:07 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mDiscoveryModule dependencies initialized[39m[38;5;3m +1ms[39m
+✅ Successfully connected to MongoDB Atlas
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:07 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:07 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:07 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:07 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:07 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mJwtModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:07 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mJwtModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:07 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mScheduleModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:07 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mWebsocketModule dependencies initialized[39m[38;5;3m +12ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:08 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseCoreModule dependencies initialized[39m[38;5;3m +168ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:08 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:08 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAuthModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:08 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "refresh-data" message[39m[38;5;3m +11ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:08 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "order-preflight" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:08 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "place-full-order" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:08 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "close-position" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:08 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "set-block-status" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:08 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "add-margin" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:08 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "activate-burst" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:08 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "deactivate-burst" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:08 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "get-symbols" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:08 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "modify-order" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:08 PM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAuthController {/auth}:[39m[38;5;3m +2ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:08 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/signup, POST} route[39m[38;5;3m +2ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:08 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/login, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:08 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/verify-token, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:08 PM [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +449ms[39m
+✅ Server running on 3020 
+[ 'Websocket connected', { category: 'binance-ws', wsKey: 'usdm' } ]
+[68d3f007099f9de77119b413] WS opened
+Client connecting: Df5vpx4Aw9mobnDBAAAB with accountId: default
+[
+  'Websocket connected',
+  {
+    category: 'binance-ws',
+    wsKey: 'usdm_userData__rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51_usdm'
+  }
+]
+[sub1-68d3f007099f9de77119b413] WS opened
+[
+  'Websocket connected',
+  {
+    category: 'binance-ws',
+    wsKey: 'usdm_userData__ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI_usdm'
+  }
+]
+[68d3f007099f9de77119b413] WS opened
+[68d3f007099f9de77119b413] Bot state fully restored — trailing active on all positions
+[sub1-68d3f007099f9de77119b413] Bot state fully restored — trailing active on all positions
+Client connecting: 5v0hYajmRWFQ43TWAAAD with accountId: default
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:22 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:23 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 5v0hYajmRWFQ43TWAAAD[39m
+Client connecting: wL4sZoUDyoeH8MdJAAAF with accountId: default
+[32m[Nest] 163381  - [39m04/02/2026, 1:19:23 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163381  - [39m04/02/2026, 1:23:55 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: wL4sZoUDyoeH8MdJAAAF[39m
+Client connecting: 3tpxt_p5PB5fBKvZAAAH with accountId: default
+[32m[Nest] 163381  - [39m04/02/2026, 1:23:57 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163381  - [39m04/02/2026, 1:23:58 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 3tpxt_p5PB5fBKvZAAAH[39m
+Client connecting: 7lfCFRqPc3De7-J9AAAJ with accountId: default
+[32m[Nest] 163381  - [39m04/02/2026, 1:23:58 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[68d3f007099f9de77119b413] TRAILING STARTED → BNBUSDT LONG | SL:572 TP:600 Map(1) {
+  '68d3f007099f9de77119b413-BNBUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-a68c22abe32845-x-15PC4ZJy_Xcdr_tp-a68c22abe32845' => {
+    side: 'BUY',
+    symbol: 'BNBUSDT',
+    positionSide: 'LONG',
+    currentSL: 572,
+    currentTP: 600,
+    qty: '0.2',
+    trailCount: 0,
+    isScalping: false,
+    nextTriggerPrice: 589.16,
+    nextSL: 574.288,
+    nextTP: 602.4,
+    bigMoveTriggerPrice: 766.48,
+    bigMoveNextSL: 715,
+    bigMoveNextTP: 750,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-a68c22abe32845',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-a68c22abe32845'
+  }
+}
+[68d3f007099f9de77119b413] TRAILING STARTED → BNBUSDT LONG | SL:572.41 TP:800 Map(2) {
+  '68d3f007099f9de77119b413-BNBUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-a68c22abe32845-x-15PC4ZJy_Xcdr_tp-a68c22abe32845' => {
+    side: 'BUY',
+    symbol: 'BNBUSDT',
+    positionSide: 'LONG',
+    currentSL: 572,
+    currentTP: 600,
+    qty: '0.2',
+    trailCount: 0,
+    isScalping: false,
+    nextTriggerPrice: 589.16,
+    nextSL: 574.288,
+    nextTP: 602.4,
+    bigMoveTriggerPrice: 766.48,
+    bigMoveNextSL: 715,
+    bigMoveNextTP: 750,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-a68c22abe32845',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-a68c22abe32845'
+  },
+  '68d3f007099f9de77119b413-BNBUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-b4082c816da547-x-15PC4ZJy_Xcdr_tp-b4082c816da547' => {
+    side: 'BUY',
+    symbol: 'BNBUSDT',
+    positionSide: 'LONG',
+    currentSL: 572.41,
+    currentTP: 800,
+    qty: '0.26',
+    trailCount: 0,
+    isScalping: true,
+    nextTriggerPrice: 583.858,
+    nextSL: 574.127,
+    nextTP: 802.4,
+    bigMoveTriggerPrice: 715.512,
+    bigMoveNextSL: 675.444,
+    bigMoveNextTP: 944,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-b4082c816da547',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-b4082c816da547'
+  }
+}
+[68d3f007099f9de77119b413] TRAILING STARTED → BNBUSDT LONG | SL:571.3 TP:800 Map(3) {
+  '68d3f007099f9de77119b413-BNBUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-a68c22abe32845-x-15PC4ZJy_Xcdr_tp-a68c22abe32845' => {
+    side: 'BUY',
+    symbol: 'BNBUSDT',
+    positionSide: 'LONG',
+    currentSL: 572,
+    currentTP: 600,
+    qty: '0.2',
+    trailCount: 0,
+    isScalping: false,
+    nextTriggerPrice: 589.16,
+    nextSL: 574.288,
+    nextTP: 602.4,
+    bigMoveTriggerPrice: 766.48,
+    bigMoveNextSL: 715,
+    bigMoveNextTP: 750,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-a68c22abe32845',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-a68c22abe32845'
+  },
+  '68d3f007099f9de77119b413-BNBUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-b4082c816da547-x-15PC4ZJy_Xcdr_tp-b4082c816da547' => {
+    side: 'BUY',
+    symbol: 'BNBUSDT',
+    positionSide: 'LONG',
+    currentSL: 572.41,
+    currentTP: 800,
+    qty: '0.26',
+    trailCount: 0,
+    isScalping: true,
+    nextTriggerPrice: 583.858,
+    nextSL: 574.127,
+    nextTP: 802.4,
+    bigMoveTriggerPrice: 715.512,
+    bigMoveNextSL: 675.444,
+    bigMoveNextTP: 944,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-b4082c816da547',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-b4082c816da547'
+  },
+  '68d3f007099f9de77119b413-BNBUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-ba5838ca23c64a-x-15PC4ZJy_Xcdr_tp-ba5838ca23c64a' => {
+    side: 'BUY',
+    symbol: 'BNBUSDT',
+    positionSide: 'LONG',
+    currentSL: 571.3,
+    currentTP: 800,
+    qty: '0.08',
+    trailCount: 0,
+    isScalping: true,
+    nextTriggerPrice: 582.726,
+    nextSL: 573.014,
+    nextTP: 802.4,
+    bigMoveTriggerPrice: 714.125,
+    bigMoveNextSL: 674.134,
+    bigMoveNextTP: 944,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-ba5838ca23c64a',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-ba5838ca23c64a'
+  }
+}
+[32m[Nest] 163381  - [39m04/02/2026, 1:28:28 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 7lfCFRqPc3De7-J9AAAJ[39m
+Client connecting: q2d5Znk3AQ3JIrbzAAAL with accountId: default
+[32m[Nest] 163381  - [39m04/02/2026, 1:28:29 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163381  - [39m04/02/2026, 1:28:30 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: q2d5Znk3AQ3JIrbzAAAL[39m
+Client connecting: u7hj7cAvWHt7iYDrAAAN with accountId: default
+[32m[Nest] 163381  - [39m04/02/2026, 1:28:30 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163381  - [39m04/02/2026, 1:30:58 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: u7hj7cAvWHt7iYDrAAAN[39m
+Client connecting: 7ub-u-howZK69aSOAAAP with accountId: default
+[32m[Nest] 163381  - [39m04/02/2026, 1:30:59 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163381  - [39m04/02/2026, 1:30:59 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 7ub-u-howZK69aSOAAAP[39m
+Client connecting: u6wbjdhZz8HSIeiDAAAR with accountId: default
+[32m[Nest] 163381  - [39m04/02/2026, 1:31:00 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[68d3f007099f9de77119b413] UNWANTED ENTRY → BNBUSDT undefined x-15PC4ZJy_Xcdr_sl-b4082c816da547 → KILLING
+AUTO MARGIN ADDED → BNBUSDT LONG | +0.35)
+[68d3f007099f9de77119b413] BNBUSDT LONG | Position: 0.28 | Valid Bot PAIR Qty: 0.28
+[68d3f007099f9de77119b413] CANCEL USER GHOST SL/TP → x-15PC4ZJy_Xcdr_tp-b4082c816da547 (TAKE_PROFIT_MARKET) Qty:0.26
+[68d3f007099f9de77119b413] No excess qty on BNBUSDT LONG, only cleaned ghost orders
+[32m[Nest] 163381  - [39m04/02/2026, 1:34:01 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: u6wbjdhZz8HSIeiDAAAR[39m
+Client connecting: tw6TSwH0J9LWFJhZAAAT with accountId: default
+[32m[Nest] 163381  - [39m04/02/2026, 1:34:03 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163381  - [39m04/02/2026, 1:34:03 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: tw6TSwH0J9LWFJhZAAAT[39m
+Client connecting: 7vZPg8wJZSRPG8WuAAAV with accountId: default
+[32m[Nest] 163381  - [39m04/02/2026, 1:34:03 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[68d3f007099f9de77119b413] UNWANTED ENTRY → BNBUSDT undefined x-15PC4ZJy_Xcdr_sl-a68c22abe32845 → KILLING
+[68d3f007099f9de77119b413] BNBUSDT LONG | Position: 0.08 | Valid Bot PAIR Qty: 0.08
+[68d3f007099f9de77119b413] CANCEL USER GHOST SL/TP → x-15PC4ZJy_Xcdr_tp-a68c22abe32845 (TAKE_PROFIT_MARKET) Qty:0.2
+[68d3f007099f9de77119b413] No excess qty on BNBUSDT LONG, only cleaned ghost orders
+[68d3f007099f9de77119b413] UNWANTED ENTRY → BNBUSDT undefined x-15PC4ZJy_Xcdr_sl-ba5838ca23c64a → KILLING
+[32m[Nest] 163381  - [39m04/02/2026, 1:35:34 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 7vZPg8wJZSRPG8WuAAAV[39m
+Client connecting: 7U85zWluuetjhJt7AAAX with accountId: default
+[32m[Nest] 163381  - [39m04/02/2026, 1:35:35 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163381  - [39m04/02/2026, 1:35:35 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 7U85zWluuetjhJt7AAAX[39m
+Client connecting: eksiQpcdQayMU667AAAZ with accountId: default
+[32m[Nest] 163381  - [39m04/02/2026, 1:35:35 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +22ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTradingBotModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mDiscoveryModule dependencies initialized[39m[38;5;3m +0ms[39m
+✅ Successfully connected to MongoDB Atlas
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +2ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mJwtModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mJwtModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mScheduleModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mWebsocketModule dependencies initialized[39m[38;5;3m +13ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseCoreModule dependencies initialized[39m[38;5;3m +167ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAuthModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "refresh-data" message[39m[38;5;3m +11ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "order-preflight" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "place-full-order" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "close-position" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "set-block-status" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "add-margin" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "activate-burst" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "deactivate-burst" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "get-symbols" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "modify-order" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAuthController {/auth}:[39m[38;5;3m +2ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/signup, POST} route[39m[38;5;3m +2ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/login, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:03 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/verify-token, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:04 PM [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +196ms[39m
+✅ Server running on 3020 
+[ 'Websocket connected', { category: 'binance-ws', wsKey: 'usdm' } ]
+[68d3f007099f9de77119b413] WS opened
+[
+  'Websocket connected',
+  {
+    category: 'binance-ws',
+    wsKey: 'usdm_userData__rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51_usdm'
+  }
+]
+[sub1-68d3f007099f9de77119b413] WS opened
+[
+  'Websocket connected',
+  {
+    category: 'binance-ws',
+    wsKey: 'usdm_userData__ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI_usdm'
+  }
+]
+[68d3f007099f9de77119b413] WS opened
+Client connecting: ZykJzor7H8pMmzlJAAAB with accountId: default
+[68d3f007099f9de77119b413] Bot state fully restored — trailing active on all positions
+[sub1-68d3f007099f9de77119b413] Bot state fully restored — trailing active on all positions
+Client connecting: LmAtEG0jgt6G2kqqAAAD with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:14 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:14 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: LmAtEG0jgt6G2kqqAAAD[39m
+Client connecting: NsnaepzDuOxqYWWBAAAF with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 1:36:15 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 1:45:05 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: NsnaepzDuOxqYWWBAAAF[39m
+Client connecting: NHnvFHtzRdWBxi53AAAH with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 1:45:06 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 1:45:07 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: NHnvFHtzRdWBxi53AAAH[39m
+Client connecting: a19R6uldj3TG8WIQAAAJ with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 1:45:07 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDk4NjU2NywiZXhwIjoxNzc4NDQyNTY3fQ.NoYXzH0CDOmZ1GFloaSwd5QmDvjF8hljnvXi73ffago[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[68d3f007099f9de77119b413] TRAILING STARTED → 1000PEPEUSDT SHORT | SL:0.003275 TP:0.002676 Map(1) {
+  '68d3f007099f9de77119b413-1000PEPEUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-2a2ac56febc347-x-15PC4ZJy_Xcdr_tp-2a2ac56febc347' => {
+    side: 'SELL',
+    symbol: '1000PEPEUSDT',
+    positionSide: 'SHORT',
+    currentSL: 0.003275,
+    currentTP: 0.002676,
+    qty: '66613',
+    trailCount: 0,
+    isScalping: false,
+    nextTriggerPrice: 0.0031796,
+    nextSL: 0.003262,
+    nextTP: 0.0026653,
+    bigMoveTriggerPrice: 0.002444,
+    bigMoveNextSL: 0.00262,
+    bigMoveNextTP: 0.0021408,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-2a2ac56febc347',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-2a2ac56febc347'
+  }
+}
+[68d3f007099f9de77119b413] UNWANTED ENTRY → 1000PEPEUSDT undefined x-15PC4ZJy_Xcdr_sl-2a2ac56febc347 → KILLING
+[32m[Nest] 163513  - [39m04/02/2026, 1:47:57 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: a19R6uldj3TG8WIQAAAJ[39m
+Client connecting: Sdag7Pp_cI_gJuu0AAAL with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 1:51:00 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 1:51:01 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: Sdag7Pp_cI_gJuu0AAAL[39m
+Client connecting: 7Npmz_Ghz7YYD918AAAN with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 1:51:01 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 1:51:05 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 7Npmz_Ghz7YYD918AAAN[39m
+Client connecting: ifNYu1kODbSf6ivKAAAP with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 1:51:06 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 1:51:06 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: ifNYu1kODbSf6ivKAAAP[39m
+Client connecting: b6QavBcmYlWi3-5HAAAR with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 1:51:07 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 1:51:12 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: b6QavBcmYlWi3-5HAAAR[39m
+Client connecting: 2TE-gKk2BbtkcbBRAAAT with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 1:51:13 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 1:51:13 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 2TE-gKk2BbtkcbBRAAAT[39m
+Client connecting: hsSc9bPhD_PP0usUAAAV with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 1:51:13 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 1:51:48 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: hsSc9bPhD_PP0usUAAAV[39m
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+Client connecting: NaAOxD35vOrnVQP7AAAX with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 2:53:49 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 2:53:50 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: NaAOxD35vOrnVQP7AAAX[39m
+Client connecting: kWBr_53GgGh-RKP2AAAZ with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 2:53:50 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[68d3f007099f9de77119b413] TRAILING STARTED → RSRUSDT SHORT | SL:0.001455 TP:0.001285 Map(1) {
+  '68d3f007099f9de77119b413-RSRUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-42e0ace6a8a145-x-15PC4ZJy_Xcdr_tp-42e0ace6a8a145' => {
+    side: 'SELL',
+    symbol: 'RSRUSDT',
+    positionSide: 'SHORT',
+    currentSL: 0.001455,
+    currentTP: 0.001285,
+    qty: '37680',
+    trailCount: 0,
+    isScalping: true,
+    nextTriggerPrice: 0.001426,
+    nextSL: 0.001451,
+    nextTP: 0.001281,
+    bigMoveTriggerPrice: 0.001164,
+    bigMoveNextSL: 0.001233,
+    bigMoveNextTP: 0.001089,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-42e0ace6a8a145',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-42e0ace6a8a145'
+  }
+}
+[32m[Nest] 163513  - [39m04/02/2026, 2:56:07 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: kWBr_53GgGh-RKP2AAAZ[39m
+Client connecting: NGfNL7JrgzFmyGp0AAAb with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 2:56:08 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 2:56:09 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: NGfNL7JrgzFmyGp0AAAb[39m
+Client connecting: x-tPoP7Nwqwsix8VAAAd with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 2:56:09 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 2:56:18 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: x-tPoP7Nwqwsix8VAAAd[39m
+Client connecting: -0zmW2e4t4XSFwozAAAf with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:02:47 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:02:47 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: -0zmW2e4t4XSFwozAAAf[39m
+Client connecting: IBMWmow8bw_91jwqAAAh with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:02:47 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:04:23 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: IBMWmow8bw_91jwqAAAh[39m
+Client connecting: 8LrUqfya5TZbU9xlAAAj with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:06:34 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:06:34 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 8LrUqfya5TZbU9xlAAAj[39m
+Client connecting: zWDS7EYl64o-9KIUAAAl with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:06:34 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:07:32 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: zWDS7EYl64o-9KIUAAAl[39m
+Client connecting: MDGXLuVLEDUoKYnfAAAn with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:08:43 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:08:43 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: MDGXLuVLEDUoKYnfAAAn[39m
+Client connecting: nv7sIZcfOd1Csb8NAAAp with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:08:43 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[68d3f007099f9de77119b413] TRAILING STARTED → NEOUSDT SHORT | SL:2.681 TP:2 Map(2) {
+  '68d3f007099f9de77119b413-RSRUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-42e0ace6a8a145-x-15PC4ZJy_Xcdr_tp-42e0ace6a8a145' => {
+    side: 'SELL',
+    symbol: 'RSRUSDT',
+    positionSide: 'SHORT',
+    currentSL: 0.001455,
+    currentTP: 0.001285,
+    qty: '37680',
+    trailCount: 0,
+    isScalping: true,
+    nextTriggerPrice: 0.001426,
+    nextSL: 0.001451,
+    nextTP: 0.001281,
+    bigMoveTriggerPrice: 0.001164,
+    bigMoveNextSL: 0.001233,
+    bigMoveNextTP: 0.001089,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-42e0ace6a8a145',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-42e0ace6a8a145'
+  },
+  '68d3f007099f9de77119b413-NEOUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-b0edcb1638d249-x-15PC4ZJy_Xcdr_tp-b0edcb1638d249' => {
+    side: 'SELL',
+    symbol: 'NEOUSDT',
+    positionSide: 'SHORT',
+    currentSL: 2.681,
+    currentTP: 2,
+    qty: '15',
+    trailCount: 0,
+    isScalping: true,
+    nextTriggerPrice: 2.628,
+    nextSL: 2.673,
+    nextTP: 1.994,
+    bigMoveTriggerPrice: 2.145,
+    bigMoveNextSL: 2.272,
+    bigMoveNextTP: 1.695,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-b0edcb1638d249',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-b0edcb1638d249'
+  }
+}
+[68d3f007099f9de77119b413] TRAILING STARTED → NEOUSDT SHORT | SL:2.681 TP:2 Map(3) {
+  '68d3f007099f9de77119b413-RSRUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-42e0ace6a8a145-x-15PC4ZJy_Xcdr_tp-42e0ace6a8a145' => {
+    side: 'SELL',
+    symbol: 'RSRUSDT',
+    positionSide: 'SHORT',
+    currentSL: 0.001455,
+    currentTP: 0.001285,
+    qty: '37680',
+    trailCount: 0,
+    isScalping: true,
+    nextTriggerPrice: 0.001426,
+    nextSL: 0.001451,
+    nextTP: 0.001281,
+    bigMoveTriggerPrice: 0.001164,
+    bigMoveNextSL: 0.001233,
+    bigMoveNextTP: 0.001089,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-42e0ace6a8a145',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-42e0ace6a8a145'
+  },
+  '68d3f007099f9de77119b413-NEOUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-b0edcb1638d249-x-15PC4ZJy_Xcdr_tp-b0edcb1638d249' => {
+    side: 'SELL',
+    symbol: 'NEOUSDT',
+    positionSide: 'SHORT',
+    currentSL: 2.681,
+    currentTP: 2,
+    qty: '15',
+    trailCount: 0,
+    isScalping: true,
+    nextTriggerPrice: 2.628,
+    nextSL: 2.673,
+    nextTP: 1.994,
+    bigMoveTriggerPrice: 2.145,
+    bigMoveNextSL: 2.272,
+    bigMoveNextTP: 1.695,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-b0edcb1638d249',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-b0edcb1638d249'
+  },
+  '68d3f007099f9de77119b413-NEOUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-a628a268948f45-x-15PC4ZJy_Xcdr_tp-a628a268948f45' => {
+    side: 'SELL',
+    symbol: 'NEOUSDT',
+    positionSide: 'SHORT',
+    currentSL: 2.681,
+    currentTP: 2,
+    qty: '17',
+    trailCount: 0,
+    isScalping: true,
+    nextTriggerPrice: 2.628,
+    nextSL: 2.673,
+    nextTP: 1.994,
+    bigMoveTriggerPrice: 2.145,
+    bigMoveNextSL: 2.272,
+    bigMoveNextTP: 1.695,
+    slClientId: 'x-15PC4ZJy_Xcdr_sl-a628a268948f45',
+    tpClientId: 'x-15PC4ZJy_Xcdr_tp-a628a268948f45'
+  }
+}
+[32m[Nest] 163513  - [39m04/02/2026, 3:12:49 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: nv7sIZcfOd1Csb8NAAAp[39m
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+Client connecting: FB7n8oWWk6Odzzf3AAAr with accountId: default
+Client connecting: NhXvQech6uSSnTtAAAAt with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:16:13 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:16:13 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: NhXvQech6uSSnTtAAAAt[39m
+Client connecting: s5Em9kmx4Ddd0vmRAAAv with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:16:13 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:18:13 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: s5Em9kmx4Ddd0vmRAAAv[39m
+we recieve signal to trail: 68d3f007099f9de77119b413-RSRUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-42e0ace6a8a145-x-15PC4ZJy_Xcdr_tp-42e0ace6a8a145 0.001426 {
+  side: 'SELL',
+  symbol: 'RSRUSDT',
+  positionSide: 'SHORT',
+  currentSL: 0.001455,
+  currentTP: 0.001285,
+  qty: '37680',
+  trailCount: 0,
+  isScalping: true,
+  nextTriggerPrice: 0.001426,
+  nextSL: 0.001451,
+  nextTP: 0.001281,
+  bigMoveTriggerPrice: 0.001164,
+  bigMoveNextSL: 0.001233,
+  bigMoveNextTP: 0.001089,
+  slClientId: 'x-15PC4ZJy_Xcdr_sl-42e0ace6a8a145',
+  tpClientId: 'x-15PC4ZJy_Xcdr_tp-42e0ace6a8a145'
+}
+68d3f007099f9de77119b413-RSRUSDT-SHORT-SELL-x-15PC4ZJy_Xcdr_sl-42e0ace6a8a145-x-15PC4ZJy_Xcdr_tp-42e0ace6a8a145 RSRUSDT SHORT 37680 SELL
+Client connecting: qv4Tc9RIVhNfGnhVAAAx with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:29:22 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:29:23 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: qv4Tc9RIVhNfGnhVAAAx[39m
+Client connecting: XleWX659qndsV7DhAAAz with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:29:23 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:30:01 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: XleWX659qndsV7DhAAAz[39m
+Client connecting: EtVd60rHUWXQjj3EAAA1 with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:49:44 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:49:44 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: EtVd60rHUWXQjj3EAAA1[39m
+Client connecting: AKCUpmCLpvO7g5oRAAA3 with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:49:44 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:50:55 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: AKCUpmCLpvO7g5oRAAA3[39m
+Client connecting: x3-ihOOMUnw9VQvUAAA5 with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:51:06 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:51:06 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: x3-ihOOMUnw9VQvUAAA5[39m
+Client connecting: uLNFBZ0ax73wuRoiAAA7 with accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:51:06 PM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3NDM3Mjg4MywiZXhwIjoxNzc3ODI4ODgzfQ.g1Yf-8y12oVRQK0gLnsD-nfedZXjml5GKoxOMwBVUPk[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 163513  - [39m04/02/2026, 3:51:15 PM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: uLNFBZ0ax73wuRoiAAA7[39m
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+[68d3f007099f9de77119b413] UNWANTED ENTRY → NEOUSDT undefined x-15PC4ZJy_Xcdr_sl-b0edcb1638d249 → KILLING
+[68d3f007099f9de77119b413] UNWANTED ENTRY → NEOUSDT undefined x-15PC4ZJy_Xcdr_sl-a628a268948f45 → KILLING
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+[68d3f007099f9de77119b413] UNWANTED ENTRY → RSRUSDT undefined x-15PC4ZJy_Xcdr_sl-551ed665fcba4f → KILLING
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'rJ4ykBPurLSK3UqbelQ2AvnEjz8egW6O8IYyrtVIvMcnipZdgrrjjPw0Id6nEV51'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'ps6Ldm9yhnM61dGW6Q1BxeFa2qvmtku9kS6lKaEgjk4eC46sbgmgmdNECWUP9mNI'
+  }
+]

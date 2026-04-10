@@ -1,0 +1,944 @@
+bullish inside bar on TOWNSUSDT
+we recieve signal to trail: 68d3f007099f9de77119b413-GASUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-9fbc03a84a1547-x-15PC4ZJy_Xcdr_tp-9fbc03a84a1547 1.646 {
+  side: 'BUY',
+  symbol: 'GASUSDT',
+  positionSide: 'LONG',
+  currentSL: 1.622,
+  currentTP: 2.627,
+  qty: '9',
+  trailCount: 0,
+  isScalping: false,
+  nextTriggerPrice: 1.641464,
+  nextSL: 1.634165,
+  nextTP: 2.646702,
+  bigMoveTriggerPrice: 2.1897,
+  bigMoveNextSL: 2.1086,
+  bigMoveNextTP: 3.4151,
+  slClientId: 'x-15PC4ZJy_Xcdr_sl-9fbc03a84a1547',
+  tpClientId: 'x-15PC4ZJy_Xcdr_tp-9fbc03a84a1547'
+}
+68d3f007099f9de77119b413-GASUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-9fbc03a84a1547-x-15PC4ZJy_Xcdr_tp-9fbc03a84a1547 GASUSDT LONG 9 BUY
+bullish inside bar on BIOUSDT
+bullish inside bar on ILVUSDT
+bullish inside bar on TRUUSDT
+bearish inside bar on ACXUSDT
+bearish engulfing top on 1000BONKUSDT
+bullish inside bar on PAXGUSDT
+bullish inside bar on TREEUSDT
+bullish inside bar on LIGHTUSDT
+bullish inside bar on LUMIAUSDT
+bullish engulfinfg top on HIPPOUSDT
+we recieve signal to trail: 68d3f007099f9de77119b413-GASUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-44b5566e7cdd45-x-15PC4ZJy_Xcdr_tp-44b5566e7cdd45 1.697 {
+  side: 'BUY',
+  symbol: 'GASUSDT',
+  positionSide: 'LONG',
+  currentSL: 1.634165,
+  currentTP: 2.646702,
+  qty: '9',
+  trailCount: 1,
+  isScalping: false,
+  nextTriggerPrice: 1.666848,
+  nextSL: 1.650507,
+  nextTP: 2.673169,
+  bigMoveTriggerPrice: 2.1897,
+  bigMoveNextSL: 2.1086,
+  bigMoveNextTP: 3.4151,
+  slClientId: 'x-15PC4ZJy_Xcdr_sl-44b5566e7cdd45',
+  tpClientId: 'x-15PC4ZJy_Xcdr_tp-44b5566e7cdd45'
+}
+68d3f007099f9de77119b413-GASUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-44b5566e7cdd45-x-15PC4ZJy_Xcdr_tp-44b5566e7cdd45 GASUSDT LONG 9 BUY
+[32m[Nest] 60223  - [39m03/16/2026, 12:03:21 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 0cS97V9wYiJPFvb6AAG_[39m
+Client connecting: dZvXBK0L7RU4Qlg3AAHB with accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:03:21 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MzMwOTc2NCwiZXhwIjoxNzc2NzY1NzY0fQ.1JmyvI56P0yoPvkaotQJqkB5LieyA5RJ-_6d5QJuisg[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:03:22 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: dZvXBK0L7RU4Qlg3AAHB[39m
+Client connecting: bm8iOZjGGATJX2P8AAHD with accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:03:22 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MzMwOTc2NCwiZXhwIjoxNzc2NzY1NzY0fQ.1JmyvI56P0yoPvkaotQJqkB5LieyA5RJ-_6d5QJuisg[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+bearish inside bar on PARTIUSDT
+bearish inside bar on LISTAUSDT
+[68d3f007099f9de77119b413] Current open positions: 3
+bearish inside bar on TWTUSDT
+bearish inside bar on RDNTUSDT
+[68d3f007099f9de77119b413] Current open positions: 3
+[68d3f007099f9de77119b413] Current open positions: 3
+[
+  'Completed keep alive cycle for listenKey(mzlJnePJ0jv5vlQ1rwjJb4pDWsJ14rOzr2G0aErtOGBDLrVV3Wj6CY8p2eTHdqZz) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'mzlJnePJ0jv5vlQ1rwjJb4pDWsJ14rOzr2G0aErtOGBDLrVV3Wj6CY8p2eTHdqZz'
+  }
+]
+we recieve signal to trail: 68d3f007099f9de77119b413-GASUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-74d16d6dee9743-x-15PC4ZJy_Xcdr_tp-74d16d6dee9743 1.69 {
+  side: 'BUY',
+  symbol: 'GASUSDT',
+  positionSide: 'LONG',
+  currentSL: 1.650507,
+  currentTP: 2.673169,
+  qty: '9',
+  trailCount: 2,
+  isScalping: false,
+  nextTriggerPrice: 1.683517,
+  nextSL: 1.667012,
+  nextTP: 2.699901,
+  bigMoveTriggerPrice: 2.1897,
+  bigMoveNextSL: 2.1086,
+  bigMoveNextTP: 3.4151,
+  slClientId: 'x-15PC4ZJy_Xcdr_sl-74d16d6dee9743',
+  tpClientId: 'x-15PC4ZJy_Xcdr_tp-74d16d6dee9743'
+}
+68d3f007099f9de77119b413-GASUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-74d16d6dee9743-x-15PC4ZJy_Xcdr_tp-74d16d6dee9743 GASUSDT LONG 9 BUY
+bearish inside bar on MUSDT
+[32m[Nest] 60223  - [39m03/16/2026, 12:06:34 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: bm8iOZjGGATJX2P8AAHD[39m
+Client connecting: 3PfOePKt75Z0Sz21AAHF with accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:06:35 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MzMwOTc2NCwiZXhwIjoxNzc2NzY1NzY0fQ.1JmyvI56P0yoPvkaotQJqkB5LieyA5RJ-_6d5QJuisg[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:06:35 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 3PfOePKt75Z0Sz21AAHF[39m
+Client connecting: i_15u0G3oeva3mkoAAHH with accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:06:35 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MzMwOTc2NCwiZXhwIjoxNzc2NzY1NzY0fQ.1JmyvI56P0yoPvkaotQJqkB5LieyA5RJ-_6d5QJuisg[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+we recieve signal to trail: 68d3f007099f9de77119b413-GASUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-5a02922289a04c-x-15PC4ZJy_Xcdr_tp-5a02922289a04c 1.707 {
+  side: 'BUY',
+  symbol: 'GASUSDT',
+  positionSide: 'LONG',
+  currentSL: 1.667012,
+  currentTP: 2.699901,
+  qty: '9',
+  trailCount: 3,
+  isScalping: false,
+  nextTriggerPrice: 1.700352,
+  nextSL: 1.683682,
+  nextTP: 2.7269,
+  bigMoveTriggerPrice: 2.1897,
+  bigMoveNextSL: 2.1086,
+  bigMoveNextTP: 3.4151,
+  slClientId: 'x-15PC4ZJy_Xcdr_sl-5a02922289a04c',
+  tpClientId: 'x-15PC4ZJy_Xcdr_tp-5a02922289a04c'
+}
+68d3f007099f9de77119b413-GASUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-5a02922289a04c-x-15PC4ZJy_Xcdr_tp-5a02922289a04c GASUSDT LONG 9 BUY
+bullish inside bar on DOGEUSDT
+bullish inside bar on 1000BONKUSDT
+bearish inside bar on BTCDOMUSDT
+[32m[Nest] 60223  - [39m03/16/2026, 12:08:02 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: i_15u0G3oeva3mkoAAHH[39m
+bearish inside bar on KAIAUSDT
+bearish harami top on KOMAUSDT
+bearish inside bar on KOMAUSDT
+Client connecting: W3Va34pQw828LG2nAAHJ with accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:08:03 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MzMwOTc2NCwiZXhwIjoxNzc2NzY1NzY0fQ.1JmyvI56P0yoPvkaotQJqkB5LieyA5RJ-_6d5QJuisg[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:08:03 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: W3Va34pQw828LG2nAAHJ[39m
+[68d3f007099f9de77119b413] Current open positions: 3
+Client connecting: OF4KAeklcoSmk12TAAHL with accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:08:03 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MzMwOTc2NCwiZXhwIjoxNzc2NzY1NzY0fQ.1JmyvI56P0yoPvkaotQJqkB5LieyA5RJ-_6d5QJuisg[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+bearish inside bar on KOMAUSDT
+[32m[Nest] 60223  - [39m03/16/2026, 12:08:32 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: OF4KAeklcoSmk12TAAHL[39m
+Client connecting: m86SdkYLZxSXyWgIAAHN with accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:08:33 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MzMwOTc2NCwiZXhwIjoxNzc2NzY1NzY0fQ.1JmyvI56P0yoPvkaotQJqkB5LieyA5RJ-_6d5QJuisg[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:08:33 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: m86SdkYLZxSXyWgIAAHN[39m
+Client connecting: GqTWSqCj_wt_dCK9AAHP with accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:08:34 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MzMwOTc2NCwiZXhwIjoxNzc2NzY1NzY0fQ.1JmyvI56P0yoPvkaotQJqkB5LieyA5RJ-_6d5QJuisg[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+we recieve signal to trail: 68d3f007099f9de77119b413-GASUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-e4c0a4e6b48749-x-15PC4ZJy_Xcdr_tp-e4c0a4e6b48749 1.733 {
+  side: 'BUY',
+  symbol: 'GASUSDT',
+  positionSide: 'LONG',
+  currentSL: 1.683682,
+  currentTP: 2.7269,
+  qty: '9',
+  trailCount: 4,
+  isScalping: false,
+  nextTriggerPrice: 1.717356,
+  nextSL: 1.700519,
+  nextTP: 2.754169,
+  bigMoveTriggerPrice: 2.1897,
+  bigMoveNextSL: 2.1086,
+  bigMoveNextTP: 3.4151,
+  slClientId: 'x-15PC4ZJy_Xcdr_sl-e4c0a4e6b48749',
+  tpClientId: 'x-15PC4ZJy_Xcdr_tp-e4c0a4e6b48749'
+}
+68d3f007099f9de77119b413-GASUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-e4c0a4e6b48749-x-15PC4ZJy_Xcdr_tp-e4c0a4e6b48749 GASUSDT LONG 9 BUY
+bearish inside bar on ILVUSDT
+bullish inside bar on HIPPOUSDT
+bearish inside bar on AINUSDT
+bearish inside bar on TREEUSDT
+[32m[Nest] 60223  - [39m03/16/2026, 12:09:11 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: GqTWSqCj_wt_dCK9AAHP[39m
+Client connecting: skbhSXOsMh54iwyTAAHR with accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:09:12 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MzMwOTc2NCwiZXhwIjoxNzc2NzY1NzY0fQ.1JmyvI56P0yoPvkaotQJqkB5LieyA5RJ-_6d5QJuisg[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:09:12 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: skbhSXOsMh54iwyTAAHR[39m
+Client connecting: RexaJR5r68W7gqJFAAHT with accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:09:13 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MzMwOTc2NCwiZXhwIjoxNzc2NzY1NzY0fQ.1JmyvI56P0yoPvkaotQJqkB5LieyA5RJ-_6d5QJuisg[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+we recieve signal to trail: 68d3f007099f9de77119b413-GASUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-c2503785481e48-x-15PC4ZJy_Xcdr_tp-c2503785481e48 1.736 {
+  side: 'BUY',
+  symbol: 'GASUSDT',
+  positionSide: 'LONG',
+  currentSL: 1.700519,
+  currentTP: 2.754169,
+  qty: '9',
+  trailCount: 5,
+  isScalping: false,
+  nextTriggerPrice: 1.734529,
+  nextSL: 1.717524,
+  nextTP: 2.781711,
+  bigMoveTriggerPrice: 2.1897,
+  bigMoveNextSL: 2.1086,
+  bigMoveNextTP: 3.4151,
+  slClientId: 'x-15PC4ZJy_Xcdr_sl-c2503785481e48',
+  tpClientId: 'x-15PC4ZJy_Xcdr_tp-c2503785481e48'
+}
+68d3f007099f9de77119b413-GASUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-c2503785481e48-x-15PC4ZJy_Xcdr_tp-c2503785481e48 GASUSDT LONG 9 BUY
+bearish inside bar on JOEUSDT
+bearish inside bar on BNBUSDT
+bearish inside bar on ACHUSDT
+bearish inside bar on ACHUSDT
+bearish inside bar on KERNELUSDT
+bearish inside bar on LISTAUSDT
+[68d3f007099f9de77119b413] Current open positions: 3
+bullish inside bar on XVSUSDT
+bearish harami top on AIOUSDT
+bearish inside bar on AIOUSDT
+[68d3f007099f9de77119b413] Current open positions: 3
+bearish inside bar on ESPORTSUSDT
+we recieve signal to trail: 68d3f007099f9de77119b413-GASUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-d9720466fc8f4d-x-15PC4ZJy_Xcdr_tp-d9720466fc8f4d 1.773 {
+  side: 'BUY',
+  symbol: 'GASUSDT',
+  positionSide: 'LONG',
+  currentSL: 1.717524,
+  currentTP: 2.781711,
+  qty: '9',
+  trailCount: 6,
+  isScalping: false,
+  nextTriggerPrice: 1.751874,
+  nextSL: 1.734699,
+  nextTP: 2.809528,
+  bigMoveTriggerPrice: 2.1897,
+  bigMoveNextSL: 2.1086,
+  bigMoveNextTP: 3.4151,
+  slClientId: 'x-15PC4ZJy_Xcdr_sl-d9720466fc8f4d',
+  tpClientId: 'x-15PC4ZJy_Xcdr_tp-d9720466fc8f4d'
+}
+68d3f007099f9de77119b413-GASUSDT-LONG-BUY-x-15PC4ZJy_Xcdr_sl-d9720466fc8f4d-x-15PC4ZJy_Xcdr_tp-d9720466fc8f4d GASUSDT LONG 9 BUY
+bearish inside bar on ZKCUSDT
+bearish inside bar on XRPUSDT
+bearish inside bar on CYBERUSDT
+bearish inside bar on PENDLEUSDT
+bearish inside bar on DOGEUSDT
+bearish inside bar on PYTHUSDT
+bearish inside bar on RUNEUSDT
+bearish inside bar on RUNEUSDT
+[68d3f007099f9de77119b413] Current open positions: 3
+[68d3f007099f9de77119b413] Current open positions: 3
+bearish inside bar on MERLUSDT
+[32m[Nest] 60223  - [39m03/16/2026, 12:12:18 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: RexaJR5r68W7gqJFAAHT[39m
+Client connecting: xnDNre6Z0LJp-DFIAAHV with accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:12:20 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MzMwOTc2NCwiZXhwIjoxNzc2NzY1NzY0fQ.1JmyvI56P0yoPvkaotQJqkB5LieyA5RJ-_6d5QJuisg[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:12:20 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: xnDNre6Z0LJp-DFIAAHV[39m
+Client connecting: -U6BSSJ4pPVFHagoAAHX with accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:12:20 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MzMwOTc2NCwiZXhwIjoxNzc2NzY1NzY0fQ.1JmyvI56P0yoPvkaotQJqkB5LieyA5RJ-_6d5QJuisg[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:13:39 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: -U6BSSJ4pPVFHagoAAHX[39m
+Client connecting: PxUH700C7_KHS9hfAAHZ with accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:13:40 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MzMwOTc2NCwiZXhwIjoxNzc2NzY1NzY0fQ.1JmyvI56P0yoPvkaotQJqkB5LieyA5RJ-_6d5QJuisg[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:13:40 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: PxUH700C7_KHS9hfAAHZ[39m
+Client connecting: dV_tIBrIuGUnon_EAAHb with accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:13:40 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MzMwOTc2NCwiZXhwIjoxNzc2NzY1NzY0fQ.1JmyvI56P0yoPvkaotQJqkB5LieyA5RJ-_6d5QJuisg[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:14:06 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: dV_tIBrIuGUnon_EAAHb[39m
+bearish inside bar on POLUSDT
+bullish inside bar on EVAAUSDT
+[68d3f007099f9de77119b413] Current open positions: 3
+bullish inside bar on ESPORTSUSDT
+[68d3f007099f9de77119b413] Current open positions: 3
+bullish inside bar on QUSDT
+bearish inside bar on LUMIAUSDT
+bullish inside bar on ZKCUSDT
+[68d3f007099f9de77119b413] Current open positions: 3
+bearish inside bar on 1000RATSUSDT
+[68d3f007099f9de77119b413] UNWANTED ENTRY → GASUSDT undefined x-15PC4ZJy_Xcdr_sl-a0a7774b79a14c → KILLING
+bearish engulfing top on BNBUSDT
+bullish inside bar on VETUSDT
+bullish engulfinfg top on 1000FLOKIUSDT
+bullish inside bar on PENDLEUSDT
+[68d3f007099f9de77119b413] Current open positions: 2
+bullish inside bar on JUPUSDT
+bullish inside bar on ZKJUSDT
+bearish inside bar on MOVEUSDT
+bearish inside bar on CFXUSDT
+bearish inside bar on ACXUSDT
+bearish inside bar on WALUSDT
+bearish inside bar on ILVUSDT
+bearish inside bar on AGLDUSDT
+bearish inside bar on 1000RATSUSDT
+bearish inside bar on MITOUSDT
+bearish inside bar on FLUXUSDT
+bearish inside bar on TACUSDT
+bearish inside bar on SUNUSDT
+Client connecting: I0tQnvLV1GkK_aH6AAHd with accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:21:32 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MzMwOTc2NCwiZXhwIjoxNzc2NzY1NzY0fQ.1JmyvI56P0yoPvkaotQJqkB5LieyA5RJ-_6d5QJuisg[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:21:32 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: I0tQnvLV1GkK_aH6AAHd[39m
+Client connecting: JV74_RjRJClEysxdAAHf with accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:21:32 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MzMwOTc2NCwiZXhwIjoxNzc2NzY1NzY0fQ.1JmyvI56P0yoPvkaotQJqkB5LieyA5RJ-_6d5QJuisg[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+bullish inside bar on TRUUSDT
+bearish inside bar on SYRUPUSDT
+[68d3f007099f9de77119b413] Current open positions: 2
+bearish inside bar on ORDERUSDT
+bearish inside bar on 0GUSDT
+bearish inside bar on PENDLEUSDT
+bearish inside bar on FUSDT
+bearish inside bar on ARIAUSDT
+bearish engulfing top on ILVUSDT
+[32m[Nest] 60223  - [39m03/16/2026, 12:23:06 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: JV74_RjRJClEysxdAAHf[39m
+Client connecting: ET34vZTIHpe2dR7mAAHh with accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:23:07 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MzMwOTc2NCwiZXhwIjoxNzc2NzY1NzY0fQ.1JmyvI56P0yoPvkaotQJqkB5LieyA5RJ-_6d5QJuisg[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:23:08 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: ET34vZTIHpe2dR7mAAHh[39m
+Client connecting: Z9ccZthF0T-fc4CMAAHj with accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:23:08 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MzMwOTc2NCwiZXhwIjoxNzc2NzY1NzY0fQ.1JmyvI56P0yoPvkaotQJqkB5LieyA5RJ-_6d5QJuisg[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:23:37 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: Z9ccZthF0T-fc4CMAAHj[39m
+Client connecting: 7k4V0LrEFlqHX60dAAHl with accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:23:38 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MzMwOTc2NCwiZXhwIjoxNzc2NzY1NzY0fQ.1JmyvI56P0yoPvkaotQJqkB5LieyA5RJ-_6d5QJuisg[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:23:38 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 7k4V0LrEFlqHX60dAAHl[39m
+Client connecting: _W24nAxQxxXS7UDpAAHn with accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:23:38 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MzMwOTc2NCwiZXhwIjoxNzc2NzY1NzY0fQ.1JmyvI56P0yoPvkaotQJqkB5LieyA5RJ-_6d5QJuisg[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+bearish inside bar on BNBUSDT
+bearish inside bar on XRPUSDT
+bullish inside bar on PARTIUSDT
+bullish inside bar on TOWNSUSDT
+bearish inside bar on JUPUSDT
+[68d3f007099f9de77119b413] Current open positions: 2
+bearish inside bar on BCHUSDT
+bearish inside bar on EVAAUSDT
+[68d3f007099f9de77119b413] Current open positions: 2
+bearish inside bar on AXSUSDT
+bearish inside bar on AXSUSDT
+bearish inside bar on AXSUSDT
+bearish inside bar on BCHUSDT
+bearish inside bar on DYMUSDT
+[32m[Nest] 60223  - [39m03/16/2026, 12:27:52 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: _W24nAxQxxXS7UDpAAHn[39m
+bearish inside bar on FUSDT
+bearish inside bar on STOUSDT
+bearish inside bar on USELESSUSDT
+bearish inside bar on 1000BONKUSDT
+bearish inside bar on XRPUSDT
+bearish inside bar on BNBUSDT
+bullish inside bar on MELANIAUSDT
+bearish engulfing top on HEIUSDT
+bullish inside bar on STGUSDT
+bearish inside bar on PLUMEUSDT
+bullish inside bar on LPTUSDT
+[68d3f007099f9de77119b413] Current open positions: 2
+bullish inside bar on ORDERUSDT
+[68d3f007099f9de77119b413] UNWANTED ENTRY → ETHWUSDT undefined x-15PC4ZJy_Xcdr_sl-e1184506faa34a → KILLING
+bullish inside bar on SCRUSDT
+bearish inside bar on RLCUSDT
+bullish inside bar on BCHUSDT
+bullish inside bar on NOTUSDT
+bullish inside bar on JUPUSDT
+bullish inside bar on QTUMUSDT
+bullish inside bar on QTUMUSDT
+[68d3f007099f9de77119b413] Current open positions: 1
+bullish inside bar on YFIUSDT
+[68d3f007099f9de77119b413] Current open positions: 1
+bullish inside bar on VETUSDT
+bullish inside bar on LINEAUSDT
+bearish inside bar on PAXGUSDT
+[68d3f007099f9de77119b413] Current open positions: 1
+bearish engulfing top on 1000BONKUSDT
+bullish harami top on 1000BONKUSDT
+bearish inside bar on HEIUSDT
+bearish inside bar on WUSDT
+[68d3f007099f9de77119b413] UNWANTED ENTRY → MONUSDT undefined x-15PC4ZJy_Xcdr_sl-f30418e2650b4a → KILLING
+bearish engulfing top on TOWNSUSDT
+bearish inside bar on DAMUSDT
+bearish inside bar on QUSDT
+bullish inside bar on CFXUSDT
+bullish inside bar on MITOUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish engulfing top on ZETAUSDT
+bearish engulfing top on FLUXUSDT
+bullish inside bar on COAIUSDT
+bullish inside bar on TAGUSDT
+bearish inside bar on TRBUSDT
+bearish engulfing top on DOGEUSDT
+bullish inside bar on ETHWUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bullish inside bar on COWUSDT
+bullish inside bar on 1000RATSUSDT
+bullish inside bar on ESPORTSUSDT
+bullish inside bar on AXSUSDT
+bullish inside bar on NOTUSDT
+bullish inside bar on HUMAUSDT
+bullish inside bar on MAVUSDT
+bullish inside bar on TOWNSUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bullish inside bar on COTIUSDT
+bullish inside bar on PUFFERUSDT
+bullish inside bar on BASUSDT
+bullish inside bar on AKEUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+Client connecting: jPEuhdzP0qCGI3HDAAHp with accountId: default
+bearish inside bar on HEIUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+Client connecting: ek2oGPVn89QBwEdhAAHr with accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:53:08 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MzMwOTc2NCwiZXhwIjoxNzc2NzY1NzY0fQ.1JmyvI56P0yoPvkaotQJqkB5LieyA5RJ-_6d5QJuisg[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:53:08 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: ek2oGPVn89QBwEdhAAHr[39m
+Client connecting: 0-iko6UCM-x1inO4AAHt with accountId: default
+[32m[Nest] 60223  - [39m03/16/2026, 12:53:08 AM [32m    LOG[39m [38;5;3m[WsAuthGuard] [39m[32m🟢 Received Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDNmMDA3MDk5ZjlkZTc3MTE5YjQxMyIsImVtYWlsIjoicmFodWxzaGVuZGU0ODNAZ21haWwuY29tIiwibW9iaWxlIjoiOTg4MTAzNzg0NiIsImlhdCI6MTc3MzMwOTc2NCwiZXhwIjoxNzc2NzY1NzY0fQ.1JmyvI56P0yoPvkaotQJqkB5LieyA5RJ-_6d5QJuisg[39m
+Authenticated user: 68d3f007099f9de77119b413 for accountId: default
+[
+  'Completed keep alive cycle for listenKey(mzlJnePJ0jv5vlQ1rwjJb4pDWsJ14rOzr2G0aErtOGBDLrVV3Wj6CY8p2eTHdqZz) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'mzlJnePJ0jv5vlQ1rwjJb4pDWsJ14rOzr2G0aErtOGBDLrVV3Wj6CY8p2eTHdqZz'
+  }
+]
+bullish inside bar on ONGUSDT
+bullish inside bar on POLUSDT
+bullish inside bar on POLUSDT
+[32m[Nest] 60223  - [39m03/16/2026, 12:56:03 AM [32m    LOG[39m [38;5;3m[ManualLiveGateway] [39m[32mClient disconnected: 0-iko6UCM-x1inO4AAHt[39m
+bullish inside bar on 0GUSDT
+bullish inside bar on WUSDT
+bullish inside bar on LPTUSDT
+bullish inside bar on HEIUSDT
+bearish engulfing top on DODOXUSDT
+bullish harami top on DODOXUSDT
+bullish inside bar on DODOXUSDT
+bullish inside bar on GASUSDT
+bullish inside bar on GASUSDT
+bearish inside bar on PUFFERUSDT
+bearish inside bar on LINEAUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on KERNELUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bullish inside bar on SANTOSUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on PENDLEUSDT
+bearish inside bar on POLUSDT
+bullish inside bar on LRCUSDT
+bearish inside bar on KGENUSDT
+bearish inside bar on WUSDT
+bearish inside bar on BBUSDT
+bullish inside bar on DAMUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bullish inside bar on DAMUSDT
+bearish inside bar on BROCCOLI714USDT
+bearish inside bar on BASUSDT
+bullish inside bar on XVSUSDT
+bearish inside bar on 1000BONKUSDT
+bearish inside bar on ACHUSDT
+bearish inside bar on HEIUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bullish inside bar on ALPINEUSDT
+bearish engulfing top on QNTUSDT
+bullish inside bar on BASUSDT
+bullish inside bar on PARTIUSDT
+bearish inside bar on PAXGUSDT
+bearish inside bar on PAXGUSDT
+bearish inside bar on JELLYJELLYUSDT
+bearish inside bar on LISTAUSDT
+bearish inside bar on BBUSDT
+bearish harami top on CFXUSDT
+bearish inside bar on CFXUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on SCRUSDT
+bearish inside bar on SUNUSDT
+bearish inside bar on DODOXUSDT
+bullish inside bar on ESPORTSUSDT
+bearish inside bar on HIPPOUSDT
+bearish inside bar on DYMUSDT
+bearish engulfing top on XRPUSDT
+bearish inside bar on BTCDOMUSDT
+bullish engulfinfg top on DODOXUSDT
+bullish inside bar on ANKRUSDT
+bullish inside bar on ARCUSDT
+bullish inside bar on LQTYUSDT
+bullish inside bar on HUMAUSDT
+bullish inside bar on HUMAUSDT
+bullish inside bar on WCTUSDT
+bullish inside bar on BIOUSDT
+bullish inside bar on SKYAIUSDT
+bearish inside bar on DAMUSDT
+bearish inside bar on TAGUSDT
+bearish inside bar on CFXUSDT
+bearish inside bar on BASUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish engulfing top on BTCDOMUSDT
+bearish harami top on VETUSDT
+bullish harami top on BTCDOMUSDT
+bearish inside bar on VETUSDT
+bullish inside bar on BTCDOMUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on NOTUSDT
+bearish inside bar on GIGGLEUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bullish inside bar on EVAAUSDT
+bearish inside bar on ACTUSDT
+bullish inside bar on ETHWUSDT
+bullish inside bar on MUSDT
+bearish inside bar on GASUSDT
+bearish inside bar on AIXBTUSDT
+bearish inside bar on ARCUSDT
+bullish inside bar on 1INCHUSDT
+bearish inside bar on ORDERUSDT
+bearish inside bar on DOGEUSDT
+bearish inside bar on NOTUSDT
+bearish inside bar on BBUSDT
+bearish inside bar on WUSDT
+bearish inside bar on BROCCOLIF3BUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on BEAMXUSDT
+bearish engulfing top on CGPTUSDT
+bearish engulfing top on BRETTUSDT
+bullish inside bar on THEUSDT
+bullish harami top on BRETTUSDT
+bearish engulfing top on PARTIUSDT
+bearish engulfing top on ANKRUSDT
+bearish engulfing top on TREEUSDT
+bullish inside bar on EVAAUSDT
+bullish inside bar on BNBUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bullish engulfinfg top on LINEAUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish engulfing top on B2USDT
+bullish inside bar on FUNUSDT
+bullish inside bar on COAIUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on JOEUSDT
+bearish inside bar on ALPINEUSDT
+bullish inside bar on LRCUSDT
+bullish inside bar on PAXGUSDT
+bearish inside bar on NILUSDT
+[
+  'Completed keep alive cycle for listenKey(mzlJnePJ0jv5vlQ1rwjJb4pDWsJ14rOzr2G0aErtOGBDLrVV3Wj6CY8p2eTHdqZz) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'mzlJnePJ0jv5vlQ1rwjJb4pDWsJ14rOzr2G0aErtOGBDLrVV3Wj6CY8p2eTHdqZz'
+  }
+]
+bearish inside bar on CFXUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bullish inside bar on BNBUSDT
+bearish inside bar on QUSDT
+bullish inside bar on ACXUSDT
+bullish inside bar on SAHARAUSDT
+bullish engulfinfg top on BNBUSDT
+bearish inside bar on BTCDOMUSDT
+bullish inside bar on LISTAUSDT
+bullish inside bar on STGUSDT
+bullish inside bar on AGLDUSDT
+bullish inside bar on AGLDUSDT
+bullish inside bar on VETUSDT
+bullish inside bar on COOKIEUSDT
+bullish inside bar on COOKIEUSDT
+bullish inside bar on USELESSUSDT
+bullish inside bar on HIPPOUSDT
+bullish inside bar on AIOUSDT
+bullish inside bar on DYMUSDT
+bullish inside bar on NILUSDT
+bullish inside bar on PYTHUSDT
+bearish inside bar on EVAAUSDT
+bullish inside bar on 1000RATSUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bullish inside bar on ALPINEUSDT
+bullish inside bar on XRPUSDT
+bullish inside bar on AVAAIUSDT
+bullish inside bar on PENDLEUSDT
+bullish inside bar on HIVEUSDT
+bullish inside bar on VETUSDT
+bullish inside bar on ONGUSDT
+bullish engulfinfg top on PAXGUSDT
+bullish inside bar on 1INCHUSDT
+bullish inside bar on ESPORTSUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bullish inside bar on AIOUSDT
+bullish inside bar on AINUSDT
+bearish inside bar on GASUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on JUPUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish engulfing top on ANKRUSDT
+bullish inside bar on TRUUSDT
+bearish inside bar on FLUXUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on FLUXUSDT
+bearish inside bar on 0GUSDT
+bearish inside bar on TRBUSDT
+bearish inside bar on MITOUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on NOTUSDT
+bearish inside bar on 1000BONKUSDT
+bearish inside bar on AVAAIUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on AVAAIUSDT
+bullish inside bar on KGENUSDT
+bearish inside bar on KOMAUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on ATHUSDT
+bullish engulfinfg top on CFXUSDT
+bullish inside bar on GASUSDT
+bearish inside bar on BNBUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on ACHUSDT
+bearish inside bar on RUNEUSDT
+bearish inside bar on MOVEUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on QUSDT
+bearish engulfing top on MELANIAUSDT
+bullish inside bar on CYBERUSDT
+bullish inside bar on TOWNSUSDT
+bearish inside bar on MUSDT
+bullish inside bar on CTKUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bullish inside bar on TRBUSDT
+bullish engulfinfg top on XRPUSDT
+bullish inside bar on KOMAUSDT
+bullish inside bar on QNTUSDT
+bullish inside bar on QTUMUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on EVAAUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on BCHUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on LISTAUSDT
+bullish inside bar on CARVUSDT
+bearish inside bar on POLUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on TOWNSUSDT
+bearish inside bar on XRPUSDT
+bullish inside bar on TRBUSDT
+bearish inside bar on AIOUSDT
+bullish inside bar on BTCDOMUSDT
+bullish inside bar on PARTIUSDT
+bullish inside bar on PROMPTUSDT
+bullish inside bar on PROMPTUSDT
+bearish inside bar on HEIUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on HEIUSDT
+bearish inside bar on TAGUSDT
+bearish inside bar on SKYAIUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on TRBUSDT
+bearish inside bar on NOTUSDT
+bearish inside bar on JUPUSDT
+bearish inside bar on JUPUSDT
+bullish engulfinfg top on PROMPTUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bullish inside bar on KOMAUSDT
+bearish inside bar on NEOUSDT
+bearish inside bar on MITOUSDT
+bearish inside bar on POLUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on EVAAUSDT
+bearish inside bar on SYRUPUSDT
+bearish harami top on LISTAUSDT
+bearish inside bar on LISTAUSDT
+bearish engulfing top on MOCAUSDT
+bearish inside bar on PYTHUSDT
+bearish inside bar on BNBUSDT
+bearish inside bar on DAMUSDT
+bearish inside bar on ILVUSDT
+bearish inside bar on CYBERUSDT
+bearish inside bar on AIXBTUSDT
+bearish inside bar on LUMIAUSDT
+bearish inside bar on 1000BONKUSDT
+bearish inside bar on ONGUSDT
+bearish inside bar on ONGUSDT
+bullish inside bar on PLUMEUSDT
+bullish inside bar on THEUSDT
+bearish inside bar on SYRUPUSDT
+bearish inside bar on B2USDT
+bullish inside bar on THEUSDT
+bullish inside bar on AIXBTUSDT
+bullish inside bar on AIXBTUSDT
+bullish inside bar on QUSDT
+bearish inside bar on VETUSDT
+bearish inside bar on TRBUSDT
+bearish engulfing top on BRETTUSDT
+bullish inside bar on QNTUSDT
+bearish inside bar on ARCUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish engulfing top on WALUSDT
+bullish inside bar on PENDLEUSDT
+bearish inside bar on SYRUPUSDT
+bullish inside bar on COWUSDT
+bullish inside bar on NILUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on 1000BONKUSDT
+bearish inside bar on BNBUSDT
+bearish inside bar on 0GUSDT
+bearish inside bar on BNBUSDT
+bearish inside bar on 0GUSDT
+bearish inside bar on MAVUSDT
+bullish inside bar on TREEUSDT
+bullish inside bar on SCRUSDT
+bullish inside bar on BEAMXUSDT
+bearish inside bar on AVAAIUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+[
+  'Completed keep alive cycle for listenKey(mzlJnePJ0jv5vlQ1rwjJb4pDWsJ14rOzr2G0aErtOGBDLrVV3Wj6CY8p2eTHdqZz) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'mzlJnePJ0jv5vlQ1rwjJb4pDWsJ14rOzr2G0aErtOGBDLrVV3Wj6CY8p2eTHdqZz'
+  }
+]
+bearish inside bar on ICNTUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bullish inside bar on LQTYUSDT
+bullish inside bar on COTIUSDT
+bearish inside bar on DRIFTUSDT
+bearish inside bar on NEOUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish engulfing top on RDNTUSDT
+bullish inside bar on EVAAUSDT
+bullish inside bar on STOUSDT
+bullish inside bar on FETUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bullish inside bar on STGUSDT
+bullish inside bar on WUSDT
+bullish inside bar on EVAAUSDT
+bearish engulfing top on HIPPOUSDT
+bullish inside bar on SCRUSDT
+bullish inside bar on JUPUSDT
+bullish inside bar on BCHUSDT
+bullish inside bar on HEIUSDT
+bullish inside bar on BRETTUSDT
+bullish inside bar on CYBERUSDT
+bearish inside bar on ZKCUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on ZKCUSDT
+bearish inside bar on CFXUSDT
+bullish inside bar on DOGEUSDT
+bullish inside bar on 1000BONKUSDT
+bullish inside bar on SHELLUSDT
+bullish inside bar on JELLYJELLYUSDT
+bullish inside bar on ORDERUSDT
+bullish inside bar on XRPUSDT
+bearish inside bar on CGPTUSDT
+bearish inside bar on EVAAUSDT
+bullish inside bar on PARTIUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bullish inside bar on TREEUSDT
+bullish engulfinfg top on TREEUSDT
+bearish inside bar on MERLUSDT
+bullish inside bar on AGLDUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish engulfing top on LINEAUSDT
+bullish inside bar on MOVEUSDT
+bullish inside bar on COAIUSDT
+bullish inside bar on TREEUSDT
+bullish inside bar on DOGEUSDT
+bullish inside bar on JELLYJELLYUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bullish inside bar on RDNTUSDT
+bearish inside bar on HEIUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bullish inside bar on XRPUSDT
+bearish inside bar on TAGUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bullish inside bar on BCHUSDT
+bullish inside bar on KNCUSDT
+bullish inside bar on RUNEUSDT
+bullish inside bar on VETUSDT
+bullish inside bar on NOTUSDT
+bullish inside bar on BBUSDT
+bullish inside bar on BRETTUSDT
+bearish inside bar on USELESSUSDT
+bearish inside bar on BNBUSDT
+bearish inside bar on MERLUSDT
+bearish inside bar on SCRUSDT
+bearish inside bar on DAMUSDT
+bullish engulfinfg top on 1000BONKUSDT
+bullish inside bar on TRBUSDT
+bullish inside bar on BTCDOMUSDT
+bullish inside bar on BIOUSDT
+bullish inside bar on QNTUSDT
+bullish inside bar on BNBUSDT
+bullish inside bar on XRPUSDT
+bullish inside bar on MONUSDT
+bullish inside bar on 1000BONKUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+[68d3f007099f9de77119b413] Current open positions: 0
+bullish inside bar on WALUSDT
+bullish inside bar on BEAMXUSDT
+bullish inside bar on WALUSDT
+bullish inside bar on WALUSDT
+bearish inside bar on BCHUSDT
+bullish inside bar on SAPIENUSDT
+bearish inside bar on AIOUSDT
+bullish inside bar on HEIUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on RUNEUSDT
+bullish inside bar on OLUSDT
+bullish inside bar on TRUMPUSDT
+bullish inside bar on TRBUSDT
+bullish inside bar on AEVOUSDT
+bullish inside bar on PUFFERUSDT
+bearish inside bar on SHELLUSDT
+bullish inside bar on DOGEUSDT
+bullish inside bar on NILUSDT
+bullish inside bar on MONUSDT
+bullish inside bar on MONUSDT
+bullish inside bar on ALPINEUSDT
+bullish inside bar on BRETTUSDT
+bearish engulfing top on VELVETUSDT
+bullish inside bar on CGPTUSDT
+bearish inside bar on SAHARAUSDT
+bearish inside bar on BTCDOMUSDT
+bullish inside bar on DRIFTUSDT
+bullish inside bar on DRIFTUSDT
+bullish inside bar on PARTIUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on SHELLUSDT
+bearish inside bar on WOOUSDT
+bearish inside bar on BNBUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on ZKCUSDT
+bearish inside bar on ZKCUSDT
+bearish inside bar on SCRUSDT
+bearish inside bar on ILVUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on HEIUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bullish inside bar on SQDUSDT
+bearish inside bar on JELLYJELLYUSDT
+bearish inside bar on ACHUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bearish inside bar on ACHUSDT
+bearish inside bar on BEAMXUSDT
+[68d3f007099f9de77119b413] Current open positions: 0
+bullish inside bar on RUNEUSDT
+bearish inside bar on LISTAUSDT
+bullish inside bar on B2USDT
+bullish inside bar on TOWNSUSDT
+bullish inside bar on PENDLEUSDT
+bearish inside bar on BTCDOMUSDT
+bullish inside bar on MAVUSDT
+bullish inside bar on SAHARAUSDT
+bullish inside bar on SAHARAUSDT
+bullish inside bar on BCHUSDT
+bullish inside bar on STGUSDT
+bullish inside bar on BNBUSDT
+bullish inside bar on PYTHUSDT
+bullish inside bar on MERLUSDT
+bullish inside bar on 0GUSDT
+bullish inside bar on WALUSDT
+bullish inside bar on HIVEUSDT
+bullish inside bar on POLUSDT
+bullish inside bar on DYMUSDT
+bullish inside bar on FLUXUSDT
+bullish inside bar on 1000CATUSDT
+bullish inside bar on BROCCOLIF3BUSDT
+bullish inside bar on RDNTUSDT
+bullish inside bar on BIOUSDT
+[
+  'Completed keep alive cycle for listenKey(mzlJnePJ0jv5vlQ1rwjJb4pDWsJ14rOzr2G0aErtOGBDLrVV3Wj6CY8p2eTHdqZz) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'mzlJnePJ0jv5vlQ1rwjJb4pDWsJ14rOzr2G0aErtOGBDLrVV3Wj6CY8p2eTHdqZz'
+  }
+]
+bullish engulfinfg top on BNBUSDT
+bullish engulfinfg top on TREEUSDT
+bullish inside bar on VELVETUSDT
+bullish inside bar on ACHUSDT
+bullish inside bar on SHELLUSDT
+bearish inside bar on ICNTUSDT
+bullish inside bar on SAHARAUSDT
+[
+  'Completed keep alive cycle for listenKey(mzlJnePJ0jv5vlQ1rwjJb4pDWsJ14rOzr2G0aErtOGBDLrVV3Wj6CY8p2eTHdqZz) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'mzlJnePJ0jv5vlQ1rwjJb4pDWsJ14rOzr2G0aErtOGBDLrVV3Wj6CY8p2eTHdqZz'
+  }
+]
+[
+  'Completed keep alive cycle for listenKey(mzlJnePJ0jv5vlQ1rwjJb4pDWsJ14rOzr2G0aErtOGBDLrVV3Wj6CY8p2eTHdqZz) in market(usdm)',
+  {
+    category: 'binance-ws',
+    listenKey: 'mzlJnePJ0jv5vlQ1rwjJb4pDWsJ14rOzr2G0aErtOGBDLrVV3Wj6CY8p2eTHdqZz'
+  }
+]
+Account Config Update: {
+  eventType: 'ACCOUNT_CONFIG_UPDATE',
+  transactionTime: 1773638261772,
+  eventTime: 1773638261772,
+  assetConfiguration: { symbol: 'OGUSDT', leverage: 15 },
+  wsMarket: 'usdm',
+  wsKey: 'usdm_userData__mzlJnePJ0jv5vlQ1rwjJb4pDWsJ14rOzr2G0aErtOGBDLrVV3Wj6CY8p2eTHdqZz_usdm',
+  isWSAPIResponse: false
+}
+[68d3f007099f9de77119b413] UNWANTED ENTRY → OGUSDT undefined x-15PC4ZJy_Xcdr_sl-b4ef7a7f209747 → KILLING
+AUTO MARGIN ADDED → OGUSDT LONG | +0.08)
+[68d3f007099f9de77119b413] OGUSDT LONG | Position: 47 | Valid Bot PAIR Qty: 47
+[68d3f007099f9de77119b413] CANCEL USER GHOST SL/TP → x-15PC4ZJy_Xcdr_tp-b4ef7a7f209747 (TAKE_PROFIT_MARKET) Qty:20.0
+[68d3f007099f9de77119b413] No excess qty on OGUSDT LONG, only cleaned ghost orders
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +29ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTradingBotModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mDiscoveryModule dependencies initialized[39m[38;5;3m +0ms[39m
+✅ Successfully connected to MongoDB Atlas
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +2ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mJwtModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mJwtModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mScheduleModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mWebsocketModule dependencies initialized[39m[38;5;3m +13ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseCoreModule dependencies initialized[39m[38;5;3m +193ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAuthModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "refresh-data" message[39m[38;5;3m +18ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "order-preflight" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "place-full-order" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "close-position" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "set-block-status" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "add-margin" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "activate-burst" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "deactivate-burst" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "get-symbols" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[WebSocketsController] [39m[32mManualLiveGateway subscribed to the "modify-order" message[39m[38;5;3m +0ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAuthController {/auth}:[39m[38;5;3m +3ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/signup, POST} route[39m[38;5;3m +3ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/login, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:31 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/verify-token, GET} route[39m[38;5;3m +1ms[39m
+[68d3f007099f9de77119b413] Subscribed 1m klines for 480 symbols
+[32m[Nest] 74595  - [39m03/16/2026, 5:35:32 AM [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +408ms[39m
+✅ Server running on 3017 
+[
+  'Websocket connected',
+  {
+    category: 'binance-ws',
+    wsKey: 'usdm_userData__mzlJnePJ0jv5vlQ1rwjJb4pDWsJ14rOzr2G0aErtOGBDLrVV3Wj6CY8p2eTHdqZz_usdm'
+  }
+]
+[68d3f007099f9de77119b413] WS opened
+[ 'Websocket connected', { category: 'binance-ws', wsKey: 'usdm' } ]
+[68d3f007099f9de77119b413] WS opened
+[
+  `High topic count warning: subscribing to 480 topics for wsKey "usdm". You may encounter exchange rate limits and performance degradation. Consider reducing the number of subscriptions as Binance has "max topics per connection" limits. If you're repeatedly disconnected by Binance, split your topics per connection by making multiple WebsocketClient instances.`,
+  { category: 'binance-ws', wsKey: 'usdm', topicCount: 480 }
+]
+[sub1-68d3f007099f9de77119b413] Bot state fully restored — trailing active on all positions
+[68d3f007099f9de77119b413] TRAILING RESTORED → OGUSDT LONG | Mode: SWING (2%→0.4%)
+[68d3f007099f9de77119b413] Bot state fully restored — trailing active on all positions
+[68d3f007099f9de77119b413] OGUSDT LONG | Position: 11 | Valid Bot PAIR Qty: 11
+[68d3f007099f9de77119b413] No excess qty on OGUSDT LONG, only cleaned ghost orders

@@ -1,0 +1,4 @@
+Error: Notional <5: Entry=0.12245028, SL=0.1231, TP=-0.11750000000000133
+    at ManualTradingBotService.placeFullOrder (/home/ubuntu/GIT-ACTION-PIPELINE-TERMINAL-RS/backend/src/modules/tradingBotModule/trading-bot.service.ts:2236:13)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at ManualTradingBotService.checkForPatterns (/home/ubuntu/GIT-ACTION-PIPELINE-TERMINAL-RS/backend/src/modules/tradingBotModule/trading-bot.service.ts:896:19)
