@@ -1,8 +1,0 @@
-Error: ENTRY BLOCKED: Wait 27 min
-    at ManualTradingBotService.placeFullOrder (/home/ubuntu/GIT-ACTION-PIPELINE-TERMINAL-RS/backend/src/modules/tradingBotModule/trading-bot.service.ts:2212:13)
-    at processTicksAndRejections (node:internal/process/task_queues:95:5)
-    at ManualTradingBotService.checkForPatterns (/home/ubuntu/GIT-ACTION-PIPELINE-TERMINAL-RS/backend/src/modules/tradingBotModule/trading-bot.service.ts:560:19)
-Error: Notional <5: Entry=0.00976433, SL=0.0098, TP=-0.006240000000000042
-    at ManualTradingBotService.placeFullOrder (/home/ubuntu/GIT-ACTION-PIPELINE-TERMINAL-RS/backend/src/modules/tradingBotModule/trading-bot.service.ts:2236:13)
-    at processTicksAndRejections (node:internal/process/task_queues:95:5)
-    at ManualTradingBotService.checkForPatterns (/home/ubuntu/GIT-ACTION-PIPELINE-TERMINAL-RS/backend/src/modules/tradingBotModule/trading-bot.service.ts:896:19)
